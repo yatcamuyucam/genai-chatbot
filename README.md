@@ -11,7 +11,7 @@ Bu proje, Akbank GenAI Bootcamp kapsamında geliştirilmiş RAG (Retrieval-Augme
 Projenin canlı demosunu ziyaret edin:
 **[https://football-chatbook.streamlit.app/](https://football-chatbook.streamlit.app/)**
 
-<img width="856" height="744" alt="image" src="https://github.com/user-attachments/assets/023a51fd-d84e-46e1-8995-74a35b5bb388" />
+<img width="817" height="540" alt="image" src="https://github.com/user-attachments/assets/6ddc6dd2-c0bd-4700-80d6-ec0af7855c32" />
 
 
 ---
@@ -40,12 +40,24 @@ Bu projenin RAG mimarisi, en uygun bileşenleri bulmak için Google Colab üzeri
 
 ## Kullanılan Ana Teknolojiler
 
-* **Dil Modeli (LLM):** Google Gemini 1.5 Flash
+* **Dil Modeli (LLM):** Google Gemini 2.0 Flash
 * **Embedding Modeli:** Google text-embedding-004
 * **Framework:** LangChain (LCEL ile RAG zinciri oluşturmak için)
 * **Vektör Veritabanı:** ChromaDB (Yerel ve hızlı vektör araması için)
 * **Arayüz:** Streamlit (İnteraktif web uygulaması için)
 * **Dağıtım (Deployment):** Streamlit Community Cloud
+
+## Testler ve Hiperparametre Optimizasyonu
+
+Çalışan bir prototip elde etmek yeterli değildi; amaç, doğru ve "akıllı" cevapları almaktı. Bu nedenle, modelin davranışını iyileştirmek için çeşitli testler yapılmıştır:
+
+* **Hiperparametre Ayarlaması (`temperature`):**
+    * **Problem:** Başlangıçta `temperature` değeri `0.1-0.2` gibi düşük bir seviyede tutulmuştur. Bu ayar, modelin *deterministik* (öngörülebilir) davranmasına ancak katı olmasına neden oluyordu. Kullanıcının sorusu, kaynak metindeki ifadelerle **birebir (verbatim)** eşleşmediği sürece, model ilgili bağlamı bulmakta zorlanıyor veya "Bilgi bulamadım" yanıtı veriyordu.
+    * **Çözüm:** `temperature` değeri kademeli olarak artırılarak `0.4` seviyesine çekilmiştir. Bu optimizasyon, modelin yaratıcılık ve anlamsal esneklik (semantic flexibility) arasında bir denge kurmasını sağlamıştır. Model, artık birebir kelime eşleşmesi aramak yerine, sorgunun **anlamsal amacını** kaynak metinle daha iyi eşleştirmeye başlamıştır.
+
+* **Prompt Engineering (Gelişmiş Talimatlar):**
+    * **Problem:** Basit bir `template` ("Soruyu {context}'e göre cevapla") kullanıldığında, cevaplar kısa, formatlanmamış ve bazen eksik geliyordu.
+    * **Çözüm:** `prompt` şablonu üzerinde detaylı bir "Prompt Engineering" çalışması yapılmıştır. Modele, "IFAB Kural Kitabı" rolü (persona) atanmıştır. Ayrıca, cevapların formatını (`Doğrudan Cevap`, `Kuralın Detayları` vb.) net bir şekilde belirten yapısal talimatlar eklenmiştir. Bu iyileştirme, modelin yanıtlarının hem daha tutarlı hem de bir uzmandan geliyormuş gibi daha resmi ve güvenilir olmasını sağlamıştır.
 
 ## Çalışma Kılavuzu (Yerel Kurulum)
 
