@@ -1,19 +1,10 @@
-# Ana Uygulama ve Arayüz
 streamlit
 python-dotenv
-
-# LangChain Çekirdek Kütüphaneleri
 langchain
 langchain-core
-
-# LangChain Entegrasyonları
 langchain-community
 langchain-google-genai
 langchain-text-splitters
-
-# Google Generative AI
 google-generativeai
-
-# Veritabanı ve Veri Okuma
 chromadb
 PyMuPDF
