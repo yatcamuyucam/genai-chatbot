@@ -2,7 +2,7 @@ streamlit
 python-dotenv
 # Birbiriyle uyumlu olduğu bilinen, sabitlenmiş Langchain versiyonları
 langchain==0.2.10
-langchain-core==0.2.22
+langchain-core==0.2.23
 langchain-community==0.2.10
 langchain-google-genai==1.0.7
 langchain-text-splitters==0.2.2
