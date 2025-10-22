@@ -1,0 +1,3997 @@
+24 1
+/25
+Oyun
+Kuralları
+Oyun Kuralları
+Uygulaması (İngilizce Versiyonu)
+2
+2
+3
+Uluslararası Futbol Birliği Kurulu
+Münstergasse 9, 8001 Zürih, İsviçre
+T: +41 (0)44 245 1886, F: +41 (0)44 245 1887
+www.theifab.com
+Bu kitapçık, Uluslararası Futbol Birliği Kurulu’nun izni olmadan
+tamamen veya kısmen çoğaltılamaz veya tercüme edilemez.
+1 Temmuz 2024'den itibaren geçerlidir
+2024/25
+Oyun
+Kuralları
+6
+İçindekiler
+Kurallar Hakkında
+Notlar ve Düzenlemeler
+Oyun Kuralları Hakkında Notlar
+Genel Düzenlemeler
+Geçici Oyun Dışı Bırakma İçin Rehber (sin bins)
+Tekrar Değiştirebilir Oyuncular İçin Rehber
+Oyun Alanı
+Top
+Oyuncular
+Oyuncuların Ekipmanları
+Hakem
+Diğer Hakemler
+Maçın Süresi
+Oyunun Başlaması ve Tekrar Başlaması
+Topun Oyunda ve Oyun Dışı Olması
+Bir Maçın Sonucunu Belirleme
+Ofsayt
+Faul ve Fena Hareketler
+Serbest Vuruşlar
+Penaltı Vuruşu
+Taç Atışı
+Kale Vuruşu
+Köşe Vuruşu
+Ek Kalıcı Beyin Sarsıntısı Değişiklik Protokolü
+Oyun Kuralları 2024/25
+Oyun Kuralları 2024/25 | İçindekiler 7
+Video Yardımcı Hakem (VAR) Protokolü
+FIFA Kalite Programı
+Kural Değişikliklerinin Özeti
+Tüm Kural Değişikliklerinin Detayları
+Terimler Sözlüğü
+Futbol Kuruluşları
+Futbol Terimleri
+Hakem Terimleri
+Hakemler İçin Uygulama Rehberi
+Giriş
+Yer Alma, Hareketlenme ve Takım Çalışması
+Beden Dili, İletişim ve Düdük Kullanımı
+Diğer Tavsiyeler
+Kural Değişiklikleri 2024/25
+8
+9
+Kurallar
+Hakkında
+10
+Oyun Kuralları 2024/25 | Kurallar Hakkında 11
+Kuralların Felsefesi
+ve Ruhu
+Futbol, dünyadaki en büyük spordur. Her kıtada, her ülkede ve birçok farklı
+seviyede oynanır. Oyun Kurallarının, FIFA Dünya Kupasından™ uzak bir köyde
+küçük çocuklar arasındaki bir oyuna kadar, dünyanın her yerinde aynı olması
+gerçeği, futbolun iyiliği için her yerde kullanılması gereken önemli bir güçtür.
+Futbol, oyuna adalet getiren kurallara sahip olmalıdır – bu durum ‘güzel
+oyunun’ önemli bir temeli ve oyunun ‘ruhunun’ vazgeçilmez bir özelliğidir. En
+güzel maçlar, oyuncuların birbirlerine, maç görevlilerine ve kurallara saygılı
+oldukları ve bu nedenle hakeme nadiren ihtiyaç duyulan maçlardır.
+Futbol Kuralları diğer çoğu takım sporları ile karşılaştırıldığında göreceli
+olarak basittir, ancak pek çok durum ‘subjektif’ ve hakemler de insan olduğundan, bazı kararlar kaçınılmaz olarak �ikir çatışmasına ve tartışmaya neden
+olacaktır. Bazı insanlar için bu çatışmalar oyunun zevkinin ve çekiciliğinin
+parçasıdır ancak kararlar doğru da yanlış da olsa, oyunun ‘ruhu’ hakemlerin
+kararlarına her zaman saygı duyulmasını gerektirir. Tüm yetkililerin, özellikle
+teknik direktörler ve takım kaptanlarının, hakemlere ve verdikleri kararlara
+karşı saygı duyulması konusunda oyuna karşı açık sorumlulukları vardır.
+Zayıf katılımcı davranışı büyük endişe duyulan bir alandır ve oyuna dahil olan
+herkese saygılı davranılması çok önemlidir. IFAB, katılımcı davranışını
+iyileştirmek amacıyla, en üst iki yerel seviyedeki takımları veya üst düzey 'A'
+uluslararası takımları içermeyen yarışmalar için mevcut olan aşağıdaki
+denemeleri onayladı:
+• Çatışma durumlarından sonra sakinleşme süreleri
+• Oyuncuların kalabalıklaşmalarını ve/veya hakemlere mobbing uygulama
+olaylarını azaltmak/engellemek için hakemlerin yalnızca kaptanların girebileceği bir bölge oluşturabilmeleri
+12
+Ayrıca denemeler de vardır:
+• topu haksız yere çok uzun süre tutan kalecilerle daha etkili bir şekilde başa
+çıkmak
+• Hakemin, video yardımcı hakem (VAR) 'incelemesi' veya uzun VAR 'kontrolü'
+sonrasında nihai kararı açıkladığı ve duyurduğu süreç
+Kurallar her olası durumu ele alamaz, bu nedenle Kurallarda doğrudan bir hüküm
+bulunmadığı durumlarda IFAB, hakemin oyunun ve Kuralların 'ruhu' dahilinde bir
+karar vermesini bekler - bu durum genellikle şu soruyu sormayı içerir: ‘futbol ne
+ister/ne bekler?'
+Kurallar aynı zamanda oyuncuların güvenliğine ve refahına da katkıda bulunmalıdır
+ve ihtiyaç halinde kurallar aracılığıyla oyunun katılımcılarını desteklemek için hızlı
+ve uygun bir şekilde harekete geçmek IFAB'ın sorumluluğundadır.
+Başarılı denemelerin ardından, 'ek kalıcı beyin sarsıntısı değişikliklerinin'
+kullanımı artık kurallara bir yarışma seçeneği olarak dahil edilmiştir. Bu, takımların sayısal bir dezavantaj yaşamadan gerçekten beyin sarsıntısı geçiren veya
+beyin sarsıntısı geçirdiğinden şüphelenilen bir oyuncunun sağlığına öncelik
+vermesine olanak tanıyacaktır.
+Kazaların gerçekleşmesi kaçınılmazdır, ancak kurallar, oyuncuların sağlıklarını
+ve sporun adaletini dengeleyerek, oyunun olabildiğince güvenli hale gelmesi için
+yardımcı olmayı hede�ler. Bu durum hakemlerin çok agresif ve tehlikeli oynayan
+oyunculara karşı kuralları güçlü biçimde uygulamalarını gerektirir. Kurallar
+‘kontrolsüz müdahale’ ve ‘rakibin sağlığını tehlikeye sokma’ veya ‘aşırı güç
+kullanma’ gibi güvenli olmayan oyun şeklinin kabul edilemez olduğunu, disiplin
+ifadelerinde somutlaştırmıştır.
+IFAB, oyun kurallarının resmi oyun kuralları kitabından daha anlaşılır bir dil ve
+daha basit bir yapı kullanan basitleştirilmiş bir versiyonunu yayınlamıştır.
+‘Futbol Kuralları’ adı verilen basitleştirilmiş kurallardan oluşan bu yeni
+derleme, özellikle gençler, potansiyel veya yeni göreve başlayan hakemler, ara
+sıra hakemlik yapan yetişkinler, oyuncular, antrenörler (antrenörlük yeterliliği
+için çalışanlar dahil), seyirciler ve medya için kuralların daha kolay anlaşılmasını sağlamak için oluşturulmuştur.
+Daha fazla bilgi için, alfabetik olarak veya kategoriye göre görüntülenebilen
+basitleştirilmiş kuralların indirilebilir versiyonlarını da bulabileceğiniz
+https://www.footballrules.com adresini ziyaret edin.
+IFAB ayrıca Oyun Kurallarının sesli bir versiyonunu da hazırlamıştır; bu versiyona www.theifab.com adresinden ulaşılabilir.
+13
+14
+Kural Değişikliklerinin
+Yönetimi
+Futbol; hangi yaş, cinsiyet, ırk, din, kültür, etnik köken, cinsel eğilim veya
+engele sahip olurlarsa olsunlar tüm seyirciler, taraftarlar ve yöneticiler kadar
+oyuncular, maç görevlileri ve teknik direktörler için de çekici ve eğlenceli
+kalmalıdır.
+Bu nedenle, değiştirilecek bir Kural için, IFAB ve karar verme sürecindeki tüm
+kurulları, yapılacak değişikliğin oyuna getireceği fayda konusunda ikna
+olmalıdır ki bu da potansiyel değişikliğin bazen test edilmesi ve/veya
+denenmesi gerektiği anlamına gelir.
+Önerilen her değişiklikte, odak noktası adalet, dürüstlük, saygı, güvenlik,
+katılımcıların ve seyircilerin memnuniyeti ve eğer uygunsa teknolojinin
+oyunu geliştirmek için kullanılmasıdır.
+IFAB, Kurallardaki değişikliklerin her seviye futbolda ve dünyanın her
+köşesinde futbola fayda getirmesi için küresel futbol topluluğu ile etkileşimde
+olmaya devam edecektir ve böylelikle oyunun bütünlüğüne, kurallara ve maç
+görevlilierine saygı duyulacak, değer verilecek ve korunacaktır.
+Oyun Kuralları 2024/25 | Kurallar Hakkında 15
+Gelecek
+IFAB oyuncu sağlığına, katılımcı davranışlarını geliştirmeye ve oyunu daha
+adil, katılmak ve izlemek için daha çekici hale getirmeye odaklanmasını
+sürdürerek danışma kurulları ile birlikte çalışmaya ve geniş ölçüde görüş
+alışverişinde bulunmaya devam edecektir.
+Kuralların 'evrenselliğini' korumak ayrıca önemlidir, böylece genç oyuncular
+maçları televizyonda izleyebilir ve daha sonra dışarı çıkıp gördüklerini
+uygulamaya çalışabilirler.
+IFAB dünyanın her yerindeki insanlar ile iletişime geçmekten çok büyük keyif
+almakta ve Oyun Kurallarıyla ilgili öneriler ve sorular almaktan her zaman
+memnuniyet duymaktadır.
+Lütfen önerilerinizi, �ikirlerinizi ve sorularınızı lawenquiries@theifab.com.
+adresine iletmeye devam ediniz.
+Oyun Kurallarının geçmişi ve denemeler dahil güncel gelişmeler hakkında
+ayrıntılı bilgi için lütfen web sitemizi ziyaret edin: www.theifab.com.
+Notlar ve
+Düzenlemeler
+Resmi Diller
+IFAB Oyun Kurallarını İngilizce, Fransızca, Almanca ve İspanyolca
+yayımlamaktadır. Eğer ifade tarzında bir farklılık varsa, İngilizce metin
+geçerlidir.
+Diğer Diller
+Oyun Kurallarını tercüme eden Ulusal Futbol Federasyonları, Kuralların
+2024/25 sürümünün şablonunu IFAB’la irtibat kurarak elde edebilir:
+info@the.ifab.com.
+Bu formatı kullanarak Oyun Kurallarını tercüme eden Ulusal Futbol
+Federasyonları, IFAB’a bir kopyasını göndermeye davet edilmektedir (ön
+kapakta Ulusal Futbol Federasyonu’nun resmi çevirisi olduğu açıkça
+belirtilmelidir), böylece başkalarının kullanması için IFAB internet sitesinde
+yayımlayabilir.
+Ölçümler
+Metrik birim ile İngiliz ölçü birimi arasında uyumsuzluk varsa, metrik
+birimler esas alınır.
+Kuralların Uygulanması
+IFAB tarafından izin verilen düzenlemeler dışında, aynı kurallar, her
+konfederasyonun, ülkenin, şehrin ve köyün bütün maçlarında uygulanır.
+(Genel Düzenlemelere bakınız). Kurallar, IFAB’ın izni olmadan düzenlenemez
+veya değiştirilemez.
+Hakemlere ve diğer katılımcılara eğitim verenler şunu vurgulamalıdır:
+• Hakemler, adil ve güvenli bir maç ortamı sağlamak için Kuralları oyunun
+‘ruhu’ kapsamında uygulamalıdır
+Oyun Kuralları 2024/25 | Notlar ve Düzenlemeler 17
+.
+Oyun Kuralları Hakkında
+Notlar
+• Herkes hakemlere ve verdikleri kararlara saygılı olmalıdır. Hakemlerin de
+insan olduğu ve hata yapabilecekleri unutulmamalıdır.
+Oyuncuların oyunun imajıyla ilgili büyük bir sorumluluğu vardır ve takım
+kaptanı, Kurallara ve hakemlerin kararlarına saygı duyulmasını sağlamaya
+yardımcı olmak için önemli bir rol oynamalıdır.
+Anahtar
+Ana Kural değişikliklerinin altı sarıyla çizilmiş ve kenar boşluğunda
+vurgulanmıştır. Editoryal değişikliklerin altı çizilidir.
+SK = sarı kart (ihtar); KK = kırmızı kart (ihraç).
+18
+19
+20
+Genel Düzenlemeler
+Oyun Kurallarının evrenselliği, oyunun özünde dünyanın her yerinde ve her
+seviyesinde aynı olduğu anlamına gelmektedir. Kurallar, oyunun oynandığı
+yerde ‘adil’ ve güvenli bir ortam yaratmanın yanı sıra, katılımı ve zevk almayı da
+teşvik etmelidir.
+Tarihsel olarak, IFAB, ulusal futbol federasyonlarına, futbolun belirli
+kategorilerindeki ‘organizasyonel’ kuralları düzenlemede bir miktar esneklik
+sağlamıştır. Bununla birlikte, IFAB, ulusal futbol federasyonlarına, eğer kendi
+ülkelerinde futbola katkı sağlayacaksa futbolun bazı organize edilme şekillerini
+düzenleyebilmelerine güçlü bir şekilde inanmaktadır.
+Oyunun nasıl oynandığı ve yönetildiği, FIFA Dünya Kupası �inalinden en küçük
+köyde oynanan maçlara kadar, dünyanın her yerinde aynı şekilde olmalıdır.
+Bununla birlikte, oyunun ne kadar süreceği, kaç oyuncunun yer alacağı ve bazı
+uygun olmayan davranışların nasıl cezalandırılacağı ülkenin yerel futbolunun
+ihtiyaçlarına göre belirlenmelidir.
+Tüm Ulusal Futbol Federasyonları (ve konfederasyonlar ve FIFA) Futbol için
+aşağıdaki sorumlu oldukları organizasyonel alanların Oyun Kuralları ile ilgili
+bölümlerinin tamamını ya da bir kısmını düzenleme seçeneğine sahiptir:
+Tüm seviyedeki müsabakalar için:
+• en fazla oyuncu değişikliği sayısının Ulusal Futbol Federasyonu,
+ Konfederasyonu ve FIFA tarafından belirleneceği gençler futbolu hariç, her bir
+takıma en çok beş* oyuncu değişikliği hakkı verilmiştir.
+• ek kalıcı beyin sarsıntısı değişikliklerinin uygulanması (IFAB'ın protokolünü
+uygulayarak)
+* Uzatmalara giden maçlar için geçerli olan koşullar ve oyuncu değişikliği
+fırsatına ilişkin kısıtlamaların detaylarını Kural 3’te görebilirsiniz.
+Gençler, veteranlar, engelliler ve grassroots futbolu için:
+• oyun alanının boyutları
+• topun boyutu, ağırlığı ve malzemesi
+• kale direkleri arasındaki genişlik ve üst direğin yerden yüksekliği
+• oyunun iki (eşit) devrelerinin (ve ekstra sürenin iki eşit devrelerinin)
+süresi
+• Oyuncuların sayısı
+• tekrar değiştirilebilir oyuncunun kullanılması
+• bazı/tüm ihtarlar (Sarı Kartlar) için geçici oyun dışı bırakma (sin bins)
+• Kaptanın zorunlu kaptanlık bandına dair özel gereklilikler
+Buna ek olarak, Ulusal Futbol Federasyonlarının kendi yerel futbol liglerini
+iyileştirmesi ve geliştirmesi için futbolun “kategorileri” konusunda aşağıdaki
+kararları onaylanmıştır:
+• Ulusal Futbol Federasyonları, konfederasyonlar ve FIFA, gençler ve
+veteranlar için yaş sınırlamalarına karar verme esnekliğine sahiptir
+• her bir Ulusal Futbol Federasyonu, en düşük futbol düzeyindeki hangi
+liglerin “grassroot futbolu” olarak tanımlanacağını belirleyecektir
+"IFAB'ın denemeleri
+Potansiyel bir kural değişikliğinin oyun üzerinde yaratabileceği hem beklenen
+hem de beklenmeyen etkileri değerlendirmek için test edilmesi veya denenmesi gereken zamanlar vardır. Konfederasyonların, ulusal federasyonların ve
+müsabaka organizatörlerinin bu tür denemelere katılabilmeleri için IFAB'dan
+izin almaları gerekmektedir.
+2024/25'te IFAB'ın denemeleri şunları içerecektir:
+• Belirli durumlarda hakemin çevresinde yalnızca kaptanların girebileceği
+bölgenin kullanılması
+• Bazı çatışma durumlarının ardından resmi sakinleşme sürelerinin kullanılması
+• Kalecinin topu elinde çok uzun süre tutmasıyla baş etmeye farklı bir
+yaklaşım
+• Hakemin VAR 'incelemesi' veya uzun VAR 'kontrolü' sonrasında nihai
+kararı duyurması ve açıklaması"
+Oyun Kuralları 2024/25 | Notlar ve Düzenlemeler 21
+Tüm denemelere ilişkin daha fazla ayrıntı ve protokoller www.theifab.com
+adresinde (‘Denemeler’ bölümünde) bulunabilir.
+Herhangi bir denemeye katılmak için başvuruda bulunmak isteyenler belirtilen
+adresi kullanarak IFAB ile iletişime geçmelidir: trials@theifab.com.
+Diğer değişiklikler için izin
+Ulusal Futbol Federasyonları, farklı ligler için farklı düzenlemeleri onaylama
+seçeneğine sahiptir - düzenlemelerin evrensel olarak uygulanması veya
+tümünün uygulanması gerekli değildir. Bununla birlikte, IFAB’ın izni olmadan
+herhangi başka bir düzenleme kabul edilemez.
+Ulusal Futbol Federasyonlarının, bu düzenlemelerin kullanımı ve hangi
+seviyelerde kullanıldığı ile ilgili IFAB’ı bilgilendirmesi istenmektedir, çünkü
+bu bilgiler ve özellikle düzenlemelerin kullanılıyor olma nedenleri, IFAB’ın
+diğer ulusal federasyonlarda futbolun gelişimine yardımcı olmak üzere
+paylaşabileceği �ikirleri/stratejileri belirleyebilir.
+IFAB, futbolun dünya çapında gelişimi için katılımı artırabilecek, futbolu daha
+ilgi çekici yapabilecek ve tanıtacak diğer potansiyel düzenlemeleri duymaya
+da oldukça ilgilidir.
+22
+23
+Giriş
+Gençler, veteranlar, engelliler ve grassroot müsabakalarında; müsabakanın
+ulusal federasyonunun, konfederasyonunun veya FIFA'nın (hangisi uygunsa)
+onayına tabi olarak, ihtar gerektiren (SK) ihlallerin tümü veya bir kısmı için
+geçici oyun dışı bırakma(sin bins) bir seçenek olarak bulunmaktadır.
+IFAB'ın 138. Yıllık Genel Toplantısı, tüm Kural değişikliklerinde olduğu gibi 1
+Temmuz 2024'ten itibaren geçerli olan ancak daha önce de uygulamaya
+konulabilecek 'Geçici oyun dışı bırakma (sin bins)’ya ilişkin kılavuzun revize
+edilmiş bir versiyonunu onayladı.
+Kılavuzun içeriğinde yapılan değişikliklerin altı çizilmiştir; editoryal değişiklikler işaretlenmemiştir."
+Geçici oyun dışı bırakma için referans aşağıdakilerde bulunur:
+Kural 5- Hakem
+5.3 Yetkiler ve görevler - Disiplin cezaları
+Hakemin, devre arası, uzatma devreleri ve penaltılar (penaltı vuruşları) da
+dahil olmak üzere maçın başlangıcında oyun alanına girdiği andan maç
+bitimine kadar sarı veya kırmızı kart göstermeye ve müsabaka
+talimatları izin veriyorsa bir oyuncuyu geçici oyun dışı bırakmaya yetkisi
+vardır.
+Geçici oyun dışı bırakma, bir oyuncunun ihtar gerektiren bir ihlal yapması
+halinde, derhal oyunun bir sonraki bölümünden, geçici olarak uzaklaştırılmasıdır. Bunun felsefesi, "anında cezalandırmanın" ihlali yapan oyuncunun
+ve potansiyel olarak takımının davranışları üzerinde belirgin ve derhal
+olumlu bir etki sağlayabilecek olmasıdır.
+Ulusal Futbol Federasyonu, konfederasyon ya da FIFA geçici oyun dışı
+bırakma protokolünü aşağıdaki ilkeler kapsamında onaylamalıdır:
+24
+Geçici Oyun Dışı Bırakma
+İçin Rehber (sin bins)
+1 Temmuz 2024 tarihinden itibaren güncellenmiştir
+25
+Sadece Oyuncular
+• Geçici oyun dışı bırakma tüm oyunculara uygulanır (kaleciler dahil) ancak
+ihtarlık (SK) ihlaller yapan yedek oyuncu veya değiştirilmiş oyunculara
+uygulanamaz.
+Hakemin işareti
+• Hakem geçici oyun dışı bırakmayı belirtmek için sarı kart (SK) gösterir ve
+sonra her iki kolu ile geçici oyun dışı bırakma alanını (genellikle oyuncunun
+teknik alanı) açıkça işaret eder.
+Geçici Oyun Dışı Bırakma Süresi
+• Geçici oyun dışı bırakma süresi tüm ihlaller için aynıdır
+• Geçici oyun dışı bırakma süresi, toplam oyun süresinin %10’u ile %15’i
+aralığında olmalıdır. (örneğin, 90 dakikalık maçta 10 dakika, 80 dakikalık
+maçta 8 dakika)
+• Geçici oyun dışı bırakma süresi, oyuncunun sahayı terk etmesinden sonra
+oyun tekrar başladığında başlar
+• Hakem, geçici oyun dışı bırakma süresi içinde oyunun durması durumunda,
+devre sonuna ilave edilmesine izin verilen uzatma süresine dahil, (örneğin,
+oyuncu değişikliği, yaralanma, gol kutlaması vb.) herhangi kayıp zamanı geçici
+oyun dışı bırakma süresine eklemelidir
+• Müsabaka talimatı, geçici oyun dışı bırakma süresinde hakeme kimin
+yardımcı olacağına karar vermelidir. Bu, temsilci, 4. Hakem, tarafsız yardımcı
+hakem sorumluluğu olabileceği gibi, tam tersine bir takım görevlisi de olabilir
+• Geçici oyun dışı bırakma süresi tamamlandığında, oyuncu topun bir sonraki
+oyun dışı olduğu anda hakemin izni ile taç çizgisinden oyuna dönebilir
+• Oyuncunun ne zaman geri dönebileceğine dair nihai karar hakemindir
+• Geçici oyun dışı bırakılmış oyuncu, geçici oyun dışı bırakma süresi sonuna
+kadar değiştirilemez (ve yalnızca takım izin verilen tüm oyuncu değişikliklerini
+ve/veya oyuncu değişikliği fırsatlarını kullanmamışsa, eğer uygulanabilirse).
+• Eğer geçici oyun dışı bırakma süresi ilk devre sonuna kadar tamamlanmazsa
+(veya uzatma devreleri oynanacaksa ikinci yarının sonunda) geçici oyun dışı
+bırakma süresinin kalan kısmı ikinci devrenin başından itibaren devam eder
+(uzatma devresi başlangıcı)
+• Eğer geçici oyun dışı bırakma süresi ilk devre sonuna kadar tamamlanmazsa, sürenin kalan kısmı ikinci devrenin başından itibaren devam eder; bu
+durum aynı zamanda uzatma devrelerinde de geçerlidir
+Oyun Kuralları 2024/25 | Notlar ve Düzenlemeler
+26
+• Maçın sonunda, geçici oyun dışı bırakma süresi hala devam eden oyuncunun penaltılar (penaltı vuruşları) da yer almasına izin verilir çünkü
+penaltılar sırasında (penaltı atışları) geçici oyun dışı bırakma uygulaması
+yapılmaz.
+Geçici Oyun Dışı Bırakma Alanı
+• Geçici oyun dışı bırakılmış oyuncu, eğer ısınmıyorsa (yedek oyuncu ile aynı
+şartlarda), teknik alan içerisinde (mevcutsa) ya da takımın antrenörü/teknik
+ekibi ile birlikte kalmalıdır.
+Geçici Oyun Dışı Bırakma Sırasındaki İhlaller
+• Geçici oyun dışı bırakılmış bir oyuncu, geçici oyun dışı bırakma süresinde
+ihtar (SK) veya ihraç (KK) gerektiren bir ihlal yaparsa, maçta bir daha yer
+almayacaktır ve değiştirilemez veya yerine başka bir oyuncu alınamaz.
+İlave disiplin cezaları
+• Müsabaka yönetmelikleri/Ulusal Futbol Federasyonları geçici oyun dışı
+bırakmaların ilgili makamlara rapor edilmesi gerekip gerekmediğine ve
+örneğin ihtarlarda (SKlar) olduğu gibi geçici oyun dışı bırakma sayı
+toplamlarına göre ilave disiplin cezası verilip verilmeyeceğine karar
+verecektir.
+Geçici oyun dışı bırakma sistemleri
+Ligler aşağıdaki geçici oyun dışı bırakma sistemlerinden birini kullanabilirler:
+• Sistem A- tüm ihtarlar (SKlar) için
+• Sistem B- tüm değil ancak bazı ihtarlar (SKlar) için
+Sistem A- tüm ihtarlar (SKlar) için geçici oyun dışı bırakma
+• Tüm ihtarlar (SKlar) geçici oyun dışı bırakma ile cezalandırılır.
+• Aynı maç içerisinde ikinci kez ihtar (SK) alan oyuncu:
+• İkinci kez geçici oyun dışı bırakılma alır ve maçın daha sonraki
+bölümünde yer alamaz.
+• Eğer oyuncunun takımı maksimum sayıda oyuncu değişikliği ve/veya
+oyuncu değişikliği fırsatı kullanmamışsa, eğer uygulanabiliyorsa ikinci
+
+Oyun Kuralları 2024/25 | Notlar ve Düzenlemeler 27
+geçici oyun dışı bırakma süresi sonunda yedek oyuncu ile değiştirilebilir (bunun
+nedeni takımın zaten 2 kez geçici oyun dışı bırakma süresince ilgili oyuncu
+olmadan oynayarak cezalandırılmış olmasıdır.)
+Sistem B - tüm değil ancak bazı ihtarlar (SKlar) için geçici oyun dışı bırakma*
+
+• Önceden tanımlanmış ihtar (SK) gerektiren ihlaller listesi geçici oyun dışı
+bırakma ile cezalandırılacaktır.
+• Diğer tüm ihtar gerektiren ihlaller sarı kart ile cezalandırılır, geçici oyun
+dışı bırakma ile cezalandırılmaz.
+• Aynı maçta iki ihtar (SK) alan bir oyuncu, bir ihtar/her iki ihtar geçici oyun
+dışı bırakma ihlali için olsa bile ihraç edilir (KK)
+*Bazı müsabaka talimatları geçici oyun dışı bırakmanın yalnızca uygunsuz
+davranışlarla ilgili ihlaller kapsamında kullanılmasını kabul edebilir, örneğin:
+• Hakemi aldatma
+• Rakip takımın oyunu tekrardan başlatmasını kasıtlı olarak geciktirme
+• Söz veya hareketle itiraz
+• Çekerek, tutarak, iterek ya da bilerek elle oynayarak umut vaat eden bir atağı
+durdurma veya müdahale etme
+• Penaltı vuruşunda vuruşu kullanan oyuncunun kural dışı yanıltması
+28
+Tekrar Değiştirilebilir
+Oyuncular İçin Rehber
+3 Mart 2017 tarihinde Londra’da gerçekleştirilen IFAB’ın 131. Yıllık Genel
+Kurul Toplantısında, gençler, veteranlar, engelliler ve grassroot futbolunda
+tekrar değiştirilebilir oyuncu uygulanmasının (oyundan çıkan oyuncunun
+tekrar oyuna girebilmesi) ulusal federasyonların, konfederasyonların veya
+FIFA’nın, hangisi uygun ise, onayına tabi olduğu kabul edilmiştir.
+Tekrar değiştirilebilir oyuncu değişikliği için referans aşağıda bulunur:
+Kural 3 - Oyuncular
+3.2 Oyuncu Değişikliği Sayısı - Tekrar Değiştirilebilir Oyuncu Değişikliği
+Tekrar değiştirilebilir oyuncu değişikliğinin kullanılmasına sadece gençler,
+veteranlar, engelliler ve grassroot futbolunda Ulusal Futbol Federasyonu,
+konfederasyon veya FIFA’nın anlaşmasıyla izin verilir.
+Bir "tekrar değiştirilebilir oyuncu" oyunda oynamış ve değiştirilmiş
+(değiştirilmiş oyuncu) ve sonradan maçta başka bir oyuncu ile değiştirilerek
+oyuna geri dönen oyuncudur.
+Bir değiştirilmiş oyuncunun maçta oyuna geri dönmesi dışında, Kural 3’ün
+diğer tüm hükümleri ve Oyun Kuralları tekrar değiştirilebilir oyuncu için
+uygulanır. Özellikle, Kural 3’de belirlenmiş oyuncu değişikliği yöntemi takip
+edilmek zorundadır.
+29
+30
+Giriş
+IFAB'ın 2 Mart 2024'te İskoçya'da düzenlenen 138. Yıllık Genel Toplantısında
+(YGT) onay alınmasının ardından, Oyun Kuralları artık müsabakalarda
+ek kalıcı beyin sarsıntısı oyuncu değişikliği kullanımına izin verilmesine
+onay veriyor.
+Beyin sarsıntısı geçiren veya beyin sarsıntısı geçirdiğinden şüphelenilen bir
+oyuncu değiştirildiğinde ve maçta daha fazla yer almadığında ek bir kalıcı beyin
+sarsıntısı oyuncu değişikliği gerçekleşir. Bu oyuncu değişikliği, 'normal' izin verilen
+oyuncu değişikliklerinden (veya uygun olan oyuncu değişikliği fırsatlarından) biri
+olarak sayılmaz.
+Ek kalıcı beyin sarsıntısı değişikliklerine ilişkin referans şurada bulunur:
+Kural 3. Oyuncular
+3.2 Oyuncu değişikliği sayısı - Ek kalıcı beyin sarsıntısı oyuncu değişikliği
+Müsabaka talimatları, 'Notlar ve değişiklikler' altında listelenen protokole
+uygun olarak ek kalıcı beyin sarsıntısı oyuncu değişiklikleri kullanabilir.
+Not: Denemeler sırasında iki farklı protokol kullanılmasına rağmen, IFAB
+Genel Kurul Toplantısında tek bir protokol onaylamıştır ve onaylanan bu
+protokolün bütünüyle kullanılması gereklidir."
+Ek kalıcı beyin sarsıntısı
+değişiklik protokolü
+1 Temmuz 2024 tarihinden itibaren geçerlidir
+31
+Prensipler
+• Her takımın bir maçta en fazla bir ‘beyin sarsıntısı değişikliği’ kullanmasına
+izin verilir.
+• Halihazırda kullanılan oyuncu değişikliği sayısına bakılmaksızın ‘beyin
+sarsıntısı değişikliği’yapılabilir.
+• Halihazırda gerçekleştirilen değişikliklerin sayısına bakılmaksızın, belirtilen
+yedek oyuncu sayısının kullanılabilecek maksimum 'normal yedek oyuncu'
+sayısıyla aynı olduğu müsabakalarda, ‘beyin sarsıntısı değişikliği’ için daha önce
+değiştirilmiş bir oyuncu ne olursa olsun herhangi bir zamanda kullanılabilir.
+• Bir ‘beyin sarsıntısı değişikliği’ yapıldığında, rakip takım herhangi bir nedenle
+'ilave bir yedek oyuncu' kullanma seçeneğine sahiptir.
+Prosedür
+Oyuncu değişikliği prosedürü Kural 3 – Oyuncular'a uygun olarak yürütülür
+(aşağıda aksi belirtilmedikçe).
+'Beyin sarsıntısı değişikliği' yapılabilir:
+• beyin sarsıntısı meydana geldikten veya bundan şüphelenildikten hemen sonra;
+• saha içi değerlendirme ve/veya saha dışı değerlendirme sonrasında; veya
+• Bir oyuncunun daha önce değerlendirildiği ve oyun alanına döndüğü
+durumlar da dahil olmak üzere, sarsıntının meydana geldiği veya bundan
+şüphelenildiği herhangi bir zamanda.
+• Bir takım 'beyin sarsıntısı değişikliği' yapmaya karar verirse, hakem/dördüncü
+hakem ideal olarak farklı renkte bir oyuncu değişikliği kartı/formu kullanarak
+bilgilendirilir.
+• Beyin sarsıntısı geçiren veya beyin sarsıntısı şüphesi olan oyuncunun, penaltılar
+(penaltı vuruşları) dahil olmak üzere maçta daha fazla yer almasına izin verilmez
+ve mümkünse soyunma odasına ve/veya tıbbi bir tesise kadar kendisine eşlik
+edilmelidir.
+• Rakip takım, hakem/dördüncü hakem tarafından, diğer takım tarafından
+yapılan 'beyin sarsıntısı değişikliği' ile eş zamanlı olarak veya başka bir
+zamanda kullanılabilecek 'ilave oyuncu değişikliği' ve 'ilave oyuncu değişikliği'
+fırsatı kullanma seçeneğinin olduğu konusunda bilgilendirilir
+(Oyun Kurallarında aksi belirtilmedikçe).
+Oyun Kuralları 2024/25 | Notlar ve Düzenlemeler
+32
+Oyuncu değişikliği fırsatları
+Maç görevlileri
+Hakem ve diğer maç görevlileri, özellikle de dördüncü hakem:
+• 'Beyin sarsıntısı oyuncu değişikliği' yapmak, 'normal oyuncu değişikliği'
+fırsatlarının sayısına ilişkin herhangi bir sınırlamadan ayrıdır.
+• Ancak, eğer bir takım 'beyin sarsıntısı değişikliği' ile aynı anda 'normal
+oyuncu değişikliği' yaparsa, bu onun 'normal oyuncu değişikliği' fırsatlarından
+biri olarak sayılacaktır.
+• Bir takım tüm 'normal oyuncu değişikliği' fırsatlarını kullandıktan sonra,
+'normal oyuncu değişikliği' yapmak için 'beyin sarsıntısı değişikliği'ni
+kullanamaz.
+• Bir takımın 'beyin sarsıntı değişikliği' yapması durumunda, rakip takım
+'ilave oyuncu değişikliği' kullanabilir ve bir 'ilave oyuncu değişikliği' fırsatı
+elde eder. Bu ek fırsat yalnızca 'ek oyuncu değişikliği' için kullanılabilir,
+'normal oyuncu değişikliği' için kullanılamaz.
+• bir oyuncunun değiştirilip değiştirilmeyeceği veya bir oyuncunun 'normal
+bir değişiklik veya ‘beyin sarsıntısına bağlı değişiklik’ ile değiştirilip
+değiştirilmeyeceği konusunda takımın karar verme sürecinin bir parçası değillerdir;
+• gerçek veya şüphelenilen bir yaralanmanın 'beyin sarsıntısı değişikliği’ yerine
+kullanılmasının uygun olup olmadığına karar veremezler;
+• bir oyuncunun kesin veya şüphelenilen bir sakatlığı varsa, bir oyuncunun
+değerlendirilmesi ve/veya tedavi edilmesi gerektiğinden şüpheleniyorlarsa
+takım kaptanını, antrenörü ve/veya sağlık personelini bilgilendirmek de dahil
+olmak üzere uygun desteği vermelidirler;
+• takım kaptanının, antrenörün ve/veya sağlık personelinin, sakatlanan bir
+oyuncunun oynamaya devam edemeyeceği yönündeki kararını desteklemelidir;
+bu, hakemin yeniden başlamayı oyuncu oyun alanını terk edene kadar
+ertelemesini gerektirebilir; ve
+• 'beyin sarsıntı değişikliğinin' uygun olmayan bir şekilde yapıldığına dair
+endişeler varsa, ilgili yetkilileri bilgilendirmelidirler.
+33
+35
+Oyun
+Kuralları
+2024/25
+1
+Kural
+1
+Oyun Kuralları 2024/25 | Kural 1 | Oyun Alanı 37
+Oyun Alanı
+1. Oyun Alanı Zemini
+Alan zemini, müsabaka talimatlarının izin verdiği doğal ve yapay
+malzemelerin bir arada kullanılması (hibrit sistem) dışında, tamamen
+doğal veya eğer müsabaka talimatları izin verirse, tamamen yapay
+olmalıdır.
+Yapay zeminlerin rengi yeşil olmalıdır.
+Gerek FIFA’ya bağlı ulusal futbol federasyonlarının ulusal takımları
+arasındaki maçlarda, gerekse uluslararası kulüp maçlarında yapay
+yüzeylerin kullanıldığı sahaların, IFAB tarafından özel izin verilmedikçe,
+Futbol Çimi için FIFA Kalite Programı koşullarına uygun olması gerekir.
+2. Oyun Alanı İşaretleri
+Oyun alanı dikdörtgen şeklinde olmalı ve tehlike oluşturmayacak şekilde
+sürekli çizgilerle işaretlenmelidir; eğer tehlikeli değil ise suni oyun alanı
+materyali doğal oyun alanlarının işaretlenmesinde kullanılabilir. Bu
+çizgiler sınırlarını belirledikleri alanlara dahildir.
+Oyun alanı üzerinde yalnızca Kural 1’de belirtilen çizgiler işaretlenir.
+Yapay zeminlerin kullanılması durumunda, farklı çizgilere izin verilebilir
+ancak bu çizgilerin farklı renkte ve futbol çizgilerinden açıkça ayırt
+edilebilir olmaları gereklidir.
+İki uzun sınır çizgisi taç çizgileridir. İki kısa çizgi kale çizgileridir.
+Oyun alanı her iki taç çizgisinin orta noktasını birleştiren bir yarı alan
+çizgisi ile iki yarıya ayrılır.
+Orta nokta yarı alan çizgisinin orta noktasında yer alır. 9.15 m (10 yds)
+yarıçapındaki bir daire ile çevrelenir.
+38
+kale çizgisi min. 45 m (50 yds) / maks 9.0 m (100 yds)
+köşe alanı
+kale alanı
+ceza alanı
+7.32 m (8 yds)
+ceza yayı
+penaltı noktası
+flagpost (optional) köşe bayrak direği (mecburi)
+min. 90 m (100 yds) / maks.120 m (130 yds)
+yarıçap
+9.15 m
+(10 yds)
+orta nokta orta çizgi
+orta yuvarlak
+9.15 m (10 yds)
+taç çizgisi
+11 m
+(12 yds)
+9.15 m
+(10 yds)
+16.5 m
+(18 yds)
+5.5 m
+(6 yds)
+16.5 m (18 yds) 5.5 m (6 yds) 9.15 m (10 yds)
+isteğe bağlı
+işaret
+yarıçap 1 m (1 yd)
+Çizgiler, kapladıkları alana dahil oldukları için ölçüm, çizgilerin dış kısımlarından
+alınır.
+• Penaltı noktası, noktanın merkezinden kale çizgisinin arka kenarına doğru ölçülür.
+39
+Oyun alanı dışına, köşe yayından 9.15 m (10 yds) mesafede, kale ve taç
+çizgilerine dik açılı olacak biçimde işaretler konabilir.
+Tüm çizgiler aynı genişlikte olmalıdır ve çizgilerin genişliği 12 cm’den (5 inç)
+fazla olmamalıdır. Kale çizgileri, kale direkleri ve üst direk ile aynı genişlikte
+olmalıdır.
+Eğer bir oyuncu oyun alanına izin verilmeyen işaretler yaparsa, sportmenlik
+dışı davranıştan dolayı ihtar verilecektir. Eğer hakem, bunun maç sırasında
+yapıldığını fark ederse, top oyun dışı olduğu zaman oyuncuya ihtar verir.
+3. Ölçüler
+Taç çizgisi kale çizgisinden uzun olmalıdır.
+
+Yukarıda verilen ölçüler aralığında kale çizgisi ve taç çizgisinin uzunluğunu
+müsabaka talimatı belirler.
+4. Uluslararası Maçlarda Ölçüler
+Yukarıda verilen ölçüler aralığında kale çizgisi ve taç çizgisinin uzunluğunu
+müsabaka talimatı belirler.
+• Uzunluk (taç çizgisi):
+ En az 90 m (100 yds)
+ En fazla 120 m (130 yds)
+• Uzunluk (kale çizgisi):
+ En az 45 m (50 yds)
+ En fazla 90 m (100 yds)
+• Uzunluk (taç çizgisi):
+ En az 100 m (110 yds)
+ En fazla 110 m (120 yds)
+• Uzunluk (kale çizgisi):
+ En az 64 m (70 yds)
+ En fazla 75 m (80 yds)
+Oyun Kuralları 2024/25 | Kural 1 | Oyun Alanı
+40
+köşe alanı
+1 m (1 yd)
+Köşe bayrak direği mecburidir
+Bayrak direği 1.5 m (5 ft) yüksekliğinden
+az olmayacaktır, ucu sivri olmayacaktır
+çizgiler
+genişliğini aşmayacaktır
+12 cm (5 ins)
+5. Kale alanı
+Kale direklerinin her birinin iç kenarlarından 5,5 m (6 yds) uzaklıkta kale
+çizgisine dik iki çizgi çizilir. Bu çizgiler oyun alanına doğru 5,5 m (6 yds)
+dik uzatılır ve kale çizgisine paralel olarak çizilen bir çizgi ile birleştirilir.
+Bu çizgiler ve kale çizgisiyle sınırlanan alan kale alanıdır.
+6. Ceza alanı
+Kale direklerinin her birinin iç kenarlarından 16,5 m (18 yds) uzaklıkta
+kale çizgisine dik iki çizgi çizilir. Bu çizgiler oyun alanına doğru 16,5 m (18
+yds) dik uzatılır ve kale çizgisine paralel olarak çizilen bir çizgi ile birleştirilir. Bu çizgiler ve kale çizgisiyle sınırlanan alan, ceza alanıdır.
+Her bir ceza alanı içerisinde, kale direklerinin orta noktasından 11 m (12
+yds) uzaklıkta bir penaltı noktası işaretlenir.
+Ceza alanı dışına merkezi penaltı noktası olan 9,15 m (10 yds) yarıçapında
+bir daire yayı çizilir.
+7. Köşe alanı
+Köşe alanı, her bir köşe bayrak direğinden itibaren oyun alanı içine çizilen
+1 m (1 yd) yarıçaplı çeyrek daire yayı çizilerek belirlenir.
+yarıçap
+Oyun Kuralları 2024/25 | Kural 1 | Oyun Alanı 41
+8. Bayrak Direkleri
+Oyun alanının her köşesine en az 1,5 m (5 ft) uzunluğunda, ucu sivri
+olmayan ve ucuna bayrak takılan bir bayrak direği yerleştirilmelidir.
+Bayrak direkleri, ayrıca, orta saha çizgisinin her bir tarafının bitiminde, taç
+çizgisinden en az 1 m (1 yd) dışarıya yerleştirilebilir.
+9. Teknik Alan
+Teknik alan, aşağıda ana hatlarıyla belirtilen şekilde, takım görevlileri ve
+yedek oyuncular ve değiştirilmiş oyuncular için düzenlenmiş oturma
+yerleri olan stadyumlarda oynanan maçlarla ilgilidir:
+• teknik alan, düzenlenen oturma yerlerinin her iki yanından 1 m (1 yd)
+yana doğru ve taç çizgisinin 1m (1 yd) yakınına kadar bir alanı kapsamalıdır
+• alanı belirlemek için işaretleme yapılmalıdır.
+• teknik alanda bulunabilecek kişi sayısı müsabaka talimatlarına göre
+belirlenir.
+• teknik alanda bulunan kişiler:
+• müsabaka talimatlarına uygun olarak maçın başlamasından önce
+belirlenir.
+• sorumlu davranışlar içinde bulunmalıdırlar.
+• örneğin; sakatlanmış bir oyuncunun durumunu değerlendirmek üzere
+fizyoterapist/doktorun hakemin izniyle oyun alanına girmesi gibi özel
+durumlar haricinde teknik alan sınırları içerisinde kalmalıdırlar.
+• teknik alandan her seferinde yalnız bir kişinin taktik talimatlar verme
+yetkisi vardır.
+42
+10. Kaleler
+Her bir kale çizgisinin ortasına bir kale yerleştirilir.
+Kale, bayrak direklerinden eşit uzaklıkta dikey biçimde duran iki direk ile
+bu direkleri birleştiren yatay bir üst direkten oluşur. Kale direkleri ve üst
+direk onaylanmış materyallerden yapılmalıdır ve tehlike yaratmamalıdırlar .
+Her iki kalenin de kale direkleri ve üst direği aynı şekilde olmalı ve bu
+şekiller kare, dikdörtgen, yuvarlak, elips veya bu seçeneklerin bir karışımı
+(hibriti) olmalıdır.
+FIFA’nın veya konfederasyonların gözetimi altında organize edilen resmi
+turnuvalarda kullanılan bütün kalelerin, Futbol Kaleleri için FIFA Kalite
+Programı gerekliliklerini karşılaması önerilir.
+İki direğin iç kısımlarının birbirine uzaklığı 7.32 m (8 yds) ve üst direğin
+alt kısmının yerden yüksekliği ise 2.44 m (8 ft) olarak belirlenmiştir.
+Kale direklerinin kale çizgisine göre konumu grafiklere uygun olmalıdır.
+Kale direkleri ve kale üst direği beyaz renk olmalı ve 12 cm’yi (5 inç)
+aşmamak kaydı ile aynı genişlikte ve derinlikte olmalıdır.
+Eğer kale üst direği yerinden çıkar veya kırılırsa, oyun kale üst direği
+onarılıncaya veya eski yerine geri takılıncaya kadar durdurulmalıdır.
+Oyun tekrar bir hakem atışı ile başlar. Eğer kale üst direği onarılamayacak
+durumda ise maç tatil edilmelidir. Kale üst direği bir iple veya herhangi
+bir esnek veya tehlike oluşturabilecek bir materyalle değiştirilmemelidir.
+Kale ağları, kaleye ve kale arkasındaki zemine düzgünce tutturulmak ve
+kaleciye etki etmemek şartıyla takılabilir.
+Güvenlik
+Kaleler (portatif olanlar dahil) zemine sıkıca güvenli şekilde
+sabitlenmelidir.
+11. Gol Çizgisi Teknolojisi (GLT)
+Gol Çizgisi Teknolojisi sistemleri hakem kararını desteklemek için gol
+olup olmadığının doğrulanması amacıyla kullanılabilir.
+Gol Çizgisi Teknolojisinin kullanımı müsabaka talimatlarında
+belirtilmelidir.
+3743
+2.
+4
+4
+m (8 ft)
+Kale direklerinin kale çizgisine göre
+konumu aşağıdaki görseller ile
+uyumlu olmalıdır
+7.32 m
+7.32 m
+7.32 m
+7.32 m
+7.32 m (8 yds)
+44
+Gol Çizgisi Teknolojisi İlkeleri
+Gol Çizgisi Teknolojisi yalnızca gol çizgisine uygulanır ve sadece gol olup
+olmadığına karar verilmesi gereken durumlarda kullanılır.
+Gol olup olmadığı sinyali GLT sistemi tarafından sadece maç hakemlerine
+(hakemin saati aracılığıyla, titreşim ve görsel sinyal yoluyla ve/veya
+hakemin kulaklık mikrofonu/kulaklığı aracılığıyla) anında ve otomatik
+olarak bir saniye içinde iletilmelidir; bu sinyal ayrıca video operasyon
+odasına (VOR) da gönderilebilir.
+Gol Çizgisi Teknolojisi Gereksinimleri ve Özellikleri
+Eğer Gol Çizgisi Teknolojisi lig müsabakalarında kullanılacak ise,
+müsabaka organizatörleri sistemin (kale çerçevesinde veya topun
+içindeki teknolojide izin verilmiş herhangi bir potansiyel düzenleme dahil
+olmak üzere) GLT için FIFA Kalite Programı gerekliliklerini karşıladığından
+emin olmalıdır.
+GLT’nin kullanıldığı yerlerde, hakem, maç öncesinde teknolojinin
+işlevselliğini, Test Kılavuzuna göre test etmelidir. Eğer teknoloji Test
+Kılavuzuna uygun biçimde çalışmıyor ise, hakem Gol Çizgisi Teknolojisini
+kullanmamalı ve durumu yetkili mercilere rapor etmelidir.
+12. Ticari Reklam
+Takımların oyun alanına giriş anından, devre arasında oyun alanından
+ayrılmalarına ve tekrar oyun alanına dönmelerinden maçın bitimine
+kadar olan sürede, oyun alanına, kale ağları ile sınırlanmış alana veya
+teknik alana veya hakem inceleme alanına (RRA) veya sınır çizgilerinin 1
+m içerisinde kalan zemine, gerçek veya sanal ticari reklamın herhangi bir
+türünün konulmasına izin verilmez. Kalelere, ağlara, bayrak direklerine
+ve bayraklarına reklam konamaz ve bu gereçlere hiçbir yabancı madde
+(kamera, mikrofon vs.) takılamaz.
+Ek olarak, dikey yerleştirilen reklam en az:
+• taç çizgisinden 1 metre (1yd)
+• kale çizgisinden kale ağlarının derinliği ile aynı uzaklıkta
+• kale ağlarından 1 metre (1yd) uzakta olmalıdır.
+Oyun Kuralları 2024/25 | Kural 1 | Oyun Alanı 45
+13. Logolar ve Amblemler
+Oyun süresince oyun alanında ve oyun alanındaki gereçlerde, kale ağları
+ve çevirdikleri alanlar da dahil, FIFA'nın, konfederasyonların, ulusal
+futbol federasyonlarının, müsabakaların, kulüplerin veya diğer
+kuruluşları temsil eden gerçek, sanal logo veya amblemlerini koymak
+yasaktır. Bayrak direğine konulan bayraklarda bu logo ve amblemlere izin
+verilmektedir.
+14. Video Yardımcı Hakemler (VAR'lar)
+VAR kullanılacak maçlarda bir video operasyon odası (VOR) ve en az bir
+adet hakem inceleme alanı (RRA) bulunmalıdır.
+Video Operasyon Odası (VOR)
+VOR, video yardımcı hakemin (VAR), video yardımcı hakem asistanının
+(AVAR) ve yeniden oynatma operatörünün (RO) çalıştığı yerdir; stadyum
+içinde, stadyuma yakın veya daha uzak bir konumda olabilir. Müsabaka
+sırasında, sadece yetkili kişilerin video operasyon odasına (VOR)
+girmelerine veya VAR, AVAR ve RO ile iletişim kurmalarına izin verilir.
+VOR’a giren bir oyuncu, yedek oyuncu, değiştirilmiş oyuncu veya takım
+görevlisi ihraç edilecektir.
+Hakem İnceleme Alanı (RRA)
+VAR kullanılan maçlarda, hakemin ‘sahada inceleme’ (OFR) yapabileceği
+en az bir adet hakem inceleme alanı (RRA) bulunmalıdır. Hakem inceleme
+alanı şu özellikleri içermelidir:
+• oyun alanı dışındaki görünür bir konumda
+• açık bir şekilde işaretlenmiş
+RRA’ya giren oyuncu, yedek oyuncu, değiştirilmiş oyuncu veya takım
+görevlisine ihtar verilecektir.
+Kural
+2
+47
+Top
+Oyun Kuralları 2024/25 | Kural 2 | Top
+1. Nitelikler ve Ölçüler
+Tüm toplar:
+• Yuvarlak
+• Uygun malzemeden yapılmış
+• Çevresi 68 cm (27 inç) ile 70 cm (28 inç) arasında
+• Ağırlığı oyunun başlangıcında 410 g (14 oz) ile 450 g (16 oz) arasında
+• Basıncı deniz seviyesinde 0.6-1.1 atmosfer (600 g/cm2–1.100g /8.5
+lbs/sq.in. - 15.6 lbs/sq.in.) arasında olmalıdır.
+FIFA’nın veya konfederasyonların gözetimi altında gerçekleşen resmi
+turnuvalarda oynanan maçlarda kullanılan bütün toplar Futbol Topları için
+FIFA Kalite Programı gerekliliklerini karşılamalı ve bunun işaretlerinden
+birini taşımalıdır.
+Her bir işaret, topun resmi olarak test edildiğini ve Kural 2’de düzenlenen
+asgari şartlara ilave olarak özel teknik gerekliliklerini karşıladığını ve IFAB
+tarafından onaylandığını gösterir.
+Ulusal Futbol Federasyonları düzenledikleri müsabakalarda, bu işaretlerden
+birini taşıyan topların kullanılmasını talep edebilir.
+FIFA’nın, konfederasyonların veya ulusal futbol federasyonlarının resmi
+maçlarında topun üzerinde, müsabakanın, müsabakayı düzenleyen
+kurumun, topu üreten �irmanın resmi markası, logo / amblemi dışında
+hiçbir ticari reklam bulunmasına izin verilmez. Konulacak işaretlerin sayısı
+ve boyutları müsabaka talimatı ile belirlenebilir.
+2. Kusurlu Topun Değiştirilmesi
+Eğer top maç sırasında kusurlu hale gelirse:
+• oyun durdurulur ve
+• hakem atışıyla tekrar başlatılır
+Eğer top, başlama vuruşu, kale vuruşu, köşe vuruşu, serbest vuruş, penaltı
+vuruşu veya taç atışı sırasında kusurlu hale gelirse, oyunun tekrar
+başlaması yinelenir.
+Eğer top, penaltı vuruşu sırasında veya penaltılar (penaltı vuruşları)
+sırasında ileri doğru hareket ederken, bir oyuncuya, kale direklerine veya
+kale üst direğine dokunmadan kusurlu hale gelirse, penaltı vuruşu tekrar
+edilir.
+Top oyun süresince hakemin izni olmadan değiştirilemez.
+3. İlave Toplar
+Kural 2’de belirtilen niteliklere sahip toplar, oyun alanının çevresine
+yerleştirilebilir ve bu topların kullanımı hakemin kontrolü altındadır.
+48
+49
+3
+Kural
+3
+51
+Oyuncular
+Oyun Kuralları 2024/25 | Kural 3 | Oyuncular
+1. Oyuncuların Sayısı
+Oyun, biri kaleci olmak üzere her biri en fazla on bir oyuncudan oluşan iki
+takım arasında oynanır. Eğer takımlardan birinde yedi oyuncudan daha az
+sayıda oyuncu varsa o maç başlatılamaz veya devam edemez.
+Eğer bir takımda, bir veya birden fazla oyuncunun oyun alanını kasıtlı bir
+şekilde terk etmesi sonucunda yediden daha az sayıda oyuncu kalmışsa,
+hakem oyunu durdurmak zorunda değildir ve avantaj oynatabilir; fakat
+top oyun dışı olduğunda takımlardan birinin en az yedi oyuncusu yoksa
+oyun kaldığı yerden devam edemez.
+Eğer müsabaka talimatları, başlama vuruşu yapılmadan önce tüm
+oyuncuların ve yedek oyuncuların isim listelerinin verilmesini şart
+koşarsa ve takımlardan biri maça on bir oyuncudan daha az sayıda
+oyuncuyla başlarsa, sonradan gelmeleri halinde sadece başlangıçta
+isimleri verilen oyuncular ve yedek oyuncular maçta oynayabilir.
+2. Oyuncu Değişikliklerinin Sayısı
+Resmi Maçlar
+Resmi liglerde oynanan herhangi bir müsabakada en çok beş oyuncuya
+kadar oyuncu değişikliği sayısı FIFA, Konfederasyon veya ulusal
+federasyonlar tarafından belirlenir. Müsabaka talimatlarının en çok beş
+oyuncu değişikliğine izin verdiği en üst seviye ligdeki kulüplerin birinci
+takımları ile ‘A’ ulusal takımlarının erkek ve kadın müsabakalarında, her
+takım:
+• En fazla üç kez oyuncu değişikliği fırsatına sahiptir*
+• Ek olarak, devre arasında oyuncu değişikliği yapabilir.
+* Her iki takımın da aynı anda oyuncu değişikliği yaptığı durumlarda, bu
+her iki takım için de kullanılmış bir oyuncu değişikliği fırsatı olarak
+sayılacaktır. Oyunun durdurulduğu bir zamanda, bir takım tarafından
+yapılan birden fazla oyuncu değişikliği(ve talepleri), kullanılmış bir oyuncu
+değişikliği fırsatı olarak sayılır.
+52
+Uzatma Devreleri
+• Eğer bir takım izin verilen en fazla sayıda oyuncu değişikliği yapmadıysa
+ve/veya oyuncu değişikliği fırsatını kullanmadıysa, kullanılmayan oyuncu
+değişiklikleri ve oyuncu değişikliği fırsatları uzatma devrelerinde
+kullanılabilir.
+• Müsabaka talimatlarının uzatma devrelerinde takımların bir ilave
+oyuncu değişikliği yapmasına izin verdiği durumlarda, her takım bir ilave
+oyuncu değişikliği fırsatına sahip olur.
+• Oyuncu değişikliği, maç sonu ile uzatma devrelerinin başlangıcı
+arasındaki sürede ve uzatma devrelerinin devre arasında da yapılabilir –
+bu durumlarda oyuncu değişikliği fırsatı kullanılmış olarak sayılmaz.
+Müsabaka talimatlarında şunlar belirtilmelidir:
+• en az üç en fazla on beş olmak üzere kaç yedek oyuncunun yazılacağı
+• uzatmalara giden maçlarda bir ilave değişikliğin kullanılıp
+kullanılmayacağı (takım tüm oyuncu değişikliği haklarını kullanmış olsa
+da olmasa da)
+Diğer Maçlar
+Uluslararası ‘A’ takım maçlarında en fazla on beş yedek isim yazılabilirken
+bunun en fazla altısı kullanılabilir.
+Diğer tüm maçlarda, aşağıdakilerin sağlanması durumunda daha fazla sayıda
+oyuncu değişikliği yapılabilir:
+• takımların maksimum sayı üzerinde anlaşmaları
+• hakeme müsabakadan önce bilgi verilmesi
+Eğer hakeme bilgi verilmezse veya maçın başlamasından önce herhangi bir
+anlaşmaya varılmazsa, her takımın en fazla altı oyuncu değiştirmesine izin
+verilir.
+Tekrar Değiştirilebilir Oyuncu Değişikliği
+Tekrar değiştirilebilir oyuncu değişikliğine, ilgili ulusal federasyonun,
+konfederasyonun veya FIFA’nın onaylaması koşuluyla, yalnızca gençler,
+veteranlar, engelliler ve grassroot futbolunda izin verilir.
+Ek kalıcı beyin sarsıntısı değişiklikleri
+Organizasyonlar ek kalıcı beyin sarsıntısı değişikliklerini ‘Notlar ve düzenlemeler’ başlığı altında listelenen protokole uygun olarak kullanabilir.
+53
+3. Oyuncu Değişikliği Yöntemi
+Yedek oyuncuların isimleri maç öncesinde hakeme verilmelidir. İsmi bu
+zamana kadar verilmeyen yedek oyuncular maçta yer alamazlar.Oyuncu
+değişikliği sırasında aşağıdaki kurallara uyulmalıdır:
+• oyuncu değişikliği yapılmadan önce hakem bilgilendirilmelidir
+• oyundan çıkan oyuncu:
+• eğer oyundan çıkan oyuncu zaten oyun alanı dışında değilse, oyun
+alanından çıkmak için hakemden izin alır ve hakem oyuncunun orta
+çizgiden ya da başka bir noktadan (örn. güvenlik/emniyet, sakatlık vb.)
+doğrudan çıkabileceğini belirtmediği sürece, oyuncu oyun alanı
+sınırlarına en yakın noktadan çıkmalıdır
+• doğrudan teknik alana ya da soyunma odasına gitmelidir ve tekrar
+değiştirilebilir oyuncu uygulamasına izin verilen müsabakalar
+haricinde maç içerisinde yer almaz
+• eğer oyundan çıkacak olan oyuncu oyun alanından çıkmayı reddederse,
+oyun devam eder
+Yedek oyuncu sadece :
+• oyunun durdurulduğu bir zamanda
+• orta alan çizgisinden
+• değiştirilen oyuncu oyun alanını terk ettikten sonra
+• hakemin işaretini aldıktan sonra, oyuna girer.
+Yedek oyuncu oyun alanına girdiğinde oyuncu değişikliği tamamlanmış olur.
+O andan itibaren oyundan çıkan oyuncu değiştirilmiş oyuncu ve yedek
+oyuncu da oyuncu olur ve oyunu herhangi bir şekilde başlatabilir.
+Tüm yedek oyuncular ve değiştirilmiş oyuncular, oynasın veya oynamasın
+hakemin otoritesine tabidir.
+4. Kalecinin Değiştirilmesi
+Herhangi bir oyuncu aşağıdaki şartlarda kaleci ile yer değiştirebilir:
+• değişiklik yapılmadan önce hakem bilgilendirilirse
+• değişiklik oyunun durduğu bir anda yapılırsa
+Oyun Kuralları 2024/25 | Kural 3 | Oyuncular
+5. İhlaller ve Cezalar
+Eğer ismi bildirilmiş bir yedek oyuncu ismi bildirilmiş bir oyuncunun yerine
+oyuna başlarsa ve hakem bu değişiklik konusunda bilgilendirilmezse:
+• hakem ismi bildirilen yedek oyuncunun oyuna devam etmesine izin verir
+• ismi bildirilen yedek oyuncuya disiplin cezası verilmeyebilir
+• ismi bildirilen oyuncu ismi bildirilen yedek oyuncu olabilir
+• oyuncu değişikliği sayısı azaltılmaz
+• hakem durumu ilgili kuruluşlara rapor eder
+Eğer oyuncu değişikliği devre arasında veya uzatma devrelerinden önce
+yapılırsa işlemlerin, maçın başlamasından önce tamamlanması gerekir. Eğer
+hakeme bilgi verilmezse değiştirilen oyuncu oynamaya devam eder, herhangi
+bir disiplin cezasına gerek yoktur, konu ilgili kuruluşlara rapor edilir.
+Eğer bir oyuncu hakemin izni olmadan kaleci ile yer değiştirirse, hakem:
+• oyunu devam ettirir
+• top oyun dışı olduğunda her iki oyuncuya da ihtar verir. Ancak; devre
+arasında (uzatma devrelerinin devre araları dahil) veya maç bitimi ve uzatma
+devreleri arasındaki sürede ve/veya penaltılar (penaltı vuruşları) esnasında
+yapılan değişiklikler için ihtar verilmez
+Bu kuralın diğer tüm ihlallerinde:
+• oyunculara ihtar verilir
+• oyun durdurulduğunda topun bulunduğu yerden bir endirekt serbest vuruş
+ile oyun tekrar başlatılır
+6. Oyuncuların ve Yedek Oyuncuların İhracı
+İhraç edilmiş bir oyuncu:
+
+• eğer takım listeleri teslim edilmeden önce ihraç edildiyse, herhangi bir
+sıfatla takım listelerinde yer alamaz
+• eğer takım listeleri teslimin edildikten sonra ve maçın başlamasından önce
+ihraç edildiyse, yerine ismi bildirilmiş bir yedek oyuncu geçebilir (yerine
+geçen yedek oyuncunun yerine başka bir oyuncu geçemez); oyuncu değişiklik
+hakkı eksilmez
+• başlama vuruşundan sonra ihraç edilirse yerine başka bir oyuncu alınamaz
+54
+55
+İsmi bildirilmiş bir yedek oyuncu, başlama vuruşundan önce veya sonra
+oyundan ihraç edilmişse, yerine başka yedek oyuncu alınamaz.
+7. Oyun Alanında Fazladan Kişilerin Olması
+Takım listesinde isimleri belirtilmiş olan teknik direktör ve diğer görevliler
+(oyuncular ve yedek oyuncular haricinde) takım görevlileridir. Takım
+listesinde oyuncu, yedek oyuncu veya takım görevlisi olarak belirtilmeyen
+herkes saha dışı kişi olarak kabul edilir.
+Eğer takım görevlisi, yedek oyuncu, değiştirilmiş oyuncu veya ihraç edilmiş
+oyuncu veya saha dışı kişi oyun alanına girerse, hakem:
+• yalnızca oyuna müdahale söz konusu olduğunda oyunu durdurur
+• oyun durduğunda bu kişiyi oyun alanından çıkarttırır
+• gerekli disiplin işlemini uygular
+Eğer oyun durdurulursa ve müdahale:
+• bir takım görevlisi, yedek oyuncu, değiştirilmiş oyuncu veya ihraç edilmiş
+bir oyuncu tarafından yapılmış ise, oyun direkt serbest vuruş veya penaltı
+vuruşuyla tekrar başlatılır.
+• saha dışından kişi tarafından yapılmış ise oyun hakem atışı ile tekrar
+başlatılır.
+Eğer top kalenin içine gidiyorsa ve müdahale savunma oyuncusunun topla
+oynamasını engellemiyorsa ve top kaleye girerse, müdahalenin hücum yapan
+takım tarafından yapılmaması şartıyla, (topa temas edilse dahi) gol verilir.
+8. Oyun Alanı Dışındaki Oyuncular
+Oyun alanına tekrar girmek için hakemin iznine ihtiyacı olan bir oyuncu
+hakemin iznini almadan tekrar oyun alanına girerse, hakem;
+• oyunu durdurur (eğer oyuncu oyuna veya görevli hakemlere müdahale
+etmiyorsa veya eğer avantaj uygulanıyorsa oyun derhal durdurulmaz)
+• izinsiz oyun alanına girdiği için oyuncuya ihtar verir.
+Eğer hakem oyunu durdurursa, oyuna şöyle başlanmalıdır:
+• müdahalenin olduğu yerden direkt serbest vuruşla
+• eğer müdahale yoksa oyun durdurulduğunda topun bulunduğu yerden
+endirekt serbest vuruşla
+Oyun Kuralları 2024/25 | Kural 3 | Oyuncular
+9. Oyun Alanında Fazladan Bir Kişi Bulunduğu Sırada Gol Olması
+Gol atıldıktan sonra, oyun tekrar başlamadan önce, eğer hakem golün atıldığı
+anda oyun alanında fazladan bir kişi olduğunu fark ederse ve o kişi oyuna
+müdahale ederse:
+• aşağıdaki durumlarda hakem golü geçersiz saymalıdır. Eğer fazladan kişi;
+• golü atan takımın oyuncusu, yedek oyuncusu, değiştirilmiş oyuncusu,
+ihraç edilmiş oyuncusu veya takım görevlisi ise, oyun fazladan kişinin
+bulunduğu yerden direkt serbest vuruşla tekrar başlatılır.
+• oyuna müdahale eden saha dışı bir kişi ise, pozisyon “Oyun alanında
+fazladan kişi olması” bölümünde özetlendiği şekilde bir golle
+sonuçlanmadığı sürece, hakem atışı ile tekrar başlatılır.
+• aşağıdaki durumlarda hakem golü geçerli saymalıdır. Eğer fazladan kişi;
+• golü yiyen takımdan bir oyuncu, yedek oyuncu, değiştirilmiş oyuncu,
+ihraç edilmiş oyuncu veya takım görevlisi ise
+• oyuna müdahale etmemiş saha dışından kişi ise
+Her durumda hakem fazladan kişinin oyun alanından çıkarılmasını
+sağlamalıdır.
+Eğer gol atıldıktan ve oyun tekrar başlatıldıktan sonra hakem, gol atıldığında
+oyun alanında fazladan bir kişi olduğunu fark ederse, gol geçersiz sayılamaz.
+Fazladan kişi hala oyun alanındaysa hakem:
+• oyunu durdurur
+• fazladan kişinin oyun alanından çıkartılmasını sağlar
+• oyunu uygun bir şekilde hakem atışıyla veya serbest vuruşla tekrar
+başlatır.
+Hakem olayı ilgili kurumlara rapor etmelidir.
+56
+10. Takım Kaptanı
+Her takım sahada tanımlayıcı bir kol bandı takan kaptan bulundurmak
+zorundadır. Takım kaptanının özel bir statüsü ya da ayrıcalığı yoktur ancak
+takımın genel davranışlarından bir dereceye kadar sorumludur.
+57
+4
+Kural
+4
+1. Güvenlik
+Bir oyuncu tehlikeli herhangi bir ekipman kullanmamalı veya giymemelidir.
+Her türlü takı (kolyeler, yüzükler, bileklikler, küpeler, deri ve plastik
+bileklikler vs.) yasaktır ve çıkartılmalıdır. Takıların üzerini kapatmak için
+bant kullanımına izin verilmez.
+Oyuncular maç başlamadan ve yedek oyuncular da oyun alanına girmeden
+önce kontrol edilmelidir. Eğer bir oyuncu izin verilmeyen/tehlikeli bir
+ekipman veya takı giyiyorsa veya kullanıyorsa hakem oyuncudan:
+• takıyı veya ekipmanı çıkarmasını ister.
+• eğer oyuncu bu talimatı yerine getiremez veya yerine getirmek istemez ise
+oyunun ilk durduğu anda oyun alanını terk etmesini ister.
+Uyarıyı reddeden veya takıyı/ekipmanı tekrar giyen oyuncuya ihtar
+verilmelidir.
+2. Zorunlu Ekipmanlar
+Bir oyuncunun zorunlu ekipmanları aşağıdaki ayrı parçaları kapsar:
+• kollu bir forma
+• şort
+• çoraplar – çoraplar bir bant veya diğer bir malzeme ile dıştan kaplanırsa
+veya giyilirse, bunlar çorapların ilgili kısmı ile aynı renk olmalıdır.
+• tekmelikler – uygun bir malzemeden yapılmış olmalı, yeterli korumayı
+sağlamak için uygun boyutta olmalı ve çoraplar ile tamamen örtülmelidir.
+Oyuncular tekmeliklerinin boyutundan ve uygunluğundan sorumludur.
+• ayakkabı
+Takım kaptanı ilgili organizasyon düzenleyicisi tarafından sağlanan veya izin
+verilen kol bandı veya üzerinde ‘kaptan’ kelimesi veya ‘C’ har�i veya bunların
+Oyun Kuralları 2024/25 | Kural 4 | Oyuncuların Ekipmanları 59
+Oyuncuların Ekipmanları
+bir tercümesi bulunan tek renkli bir kol bandı takmalıdır (ayrıca bkz. ‘Genel
+değişiklikler’).
+Ayakkabısı veya tekmeliği yanlışlıkla çıkan bir oyuncu mümkün
+olduğunca kısa sürede ve topun ilk oyun dışı olduğu andan önce, çıkan
+ekipmanı yeniden giymelidir; eğer bu oyuncu, ayakkabı veya tekmeliklerini
+tekrar giyemeden/ takamadan topla oynarsa ve/veya gol atarsa, gol geçerli
+sayılır.
+3. Renkler
+• İki takım birbirlerinden ve görevli hakemlerden ayırt edici renkte
+giyinmelidir.
+• Her bir kaleci diğer oyunculardan ve görevli hakemlerden ayırt edici renkte
+giyinmelidir.
+• Eğer kalecilerin formaları aynı renkse ve ikisinin de başka renk bir forması
+yoksa, hakem maçın oynanmasına izin verir.
+Forma altına giyilen giysiler:
+• forma kolunun ana rengi ile aynı olan tek bir renkten oluşmalıdır veya
+• forma kolunun deseni / renkleri ile tamamen aynı olmalıdır
+Şort altlığı/taytlar şortların ana rengiyle veya şortların alt kısımlarıyla aynı
+renk olmalıdır, aynı takımın oyuncuları aynı rengi giymelidir.
+4. Diğer Ekipmanlar
+Eldivenler, başlık, yüz maskesi ve dirsek koruyucuları gibi yumuşak, ha�if ve
+dolgulu malzemeden yapılmış tehlikeli olmayan ekipmanların kullanımına,
+kaleci şapkası ve sporcu gözlüğünde olduğu gibi izin verilebilir. Kaleciler
+eşofman altı giyebilirler.
+Baş Örtüsü
+Baş örtülerinin giyildiği durumlarda (kaleci şapkaları hariç), bu örtüler:
+• siyah ya da formanın ana rengi ile aynı renk olmalıdır (aynı takımın
+oyuncularının aynı renk giymesi koşuluyla)
+• oyuncu ekipmanlarının profesyonel görünümünü koruyor olmalıdır
+• formaya tutturulmamalıdır.
+60
+61
+• siyah ya da formanın ana rengi ile aynı renk olmalıdır (aynı takımın
+oyuncularının aynı renk giymesi koşuluyla)
+• oyuncu ekipmanlarının profesyonel görünümünü koruyor olmalıdır
+• formaya tutturulmamalıdır.
+• giyen oyuncuya ya da başka herhangi bir oyuncuya tehlike oluşturmamalıdır (ör: boyun etrafında açma / kapama mekanizması)
+• yüzeyinden dışarı doğru uzanan parçaları olmamalıdır (çıkıntılı parçalar)
+Elektronik İletişim
+Oyuncuların (yedek oyuncular, değiştirilmiş oyuncular ve ihraç edilmiş
+oyuncular dahil) herhangi bir elektronik veya iletişim ekipmanı giymesine ve
+kullanmasına izin verilmez (EPTS kullanımına izin verilen yerler hariç).
+Oyuncu sağlığı veya güvenliği veya taktiksel/antrenörlük sebepleriyle direkt
+olarak bağlantılı olduğu sürece takım görevlileri tarafından elektronik
+iletişim aracının kullanımına izin verilir fakat sadece küçük, mobil, elle
+tutulur ekipmanlar (örneğin mikrofon, kulaklık, kulak mikrofonu, mobil
+telefon/akıllı telefon, akıllı saat, tablet, laptop) kullanılabilir. İzin verilmeyen
+bir ekipman kullanan veya elektronik veya iletişim ekipmanı kullanımı
+sonucu uygunsuz davranan takım görevlileri ihraç edilecektir.
+Elektronik Performans ve Takip Sistemleri (EPTS)
+FIFA'nın, konfederasyonların veya ulusal futbol federasyonlarının gözetimi
+altında organize edilen resmi turnuvalarda oynanan maçlarda, elektronik
+performans ve takip sistemlerinin (EPTS) bir parçası olarak giyilebilir
+teknolojiler kullanılabilir; müsabaka organizatörü oyuncuların ekipmanlarına
+bağlanan teknolojinin tehlikeli olmadığını ve EPTS için FIFA Kalite Programı
+kapsamındaki giyilebilir EPTS gerekliliklerini karşıladığını garanti altına
+almalıdır.
+Elektronik Performans ve Takip Sistemlerinin (EPTS) müsabaka veya lig
+organizatörü tarafından sağlandığı durumlarda, resmi müsabakalar süresince
+EPTS’den teknik bölgeye iletilen bilgi ve verinin güvenilirliğini ve
+doğruluğunu garantiye alma sorumluluğu müsabaka veya lig organizatörüne
+aittir.
+EPTS için FIFA Kalite Programı lig organizatörlerini, güvenilir ve doğru
+elektronik performans ve takip sistemlerinin onay süreciyle ilgili
+desteklemektedir.
+Oyun Kuralları 2024/25 | Kural 4 | Oyuncuların Ekipmanları
+5. Sloganlar, İfadeler, Görseller ve Reklamlar
+Kullanılan ekipmanlarda herhangi bir politik, dini veya kişisel slogan, beyan
+veya resim olmamalıdır. Oyuncular politik, dini, kişisel slogan, beyan veya
+resim içeren ya da üretici logosundan başka bir reklam taşıyan forma altı
+giysilerini ortaya çıkaramazlar. Herhangi bir ihlalde, oyuncu ve/veya takım,
+müsabakayı düzenleyen kuruluş, ulusal futbol federasyonu veya FIFA
+tarafından cezalandırılacaktır.
+Prensipler
+• Kural 4, oyuncular, yedek oyuncular ve değiştirilmiş oyuncular tarafından
+giyilmiş bütün ekipmanlara (kıyafetler dâhil) uygulanır; prensipler ayrıca
+teknik alandaki bütün takım görevlilerine de uygulanır
+• Aşağıdakilere (genellikle) izin verilmiştir:
+• oyuncu numarası, ismi, takım arması/logosu, futbol oyununu, saygıyı
+ve dürüstlüğü yücelten girişimci sloganlar/amblemler, müsabaka
+kuralları veya ulusal federasyon, konfederasyon veya FIFA
+yönetmeliklerince izin verilmiş reklamlar
+• maç bilgileri: takımlar, tarih, müsabaka/etkinlik, müsabaka yeri
+• İzin verilmiş sloganlar, ifadeler veya görseller forma önüne ve/veya kol
+bandına gelmelidir.
+• Bazı durumlarda slogan, ifade veya görsel yalnızca takım kaptanının kol
+bandında görülebilir
+Kuralın Yorumlanması
+Bir slogan, ifade veya görsele izin verilebilmesine yorum yapılırken hakemin
+Kural 12’yi (Faul ve Fena Hareketler) dikkate alarak aşağıdakilerden birinden
+suçlu olan oyuncuya karşı harekete geçmesi gerekir:
+• saldırgan, aşağılayıcı veya küfürlü söz kullanılması ve/veya hareket(ler)
+kullanmak
+• kışkırtıcı, alaycı veya tahrik edici hareketler yapmak
+Bu kategorilere giren hiçbir slogan, ifade veya görsele izin verilmez.
+‘Dinsel’ ve ‘kişisel’ olanlar görece daha kolay tanımlanabilir ve ‘siyasi’ olanlar
+daha az açık olsa da, aşağıdakiler ile bağlantılı slogan, ifade veya görsellere
+izin verilmez;
+62
+Oyun Kuralları 2024/25 | Kural 4 | Oyuncuların Ekipmanları 63
+• sağ veya ölü herhangi biri(leri) (resmi müsabaka isminin bir parçası
+olmadığı sürece)
+• herhangi bir yerel, bölgesel, ulusal veya uluslararası siyasi parti/
+ organizasyon/ grup vs.
+• herhangi bir yerel, bölgesel veya ulusal hükümet veya bunlara bağlı
+herhangi bir departman, o�is veya birimleri
+• herhangi bir ayrımcı organizasyon
+• hede�leri/eylemleri kayda değer sayıda insanı inciten herhangi bir
+organizasyon
+• herhangi bir özel siyasi eylem/olay
+Önemli bir ulusal veya uluslararası olay anılırken karşı takım (taraftarları
+dâhil) ve kamunun hassasiyeti dikkatlice değerlendirilmelidir.
+Müsabaka kuralları, özellikle izin verilen slogan, ifade ve görsellerin boyutu,
+sayısı ve konumu ile bağlantılı daha fazla kısıtlama/sınırlama içerebilir.
+Slogan, ifade veya görseller ile ilgili anlaşmazlıkların müsabakadan önce
+çözülmesi önerilir.
+6. İhlaller ve Cezalar
+Bu kuralın herhangi bir ihlalinde oyunun durdurulması şart değildir ve
+oyuncuya:
+• hakem tarafından ekipmanını düzeltmesi için oyun alanından çıkması
+talimatı verilir
+• eğer ekipmanları hala düzeltilmemiş ise, oyun durduğunda oyun alanını
+terk eder.
+Oyuncu ekipmanını düzeltmek veya değiştirmek için oyun alanını terk
+ettikten sonra:
+• tekrar oyuna girmesine izin verilmeden önce ekipmanları hakemlerden biri
+tarafından kontrol edilecektir.
+• yalnızca hakemin izniyle oyuna tekrar girebilir. (izin oyun devam ederken
+verilebilir)
+Hakemin izni olmadan oyuna giren oyuncuya ihtar verilmelidir ve oyun
+hakem tarafından ihtar verilmek için durdurulursa, müdahale olmadığı
+sürece oyunun durdurulduğunda topun bulunduğu yerden bir endirekt
+serbest vuruş verilir, müdahale olması durumunda ise, müdahalenin yapıldığı
+yerden bir direkt serbest vuruş (veya penaltı vuruşu) verilir.
+Kural
+5
+Oyun Kuralları 2024/25 | Kural 5 | Hakem 65
+Hakem
+1. Hakemin yetkisi
+Her maç, maç ile ilgili Oyun Kurallarını uygulamada tam yetkili bir hakem
+tarafından yönetilir.
+2. Hakemin kararları
+Kararlar, hakemin yeteneğinden en iyi şekilde yararlanılarak Oyun
+Kurallarına ve "oyunun ruhuna" uygun olarak verilir ve Oyun Kuralları
+çerçevesine uygun hareket etme hakkına sahip olan hakemin kanaatine
+dayanır.
+Hakemin, bir golün geçerli sayılıp sayılmayacağı ve maçın sonucu da dahil
+olmak üzere, oyun ile ilgili verdiği tüm kararlar nihaidir. Hakemin ve
+müsabakada görevli diğer hakemlerin kararlarına her zaman saygı
+duyulmalıdır.
+Hakem oyunu tekrar başlattıysa, ilk yarı veya ikinci yarıyı bitirme işaretini
+verdiyse (uzatmalar dahil) ve oyun alanını terk ettiyse ya da maçı tatil
+ettiyse, diğer bir maç görevlisinin uyarısıyla veya kararın yanlış olduğunu
+fark etmiş olsa dahi, tekrar başlatma kararını değiştiremez. Ancak eğer
+hakem devre sonunda hakem inceleme alanına (RRA) gitmek için ya da
+oyunculara oyun alanına dönmeleri için talimat vermek amacıyla oyun
+alanından çıkarsa; bu durum devre bitmeden meydana gelen bir olay için
+verilen bir kararın değiştirilmesine engel değildir.
+Kural 12.3 ve VAR protokolünde belirtilen durumlar dışında, oyun tekrar
+başlatıldıktan sonra bir disiplin cezası yalnızca eğer başka bir maç
+görevlisi oyun tekrar başlatılmadan önce ihlali tespit edip, hakeme
+iletmeye çalıştığı durumda uygulanabilir; ceza ile ilişkili oyunu tekrar
+başlatma şekli uygulanmaz.
+Eğer bir hakem oyunu yönetemeyecek duruma gelirse, oyun top oyundan
+çıkana kadar diğer maç görevlilerinin kontrolünde devam edebilir.
+66
+3. Yetkileri ve Görevleri
+Hakem:
+• Oyun Kurallarını uygular
+• maçı diğer hakemler ile işbirliği içerisinde yönetir
+• oyunun süresini belirler, maç kayıtlarını tutar ve maç öncesinde, maç
+sırasında veya maç sonrasında işlenen disiplin suçları ve meydana gelen diğer
+olayların bilgisini de içeren raporunu ilgili kurumlara verir
+• oyunun tekrar başlamasını kontrol eder ve/veya işaret eder
+Avantaj
+• bir ihlal meydana geldiğinde ihlali gerçekleştirmeyen takımın avantajdan
+yararlanabilmesi için oyunu devam ettirir ve beklenen avantajın o anda veya
+birkaç saniye içerisinde gerçekleşmemesi halinde ihlali cezalandırır.
+Disiplin cezaları
+• aynı anda birden fazla ihlal gerçekleşirse yaptırım, oyunu tekrar başlatma,
+�iziksel şiddet ve taktiksel etki açısından daha ciddi olan ihlali cezalandırır
+• ihtar ve ihraç gerektiren bir ihlal yapan oyuncuya disiplin cezası verir
+• maç öncesi inceleme için oyun alanına girdiği andan oyun alanını terk ettiği
+ana kadar (penaltılar (penaltı vuruşları) dahil) disiplin cezası verme yetkisi
+vardır. Eğer maçın başında henüz oyun alanına giriş yapılmadan önce bir
+oyuncu ihraç gerektiren bir ihlalde bulunursa, hakem oyuncunun maçta
+oynamasını engelleme yetkisine sahiptir (Kural 3.6'ya bakınız); hakem diğer
+tüm fena hareketleri rapor edecektir
+• devre arası, uzatma devreleri ve penaltılar (penaltı vuruşları) da dahil,
+maçın başlangıcında oyun alanına girdiği süreden itibaren maçın bitimine
+kadar sarı veya kırmızı kart gösterme ve müsabaka kurallarının izin vermesi
+durumunda bir oyuncuyu geçici oyun dışı bırakma yetkisi
+bulunmaktadır.
+• sorumlu bir şekilde hareket etmeyen takım görevlilerine karşı harekete
+geçer ve uyarır veya ihtar için sarı kart veya oyundan ve teknik alandan da
+dahil çevreleyen bölgeden ihraç etmek için kırmızı kart gösterir. Eğer bu
+davranışta bulunan kişi belirlenemezse cezayı teknik alanda bulunan teknik
+direktör alacaktır.
+67
+Bir takımın sağlık görevlisi ihraç gerektiren bir ihlal gerçekleştirirse eğer
+takımın başka bir sağlık görevlisi yoksa, bu sağlık görevlisi oyun alanında
+kalabilir ve gerektiğinde görevini yapabilir.
+• hakem kendisinin görmediği olaylarda diğer maç görevlilerinin verdikleri
+bilgilere göre hareket eder.
+Sakatlıklar
+• eğer bir oyuncu sadece ha�if şekilde sakatlandı ise, top oyun dışına
+çıkıncaya kadar oyunu devam ettirir
+• bir oyuncu ciddi şekilde sakatlandı ise, hakem oyunu durdurur ve
+oyuncunun oyun alanından çıkarılmasını sağlar. Sakatlanan bir oyuncu oyun
+alanında tedavi edilmez ve oyun alanına ancak maç tekrar başlatıldıktan
+sonra girebilir; eğer top oyunda ise oyuna tekrar giriş taç çizgisinden
+yapılmalıdır, fakat top oyun dışında ise oyun alanını sınırlayan çizgilerin
+herhangi birinden girebilir. Oyun alanının terk edilmesine ilişkin istisnai
+durumlar aşağıda verilmiştir:
+• bir kaleci sakatlandığında
+• bir kaleci ve başka bir oyuncu çarpıştığında ve sağlık görevlilerine
+derhal ihtiyaç duyulduğunda
+• aynı takım oyuncuları çarpıştığında ve sağlık görevlilerine derhal
+ihtiyaç duyulduğunda
+• ciddi bir sakatlık meydana geldiğinde
+• bir oyuncu rakibinin ihtar aldığı veya ihraç edildiği (örneğin
+kontrolsüz hareket veya ciddi faul gibi) fiziksel bir ihlal sonucunda
+sakatlandığında, değerlendirme/ tedavi hızlı bir şekilde tamamlanırsa
+• bir penaltı vuruşu kararı verildiğinde ve sakatlanan oyuncu penaltı
+vuruşunu kullanacak olan oyuncu olduğunda
+• kanaması olan bir oyuncunun oyun alanını terk etmesini sağlar. Oyuncu
+sadece kanamanın durduğu ve herhangi bir ekipmanında kan olmadığından
+emin olan hakemin bir işareti ile tekrar oyuna girebilir
+• hakem doktorların ve/veya sedye taşıyan görevlilerin oyun alanına
+girmesine izin vermişse, oyuncu, oyun alanını sedye üzerinde veya yürüyerek
+terk etmelidir. Eğer oyuncu bu duruma uymazsa sportmenlik dışı davranıştan
+dolayı ihtar verilmelidir
+• hakem sakatlanan ve tedavi için oyun alanını terk etmesi gereken bir
+oyuncuya ihtar vermeye veya oyuncuyu ihraç etmeye karar vermiş ise,
+oyuncuya oyun alanını terk etmeden önce kart gösterilmelidir
+• eğer oyun başka bir nedenden dolayı durdurulmamış ise veya bir
+ oyuncunun maruz kaldığı sakatlanma Oyun Kurallarının ihlali sonucu
+meydana gelmediyse, oyun hakem atışıyla tekrar başlatılır.
+Oyun Kuralları 2023/24 | Kural 5 | Hakem
+Dışarıdan Müdahaleler
+• aşağıda örnekleri verilen ihlaller veya dış müdahaleler gerçekleşirse,
+hakem maçı durdurur, geçici olarak erteler veya tatil eder:
+• ışıklandırma yetersiz ise
+• seyirci tarafından atılan bir cisim hakemlerden birine bir oyuncuya
+veya bir takım görevlisine isabet ederse, olayın ciddiyetine bağlı olmak
+üzere hakem maçın devam etmesine izin verebilir, durdurabilir, geçici
+olarak erteleyebilir ya da tatil edebilir
+• bir seyircinin oyunu etkileyecek şekilde düdük çalması halinde, oyun
+durdurulur ve oyun hakem atışı ile tekrar başlatılır
+• top oyundayken oyun alanına fazladan bir top, başka bir cisim ya da
+hayvan girerse, hakem:
+– eğer oyuna bir müdahale söz konusu ise oyunu durdurur (ve hakem
+atışı ile tekrar başlatır)
+– ancak müdahalenin hücum eden takım tarafından yapılmaması
+koşuluyla, topun kaleye gitmesi ve müdahalenin savunma yapan
+oyuncunun topla oynamasına engel oluşturmaması durumunda, eğer
+top kaleye girdi ise (topa temas edilmiş olsa bile) gol kararı verilir.
+– oyuna müdahale yoksa maçın devam etmesine izin verir ve mümkün
+olan ilk fırsatta cismin çıkarılmasını sağlar
+• yetkili olmayan kişilerin oyun alanına girmesine izin vermez
+4. Video Yardımcı Hakem (VAR)
+Video Yardımcı Hakemlerin (VAR) kullanımına, yalnızca müsabaka
+organizatörünün Uygulama Yardımı ve Onay Programı (IAAP )
+gereksinimlerini FIFA’nın IAAP dokümanlarında açıklanan şekilde yerine
+getirdiği ve FIFA’dan yazılı onay aldığı durumlarda izin verilir.
+Hakem, yalnızca aşağıdaki durumlarla ilgili ‘açık ve bariz hata’ veya ‘gözden
+kaçan ciddi olay’ olması halinde Video Yardımcı Hakemden (VAR ) yardım
+alabilir:
+• gol/gol değil
+• penaltı/penaltı değil
+• direkt kırmızı kart (ikinci ihtar hariç)
+• yanlış kimlik tespiti, hakemin ihlali yapan takımdan yanlış oyuncuya
+ihtar verme veya ihraç etme durumu
+68
+Video Yardımcı Hakemin (VAR) yardımı, olayın tekrar görüntüsünü/görüntülerini
+kullanmak ile ilişkilidir. Hakem, nihai kararını doğrudan VAR'dan gelen bilgiye
+dayanarak(VOR) ve/veya bizzat kendisinin tekrar görüntüsünü izlemesiyle
+(OFR, sahada inceleme) verir.
+‘Gözden kaçan ciddi olay’ dışında hakem (ve ilgili diğer saha içi maç görevlileri),
+her durumda bir karar vermek zorundadır (potansiyel bir ihlali cezalandırmama
+kararı dahil); bu karar ‘açık ve bariz bir hata’ olmadığı sürece değişmez.
+Oyun tekrar başladıktan sonra yapılan incelemeler
+Eğer oyun durdurulur ve tekrar başlatılırsa, hakem sadece, yanlış kimlik tespiti
+veya şiddetli hareket, tükürme, ısırma veya aşırı derecede saldırgan, aşağılayıcı
+ve/veya küfürlü hareket(ler) gibi potansiyel ihraç durumlarında bir inceleme
+yapabilir ve uygun disiplin yaptırımını uygulayabilir.
+5. Hakem Ekipmanları
+Zorunlu Ekipmanlar
+Hakemler aşağıdakileri yanlarında bulundurmalıdır:
+• Düdük(ler)
+• Saat(ler)
+• Kırmızı ve sarı kartlar
+• Not defteri (veya maçın kayıtlarını tutmak için kullanılabilecek diğer araçlar)
+Diğer Ekipmanlar
+Hakemlerin aşağıdaki kullanmasına izin verilebilir:
+• Diğer hakemlerle iletişim kurmak için kullanılacak ekipmanlar- sesli/bipli
+bayraklar, kulaklık seti vb.
+• EPTS veya diğer �itness görüntüleme cihazları
+Hakemlerin ve oyun alanında görev yapan diğer hakemlerin, kameralar dahil
+olmak üzere herhangi bir elektronik ekipman veya takı takmaları yasaktır.
+69
+CORNER KICK
+Oyun Kuralları 2024/25 | Kural 5 | Hakem
+70
+6. Hakem işaretleri
+Onaylı hakem işaretleri için görsellere bakınız.
+Endirekt serbest vuruş Direkt serbest vuruş FREE KICK
+GOAL KICK
+OFFSIDE
+PENALTY KICK
+Penaltı vuruşuFREE KICFREE K
+71
+Avantaj (1)
+(2)
+CK
+Köşe Vuruşu
+CORNER KICK GOAL KICK
+OFFSIDE
+CORNER KICK GOAL KICK
+OFFSIDE
+Avantaj
+Kale Vuruşu
+Oyun Kuralları 2024/25 | Kural 5 | Hakem
+PENA PENALTL
+Y KICK TY KICK
+72
+Kırmızı ve sarı kart
+Review – TV Signal Kontrol: parmağı kulağa götür,
+diğer el/kol uzatılmış şekilde İnceleme: "TV işareti"
+CORNER KICK GOAL KICK
+OFFSIDE
+73
+7. Maç Görevlilerinin Sorumlulukları
+Hakem veya diğer maç görevlileri aşağıdaki durumlardan sorumlu tutulamaz:
+• bir oyuncu, görevli ya da seyircinin herhangi bir şekilde yaralanmasından
+veya sakatlanmasından
+• herhangi bir mala gelebilecek zararlardan
+• oyun kurallarına bağlı olarak hakemin bir maçı durdurması, oynatması veya
+yönetmesi ile ilgili alacağı kararlar nedeniyle herhangi bir kişi, kulüp, şirket,
+dernek veya diğer kuruluşların uğradıkları veya uğrayacakları kayıplardan
+Bunun kapsamı içinde olanlar:
+• oyun alanının veya çevresinin koşullarından veya hava şartlarından dolayı
+bir maçın oynanıp oynanmaması ile ilgili alacağı karar
+• herhangi bir nedenle maçı tatil etmesi ile ilgili alacağı karar
+• oyun alanı ekipmanları ve maç boyunca kullanılacak topun uygunluğu ile
+ilgili alacağı karar
+• oyunun seyirci müdahalesi veya tribünlerdeki olaylara bağlı olarak
+durdurulup durdurulmaması ile ilgili alacağı karar
+• sakatlanan bir oyuncunun tedavi amacıyla oyun alanından çıkarılması için
+oyunun durdurulup durdurulmaması ile ilgili alacağı karar
+• sakatlanan bir oyuncunun tedavi amacıyla oyun alanından çıkarılmasını
+istemesi ile ilgili alacağı karar
+• bir oyuncunun herhangi bir giysi veya ekipmanı giymesine/takmasına izin
+verilip verilmemesi ile ilgili alacağı karar
+• yetkisinin bulunduğu yerlerde, oyun alanı çevresinde herhangi bir kimsenin
+(takım ve stadyum görevlileri, güvenlik personeli, fotoğrafçılar veya diğer
+medya mensupları dahil) bulunmasına müsaade edilip edilmemesi ile ilgili
+alacağı karar
+• FIFA, konfederasyon, ulusal futbol federasyonu ya da müsabaka kural veya
+yönetmeliklerine göre oynanan bir maçtaki görevlerine bağlı olarak ya da
+Oyun Kuralları kapsamında verdiği herhangi bir karar
+Oyun Kuralları 2024/25 | Kural 5 | Hakem
+PENALTY KICK
+6
+Kural
+6
+Diğer maç görevlileri (iki yardımcı hakem, bir dördüncü hakem, ilave iki
+yardımcı hakem, bir yedek yardımcı hakem, bir video yardımcı hakem (VAR)
+ve en az bir yardımcı video yardımcı hakem (AVAR) maçlara atanabilir. Oyun
+Kurallarına göre maçı kontrol etmede hakeme yardımcı olacaklardır fakat
+nihai karar her durumda hakem tarafından verilecektir.
+Hakem, yardımcı hakemler, dördüncü hakem, ilave yardımcı hakemler ve
+yedek yardımcı hakem ‘saha içi’ maç görevlileridir.
+VAR ve AVAR, ‘video’ maç görevlileridir (VMO) ve hakeme, Oyun Kuralları ve
+VAR protokolü çerçevesinde yardımcı olurlar.
+Diğer hakemler, hakemin yönetimi altında görev yaparlar. Gereksiz
+müdahaleleri veya yakışıksız hareketleri söz konusu olduğunda, hakem
+bunların görevlerine son verecek ve durumu yetkili kurumlara rapor
+edecektir.
+Diğer ‘saha içi’ maç görevlileri hakemden daha iyi görüş alanına sahip
+oldukları anlarda gerçekleşen kusur ve ihlaller için hakeme yardımcı olurlar,
+"saha içi" maç görevlileri hakemden daha iyi görüş alanına sahip oldukları
+anlarda gerçekleşen kusur ve ihlaller için hakeme yardımcı olmalı, hakemin
+ve diğer hakemlerin görüş alanı dışında herhangi bir sportmenlik dışı hareket
+veya başka bir olay meydana geldiğinde bunları yetkili kuruluşlara rapor
+etmelidirler. Hazırlanan raporlar konusunda hakem ve diğer maç görevlileri
+bilgilendirilmelidir.
+"Saha içi" maç görevlileri hakeme, oyun alanının, topların ve oyuncuların
+incelenmesinde (sorunun çözülüp çözülmediği de dahil), sürenin takip
+edilmesinde, goller ve fena hareketlerin kayıtlarının tutulmasında yardımcı
+olacaklardır.
+Müsabaka talimatları maça çıkamayacak veya devam edemeyecek olan bir
+hakemin yerini kimin alacağını açıkça belirtmelidir. Özellikle hakemin maça
+başlayamayacağı ya da devam edemeyeceği durumlarda, dördüncü hakem
+veya kıdemli yardımcı hakem veya kıdemli ilave yardımcı hakemden
+hangisinin görevi devralması gerektiğini açıkça belirtmelidir.
+Oyun Kuralları 2024/25 | Kural 6 | Diğer Hakemler 75
+Diğer Hakemler
+76
+1. Yardımcı Hakemler
+Aşağıdaki durumları işaret edeceklerdir:
+• topun tamamının oyun alanını terk ettiğini ve hangi takımın köşe
+vuruşu, kale vuruşu veya taç atışı kullanacağını
+• ofsaytta bulunduğu için cezalandırılabilecek bir oyuncuyu
+• oyuncu değişikliği istendiğini
+• penaltı vuruşlarında vuruş yapılmadan önce kalecinin kale çizgisinden
+hareket edip etmediğini ve topun kale çizgisini geçip geçmediğini; eğer
+ilave yardımcı hakem atanmış ise, yardımcı hakem penaltı noktası
+hizasında pozisyon alır.
+Oyuncu değiştirme yönteminin gözlemlenmesi de yardımcı hakemin
+görevleri arasındadır.
+Yardımcı hakem 9,15 m uzaklığının kontrol edilmesine yardımcı olmak
+için oyun alanına girebilir.
+2. Dördüncü Hakem
+Dördüncü hakemin yardımları şunları kapsar:
+• oyuncu değişikliğinin yönetilmesi
+• oyuncunun/yedek oyuncunun ekipmanlarının kontrol edilmesi
+• hakemin işareti/onayı üzerine oyuncunun oyuna tekrar girmesi
+• yedek topların denetlenmesi
+• her iki yarı sonunda (uzatma süresi dahil) hakemin oyuna eklemeyi
+düşündüğü en az ilave sürenin gösterilmesi
+• teknik alanda bulunan herhangi bir kişinin sorumsuz davranışının
+hakeme bildirilmesi
+3. İlave Yardımcı Hakemler
+İlave yardımcı hakemler aşağıdaki işaretleri verebilir:
+• gol atıldığı zamanlar dahil olmak üzere topun tamamının kale çizgisini
+geçip geçmediğini
+• hangi takımın köşe vuruşu ya da kale vuruşu kullanacağını
+• penaltı vuruşlarında kalecinin topa vurulmadan önce kale çizgisinden
+ayrılıp ayrılmadığını ve topun kale çizgisini geçip geçmediğini
+4. Yedek Yardımcı Hakem
+Bir yedek yardımcı hakem, devam edemeyen bir yardımcı hakemin,
+dördüncü hakemin veya ilave yardımcı hakemin yerini alabilir ve ayrıca
+diğer "saha içi" maç görevlileriyle aynı şekilde hakeme yardımcı olabilir.
+5. Video Maç Görevlileri
+Video Yardımcı Hakem (VAR), yalnızca gol/gol değil, penaltı/penaltı değil,
+direkt kırmızı kart (ikinci ihtar hariç) veya yanlış kimlik tespiti (ihlali
+yapan takımdan yanlış oyuncuya ihtar veya ihraç verme) ile ilgili
+durumlara bağlı olarak ‘açık ve bariz hata’ veya ‘gözden kaçan ciddi olay’
+söz konusu ise; tekrar görüntülerini kullanarak hakeme yardımcı
+olabilecek bir maç görevlisidir.
+Video yardımcı hakem asistanı (AVAR), VAR’a öncelikli olarak şu
+konularda yardımcı olan bir maç görevlisidir:
+• VAR, kontrol veya inceleme ile meşgul iken televizyon yayınını izlemek
+• VAR'la ilgili olayların ve herhangi bir iletişim veya teknolojik
+problemlerin kaydını tutmak
+• özellikle VAR, ‘kontrol’/’inceleme’ ile meşgul iken, hakem ile iletişim
+kurarak, VAR ile hakem arasındaki iletişime yardımcı olmak. Örneğin;
+hakeme ‘oyunu durdurmasını’ veya ‘oyunu tekrar başlatmayı geciktirmesini’ söylemek vs.
+• ‘kontrol’ veya ‘inceleme’ ile harcanan vaktin kaydını tutmak
+• ilgili tara�lara VAR kararları ile ilgili bilgileri aktarmak
+Oyun Kuralları 2024/25 | Kural 6 | Diğer Hakemler 77
+78
+Hücum eden takım için
+serbest vuruş
+Oyuncu değişikliği
+FREE KICK
+1 CORNE2 2
+1
+6. Yardımcı Hakem İşaretleri
+Onaylı yardımcı hakem işaretleri
+için görsellere bakınız.
+Savunma yapan takım için
+serbest vuruş
+FREE KICK
+KICK GOAL KICK
+OFFSIDE
+PENALTY KICK
+79
+CORNER KICSavunma yapan takım için
+taç atışı
+Hücum eden takım için
+taç atışı
+Köşe vuruşu Kale vuruşu
+Oyun Kuralları 2024/25 | Kural 6 | Diğer Hakemler
+OFFSIDE FREE KICK
+FREE KICK
+80
+GOAL KICK
+OFFSIDE
+PENALTY KICK
+Ofsayt
+2b 2c
+1 2a
+Ofsayt oyun
+alanının yakın kenarı
+Ofsayt oyun
+alanının ortası
+Ofsayt oyun
+alanının uzak kenarı
+ORNER KICK GOAL KICK
+OFFSIDE
+PENALTY75
+Gol
+(topun kale çizgisini açık bir şekilde
+geçtiğinin görülmediği pozisyonlarda)
+7. İlave Yardımcı Hakem İşaretleri
+81
+CK
+7
+Kural 7
+Oyun Kuralları 2024/25 | Kural 7 | Maçın Süresi 83
+Maçın Süresi
+1. Oyun devreleri
+Bir maç 45 dakikalık iki eşit devreden oluşur, eğer hakem ve iki takım maç
+başlamadan önce müsabaka talimatlarına uygun olarak anlaşırlarsa süre
+azaltılabilir.
+2. Devre arası süre
+Oyuncuların devre arasında 15 dakikayı aşmamak kaydıyla dinlenme
+hakları vardır; uzatma devrelerinin devre arasında kısa bir içecek molasına
+(1 dakikayı geçmemelidir) izin verilir. Müsabaka talimatları devre arası
+süreyi belirtmelidir ve belirtilen süre sadece hakemin izni ile
+değiştirilebilir.
+3. Kayıp zaman için ek süre
+Aşağıdaki durumlar sebebiyle kaybolan tüm oynama süresi, hakem
+tarafından ait olduğu devreye eklenecektir:
+• oyuncu değişiklikleri
+• sakatlanan oyuncuların değerlendirilmesi ve/veya oyun alanından
+çıkartılmaları
+• zaman geçirilmesi
+• disiplin cezaları
+• su molaları gibi müsabaka talimatları çerçevesinde izin verilen tıbbi
+duraklamalar (bir dakikayı geçmemek şartıyla) ve ‘serinleme’ molaları
+(doksan saniyeden üç dakikaya kadar)
+• VAR kontrol ve incelemelerine bağlı gecikmeler
+• Gol kutlamaları
+• oyunun tekrar başlatılmasını geciktiren önemli duraklamalar da dahil
+diğer sebepler (örneğin saha dışı kişinin müdahalesi nedeniyle)
+84
+Dördüncü hakem, her iki yarının son dakikasının bitiminde hakem tarafından
+belirlenen en az ilave süreyi gösterir. İlave süre hakem tarafından arttırılabilir;
+fakat azaltılamaz.
+Hakem maçın ilk devresinde yapılan yanlış zaman hesaplamasını ikinci
+devrenin süresini değiştirerek tela�i etmemelidir.
+4. Penaltı vuruşu
+Eğer bir penaltı vuruşu yapılacak veya tekrar edilecekse, o devrenin süresi
+penaltı vuruşu tamamlanana kadar uzatılır.
+5. Maçın tatil edilmesi
+Müsabaka talimatları ya da organizatörler aksini belirtmediği sürece tatil
+edilen maçlar yeniden oynanır.
+84
+8795
+Kural
+8
+Oyun Kuralları 2024/25 | Kural 8 | Oyunun başlaması ve Tekrar Başlaması 87
+Oyunun Başlaması ve
+Tekrar Başlaması
+Oyunun ve uzatmanın her iki yarısını başlatmak ve gol atıldıktan sonra oyunu
+tekrar başlatmak için başlama vuruşu yapılır. Serbest vuruşlar (direkt veya
+endirekt), penaltı vuruşları, taç atışları, kale vuruşları ve köşe vuruşları diğer
+oyunu tekrar başlatma yöntemleridir. (Bkz. Kural 13-17). Hakem oyunu
+durdurduğunda ve kurallar, yukarıda belirtilen tekrar başlatma şekillerinden
+birisinin kullanılmasını gerektirmediğinde oyun hakem atışı ile tekrar
+başlatılır.
+Top oyun dışı iken bir ihlal gerçekleştiğinde, bu durum oyunun tekrardan
+nasıl başlatılacağını değiştirmez.
+1. Başlama Vuruşu
+Yöntem
+• Hakem para atışı yapar ve atışı kazanan takım ya ilk yarıda hücum edeceği
+kaleyi ya da başlama vuruşunu yapmayı seçer
+• yukarıdakinin sonucuna bağlı olarak rakipleri başlama vuruşunu yapar ya
+da ilk yarı hangi kaleye hücum edeceklerini seçer
+• ilk yarı hangi kaleye hücum edeceğini seçen takım ikinci yarı başlama
+vuruşunu yapar
+• ikinci yarıda takımlar kaleleri değiştirir ve diğer kaleye hücum ederler
+• bir takım gol attıktan sonra başlama vuruşu diğer takım tarafından yapılır.
+Bütün başlama vuruşlarında:
+• başlama vuruşunu yapan haricindeki bütün oyuncular, kendi yarı alanlarında
+bulunmalıdırlar
+• başlama vuruşunu yapan takımın rakipleri top oyuna girene kadar toptan
+en az 9.15 m (10 yds) uzakta olmalıdır
+• top orta noktada hareketsiz bir şekilde durmalıdır
+• hakem bir işaret verir
+• top vurulup, açıkça hareket ettiği anda oyunda olur
+88
+• başlama vuruşundan rakip takıma doğrudan gol atılabilir, eğer top doğrudan
+vuruşu yapanın kalesine girerse, rakip takımın lehine köşe vuruşu verilir.
+İhlaller ve Cezalar
+Başlama vuruşunu yapan oyuncu, top başka bir oyuncuya dokunmadan önce
+topa tekrar dokunursa, rakip takımın lehine endirekt serbest vuruş, elle
+oynarsa direkt serbest vuruş verilir.
+Başlama vuruşu yönteminin herhangi bir diğer ihlalinde, başlama vuruşu
+tekrar edilir.
+2. Hakem atışı
+Yöntem
+• Eğer oyun durduğunda aşağıdaki durumlardan biri varsa, hakem atışında
+top, ceza alanı içerisindeki savunma yapan takımın kalecisi için bırakılır:
+• top ceza alanı içerisindeyse ya da
+• topa en son dokunulan yer ceza alanı içerisindeyse
+• Diğer tüm durumlarda hakem, topa en son dokunan takımın bir oyuncusu
+için, topa en son dokunulduğu, saha dışı bir unsura temas ettiği veya Kural
+9.1’de de belirtildiği gibi bir maç görevlisine çarptığı yerde hakem atışı yapar.
+• Top oyuna girene kadar diğer tüm oyuncular (iki takım da dahil) toptan en
+az 4 m (4,5 yds) uzakta olmalıdır.
+Top yere temas ettiği anda oyuna girmiş olur.
+İhlaller ve Cezalar
+Hakem atışı aşağıdaki durumlarda tekrarlanır:
+• top yere temas etmeden önce bir oyuncuya dokunursa
+• top yere temas ettikten sonra hiçbir oyuncuya dokunmadan oyun alanının
+dışına çıkarsa
+Eğer hakem atışında top, en az iki oyuncuya temas etmeden kaleye girerse,
+oyun aşağıdaki şekilde tekrar başlar:
+• eğer top rakip takımın kalesine girerse, kale vuruşu ile
+• eğer top takımın kendi kalesine girerse, köşe vuruşu ile
+89
+9
+Kural
+9
+Oyun Kuralları 2024/25 | Kural 9 | Topun Oyunda ve Oyun Dışı Olması 91
+Topun Oyunda ve
+Oyun Dışı Olması
+1. Topun oyun dışı olması
+Top aşağıdaki durumlarda oyun dışıdır:
+• top kale çizgisini ya da taç çizgisini yerden veya havadan tamamen
+geçtiğinde
+• oyun hakem tarafından durdurulduğunda
+• top, bir maç görevlisine temas edip oyun alanında kaldıktan sonra,
+• takım umut vaat eden bir hücum başlattığında ya da
+• top direkt olarak kaleye girdiğinde ya da
+• topa sahip olan takım değiştiğinde
+Tüm bu durumlarda oyun hakem atışı ile tekrar başlatılır.
+ 2. Topun oyunda olması
+Top maç görevlilerinden birine temas ettiğinde ve kale direğine, üst
+direğe ya da köşe direğine çarpıp dönerek oyun alanında kaldığı durum
+da dahil olmak üzere diğer tüm zamanlarda oyundadır.
+10
+Kural
+10
+1. Gol Yapma
+Bir gol, golü atan takımın hiçbir kural ihlalinde bulunmamış olması
+koşuluyla, topun tamamının kale direkleri arasından ve üst direğin
+altından kale çizgisini geçmesiyle yapılır.
+Eğer kaleci topu el ile atarak doğrudan rakip takımın kalesine sokarsa,
+kale vuruşu kararı verilir.
+Eğer hakem, top, kale çizgisini tamamen geçmeden önce gol işareti verirse,
+oyun hakem atışıyla tekrar başlatılır.
+2. Kazanan Takım
+Daha fazla sayıda gol atan takım maçı kazanır. Eğer iki takım da gol
+atmazsa ya da eşit sayıda gol atarlarsa, maç berabere sonuçlanır.
+Müsabaka talimatlarının berabere biten bir maç veya rövanş maçları
+sonrasında kazanan bir takım olmasını gerektirmesi durumunda, kazanan
+takımı belirlemek için izin verilen yöntemler şunlardır:
+• deplasmanda atılan goller kuralı
+• her biri 15 dakikayı geçmeyen iki eşit süredeki uzatma devreleri
+• penaltılar (penaltı vuruşları)
+Yukarıdaki yöntemlerin bir kombinasyonu kullanılabilir.
+3. Penaltılar (penaltı vuruşları)
+Penaltılar (penaltı vuruşları) maçın bitiminden sonra yapılır ve aksi
+belirtilmediği sürece ilgili Oyun Kuralları uygulanır. Maç sırasında
+oyundan ihraç edilen bir oyuncunun penaltılar (penaltı vuruşları) da yer
+almasına izin verilmez, maç sırasında oyunculara ve takım görevlilerine
+verilen uyarılar ve ihtarlar penaltılar (penaltı vuruşlarına) taşınmaz.
+Oyun Kuralları 2024/25 | Kural 10 | Bir Maçın Sonucunu Belirleme 93
+Bir Maçın Sonucunu
+Belirleme
+
+88
+Gol Değil
+Gol
+kale
+çizgisi
+kale
+çizgisi
+94
+Gol Değil Gol
+95
+Yöntem
+Penaltılar (penaltı vuruşları) başlamadan önce
+• Eğer dikkate alınması gereken başka etkenler yoksa (örneğin zemin
+koşulları, güvenlik vb.) vuruşların yapılacağı kaleyi seçmek için hakem para
+atışı yapar ve bu kale yalnızca güvenlik sorunları durumunda ya da
+vuruşların yapıldığı kale veya zemin kullanılamaz hale geldiğinde
+değiştirilebilir.
+• Hakem tekrar para atışı yapar ve atışı kazanan takım ilk vuruşu ya da ikinci
+vuruşu yapmaya karar verir.
+• Oyuna devam edemeyecek bir kaleci yerine geçen yedek oyuncu hariç,
+sadece oyun alanında bulunan ya da geçici olarak oyun alanının dışında
+(sakatlanma, ekipmanların düzeltilmesi vb.) olan oyuncular, vuruşlara
+katılabilirler.
+• Her takım, penaltı noktasından yapılan vuruşlara katılabilecek oyuncuların
+seçiminden ve vuruş sıralarının belirlenmesinden sorumludur. Hakem sıra
+konusunda bilgilendirilmez.
+• Eğer maç bitiminde ve vuruşların öncesi veya sırasında, bir takımın, rakip
+takımdan daha fazla sayıda oyuncusu varsa, rakip takımın oyuncu sayısıyla
+aynı olması için takım oyuncu sayısını aynı sayıya indirmelidir ve oyundan
+çıkarılan oyuncuların isimleri ve numaraları hakeme bildirilmelidir. Takımdan
+çıkarılan oyuncular vuruşlarda yer alamazlar (aşağıda belirtilen durumlar
+hariç).
+• Eğer bir kaleci vuruşlardan önce ya da vuruşlar sırasında oyuna devam
+edemeyecek hale gelirse, oyuncu sayılarının eşitlenmesi için takımdan
+çıkarılan oyunculardan biri ile yer değiştirebilir veya takımları izin verilen en
+çok sayıda oyuncu değiştirmemişse, yedek oyunculardan biri ile yer
+değiştirebilir, ancak değiştirilen kaleci takımda başka şekilde yer alamaz ve
+vuruş yapamaz.
+• Eğer bir kaleci değiştirilmeden önce penaltı vuruşu kullandıysa yerine
+geçen kaleci bir sonraki tur tamamlanana kadar penaltı vuruşu kullanamaz.
+Penaltılar (penaltı vuruşları) sırasında
+• Yalnızca vuruş hakkına sahip oyuncular ve maç görevlileri oyun alanında
+bulunabilir.
+• Penaltı vuruşu yapan oyuncu ve iki kaleci hariç, vuruş hakkına sahip bütün
+oyuncular orta yuvarlağın içinde kalmalıdır.
+• Penaltı vuruşu yapan oyuncunun takım arkadaşı olan kaleci, oyun alanının
+içinde, vuruşların yapıldığı ceza alanının dışında, kale çizgisinin ceza alanı
+sınır çizgileri ile birleştiği noktada durmak zorundadır.
+Oyun Kuralları 2024/25 | Kural 10 | Bir Maçın Sonucunu Belirleme
+• Vuruş hakkına sahip bir oyuncu kaleci ile yer değiştirebilir.
+• Penaltı vuruşu, topun hareketi durduğunda, top oyun alanının dışına
+çıktığında veya hakem herhangi bir ihlal nedeniyle oyunu durdurduğunda
+tamamlanır; vuruşu kullanan oyuncu topla ikinci defa oynayamaz.
+• Hakem vuruşların kaydını tutar.
+• Eğer bir kaleci ihlalde bulunursa ve bunun sonucunda vuruş tekrarlanırsa,
+kaleci ilk ihlali için uyarılır ve sonraki ihlali(leri) için ihtar verilir.
+• Vuruşu yapan oyuncu, hakem vuruş işareti verdikten sonra bir ihlal
+nedeniyle cezalandırılırsa, bu vuruş kaçırılmış olarak kaydedilir ve vuruşu
+yapan oyuncuya ihtar verilir.
+• Eğer hem kaleci hem de vuruşu yapan oyuncu aynı anda bir ihlalde
+bulunursa, vuruş kaçırılmış olarak kaydedilir ve vuruşu yapan oyuncuya ihtar
+verilir.
+Aşağıdaki koşullara bağlı olarak, her iki takım da beşer vuruş kullanır
+• Vuruşlar takımlar tarafından sırayla yapılır.
+• Her vuruş farklı bir oyuncu tarafından yapılır ve vuruş yapmaya uygun
+bütün oyuncular, herhangi bir oyuncu ikinci vuruşu yapmadan önce,
+vuruşlarını kullanmalıdır.
+• Eğer iki takım da beş vuruş kullanmadan önce, takımlardan biri diğerinin
+atabileceği gol sayısından daha fazla gol attıysa, vuruşlar tamamlanmamış
+olsa dahi maç sonuçlanır.
+• Eğer her iki takım da beşer vuruş kullandıktan sonra sonuç eşitse, aynı
+vuruş sayısında, bir takım diğer takımdan daha fazla gol atana kadar penaltı
+vuruşlarına devam edilir.
+• Yukarıdaki prensip, takip eden vuruşlar için de geçerlidir fakat takımlar
+vuruş yapacak oyuncuların sırasını değiştirebilir.
+• Penaltılar (penaltı vuruşları), oyun alanını terk eden bir oyuncu için
+geciktirilmemelidir. Eğer oyuncu vuruş kullanmak için oyun alanına zamanında dönmezse oyuncu vuruş hakkını kaybedecektir (gol sayılmaz).
+Penaltılar (penaltı vuruşları) sırasında oyuncu değişikliği ve ihraçlar
+• Oyuncu, yedek oyuncu, değiştirilmiş oyuncu veya takım görevlisine ihtar
+veya ihraç verilebilir.
+• İhraç edilen kaleci vuruş hakkına sahip bir oyuncu ile yer değiştirmelidir.
+• Kaleci haricinde devam edecek durumda olmayan bir oyuncu değiştirilemez.
+• Bir takım yedi oyuncudan daha az sayıda oyuncuya düşerse hakem maçı
+tatil etmemelidir.
+96
+97
+11
+Kural
+11
+1. Ofsayt Pozisyonu
+Ofsayt pozisyonunda bulunmak bir ihlal değildir.
+Bir oyuncu aşağıdaki durumlarda ofsayt pozisyonundadır;
+• kafasının, vücudunun veya ayaklarının herhangi bir kısmı rakip takımın
+yarı alanında (orta saha çizgisi hariç) ise ve
+• kafasının, vücudunun veya ayaklarının herhangi bir kısmı rakip takımın
+kale çizgisine toptan ve sondan ikinci rakip oyuncudan daha yakın ise
+Kaleciler de dahil hiçbir oyuncunun elleri ve kolları dikkate alınmaz.
+Ofsaytı belirlemek amacıyla, kolun üst sınırı koltuk altı bölgesinin alt
+hizası olarak kabul edilir.
+Bir oyuncu aşağıdaki durumlarda ofsayt pozisyonunda değildir;
+• sondan ikinci rakip oyuncu ile aynı hizada ise
+• son iki rakip oyuncu ile aynı hizada ise
+2. Ofsayt İhlali
+Takım arkadaşının topla oynadığı veya topa dokunduğu* anda ofsayt
+pozisyonunda olan bir oyuncu, aktif oyuna dahil olduğu gerekçesi ile,
+sadece aşağıdaki durumlarda ofsayt olarak cezalandırılır:
+• takım arkadaşının oynadığı veya dokunduğu topla oynayarak veya topa
+dokunarak oyuna müdahale ederse
+• aşağıda belirtilen durumlarda rakip oyuncuya müdahale ederse:
+• görüş açısını açıkça kapatarak rakibinin topla oynamasını veya
+oynayabilmesini engellerse veya
+• top için rakibiyle mücadeleye girerse veya
+*Top ile "oynanan" veya topa "dokunulan" ilk temas anı kullanılmalıdır
+Oyun Kuralları 2024/25 | Kural 11 | Ofsayt 99
+Ofsayt
+100
+• yakınında bulunan topla oynamaya açıkça teşebbüs ederken, bu
+hareketi rakibini etkilerse
+• rakip oyuncunun topla oynama becerisini açıkça etkileyen bariz bir
+hareket yaparsa
+veya
+• aşağıda belirtilen durumlarda, topla oynayarak veya rakip oyuncuya
+müdahale ederek bulunduğu pozisyondan avantaj elde ederse:
+• top, kale direkleri, üst direk, maç görevlileri veya bir rakip oyuncudan
+geri döndüğünde veya sektiğinde
+• top rakip tarafından bilerek kurtarıldığında
+Ofsayt pozisyonunda bulunan bir oyuncu topu, bilerek elle oynama da dahil,
+topla bilerek *oynamış bir rakip oyuncudan alırsa, rakip oyuncunun bilerek
+yaptığı kurtarma dışında, bulunduğu pozisyondan avantaj elde etmiş olarak
+değerlendirilmez.
+*’Bilerek oynama’ (bilerek elle oynama hariç), bir oyuncunun aşağıdaki
+ihtimallerle topu kontrol etmesidir:
+• Takım arkadaşına pas vermek,
+•Topa sahip olmak; ya da
+• Topu uzaklaştırmak (örneğin ayak veya kafa ile)
+Eğer, topu kontrol eden oyuncunun verdiği pas, topa sahip olma veya topu
+uzaklaştırma girişimi hatalı veya başarısız olursa, bu durum oyuncunun topla
+‘bilerek oynadığı’ gerçeğini ortadan kaldırmaz.
+Aşağıdaki kriterler, bir oyuncunun topu kontrol ettiğinin ve sonuç olarak
+‘topla bilerek’ oynadığının kabul edilebileceğinin göstergesi olarak uygun
+şekilde kullanılmalıdır.
+• Topun uzaktan gelmesi ve oyuncunun topu net bir şekilde görüyor olması
+• Topun hızlı bir şekilde hareket etmemesi
+• Beklenmeyen top olmaması
+• Oyuncunun vücut hareketlerini koordine etmek için zamanı olması, örneğin
+Oyun Kuralları 2024/25 | Kural 11 | Ofsayt 101
+içgüdüsel bir uzanma veya zıplama durumu, ya da sınırlı temas/kontrol
+sağlayan bir hareket olmaması
+• Yerde hareket eden bir topla oynamak, havadaki bir topla oynamaktan daha
+kolaydır
+Bir ‘kurtarma’, bir oyuncunun elleri/kolları hariç (kendi ceza alanında
+bulunan kaleci dışında) vücudunun herhangi bir bölümüyle kaleye giden veya
+kaleye çok yakın geçen bir topu durdurması veya durdurmaya teşebbüs
+etmesidir.
+Şu durumlara dikkat edilmelidir:
+• ofsayt pozisyonundaki hareketli veya duran bir oyuncunun rakibinin
+yolunda bulunması ve onun topa doğru hareketini engellemesi, eğer rakibinin
+oynama imkanını veya top için mücadelesini etkilerse bu bir ofsayt ihlalidir,
+eğer bu oyuncu rakibinin yoluna doğru hareket eder ve onun ilerlemesini
+engellerse (örneğin rakibini bloklarsa), bu ihlal Kural 12'ye göre
+cezalandırılacaktır
+• topla oynama niyetiyle topa doğru hareket eden ofsayt pozisyonundaki
+oyuncuya topla oynamadan veya topla oynamaya teşebbüs etmeden veya
+rakibi ile top için mücadeleye girmeden önce faul yapılırsa, bu durum ofsayt
+ihlalinden önce gerçekleştiği için faul ile cezalandırılır
+• halihazırda topla oynayan veya oynamaya teşebbüs eden veya rakibi ile top
+için mücadele eden ofsayt pozisyonundaki bir oyuncuya ihlal yapıldığında,
+faul yapılmadan önce ofsayt gerçekleştiği için pozisyon ofsayt ile cezalandırılır
+3. İhlal Olmaması
+Oyuncu topu doğrudan aşağıdakiler yoluyla alırsa, bir ofsayt ihlali yoktur:
+• kale vuruşu
+• taç atışı
+• köşe vuruşu
+4. İhlaller ve Cezalar
+Eğer bir ofsayt ihlali meydana gelirse, ihlal oyuncunun kendi yarı alanında
+gerçekleşmiş olsa dahi hakem, ihlalin yapıldığı noktadan kullanılmak
+üzere bir endirekt serbest vuruş verir.
+Hakemin izni olmadan oyun alanını terk eden savunma oyuncusu, ofsayt
+takibi açısından oyunun bir sonraki durduğu ana ya da savunma yapan
+102
+takım topu kendi ceza alanı dışında orta saha çizgisine doğru oynayana
+kadar kendi kale çizgisinde ya da taç çizgisi üzerinde kabul edilecektir.
+Eğer oyuncu oyun alanını kasten terk etmişse, topun oyun dışı olduğu ilk
+anda oyuncuya ihtar verilmelidir.
+Bir hücum oyuncusu aktif oyuna dahil olmamak amacıyla oyun alanı dışına
+adım atabilir ya da oyun alanı dışında durabilir. Eğer bu oyuncu, oyun
+durmadan önce ya da savunma yapan takım topu kendi ceza alanı dışında
+orta saha çizgisine doğru oynamadan önce, kale çizgisi üzerinden tekrar
+oyun alanına girer ve oyuna müdahil olursa, oyuncu ofsayt takibi açısından
+kale çizgisi üzerinde kabul edilecektir. Oyun alanını kasıtlı olarak terk
+eden, hakemin izni olmadan tekrar giren ve ofsayt ihlali ile
+cezalandırılmayıp avantaj sağlayan oyuncuya ihtar verilmelidir.
+Eğer bir hücum oyuncusu top kaleye girerken kale direkleri arasında ve
+kale içinde sabit bir şekilde durursa, bir ofsayt ihlali veya 12. Kuralda
+belirtilen bir ihlal yapmadıysa gol geçerli sayılacaktır. Bir ihlal olması
+durumunda ise oyun endirekt veya direkt serbest vuruş ile tekrar
+başlatılır.
+103
+Kural
+12
+Oyun Kuralları 2024/25 | Kural 12 | Faul ve Fena Hareketler 105
+Faul ve
+Fena Hareketler
+Direkt ve endirekt serbest vuruşlar ve penaltı vuruşları yalnızca top
+oyundayken yapılan ihlaller için verilebilir.
+1. Direkt Serbest Vuruş
+Bir oyuncu aşağıdaki ihlallerden birini hakemin kanaatince; dikkatsiz,
+kontrolsüz veya aşırı güç kullanarak bir rakibine karşı yaparsa bir direkt
+serbest vuruş verilir:
+• şarj yaparsa
+• üzerine sıçrarsa
+• tekme atarsa veya tekme atmaya teşebbüs ederse
+• iterse
+• vurursa veya vurmaya teşebbüs ederse (kafa atmak dahil)
+• ayakla müdahale ederse (tackle) veya mücadele ederse
+• çelmelerse veya çelmelemeye teşebbüs ederse
+Eğer bir ihlal temas içeriyorsa, direkt serbest vuruş ile cezalandırılır.
+• Dikkatsiz, oyuncunun mücadeleye girdiğinde dikkatsiz ve düşüncesiz
+davrandığı veya tedbirsiz hareket ettiği anlamına gelir. Disiplin cezasına
+gerek yoktur
+• Kontrolsüz, oyuncunun rakip için tehlikeli veya sonuçlarını düşünmeden
+hareket ettiği anlamına gelir ve ihtar verilmelidir
+• Aşırı güç kullanma, oyuncunun gereğinden fazla güç kullandığı ve rakibin
+sağlığını tehlikeye düşürdüğü anlamına gelir ve oyuncu oyundan ihraç
+edilmelidir
+Bir oyuncu aşağıdaki ihlallerden birini yaparsa, direkt serbest vuruş verilir:
+• elle oynarsa (kendi ceza alanındaki kaleci hariç)
+106
+• rakibini tutarsa
+• temas ederek rakibini engellerse
+• takım listesinde bulunan birisini veya bir maç görevlisini ısırır veya ona
+tükürürse
+• topa, rakibe veya hakemlerden birisine bir nesne fırlatırsa veya topa elinde
+tuttuğu bir nesne ile temasta bulunursa
+Ayrıca Kural 3'teki ihlallere göz atınız.
+Topa Elle Müdahale Etmek
+Elle oynama ihlallerini belirleme amacıyla, kolun üst sınırı koltuk altı
+bölgesinin alt hizası olarak kabul edilir. Bir oyuncunun topa eliyle/koluyla
+yaptığı her temas, bir ihlal değildir.
+Eğer oyuncu aşağıdakileri yaparsa, bu bir ihlaldir:
+• topa bilerek eli/kolu ile dokunursa, örneğin elini/kolunu topa doğru
+hareket ettirmek
+• vücudunu doğal olmayan bir şekilde büyüttüğünde topa eli/kolu ile dokunursa.
+Bir oyuncunun elinin/kolunun pozisyonu, oyuncunun belirli bir pozisyon için
+yaptığı vücut hareketinin bir sonucu veya gerekçesi değilse, oyuncu
+vücudunu doğal olmayan şekilde büyütmüş olarak kabul edilir. Oyuncu
+elini/kolunu bu pozisyondu bulundurarak, topun eline/koluna isabet
+etmesinin ve cezalandırılmanın riskini almaktadır.
+• rakip takım kalesine;
+• kaleci de dahil, kazara bile olsa eli/kolu ile doğrudan
+• top eline/koluna kazara bile olsa temas ettikten hemen sonra
+bir gol atarsa.
+Kaleci kendi ceza alanı dışında elle oynama konusunda diğer oyuncularla aynı
+kısıtlamalara sahiptir. Eğer bir kaleci kendi ceza alanı içerisinde elle oynama
+izni olmadığı halde topa elle müdahale ederse, rakip takım lehine bir endirekt
+serbest vuruş verilir ancak disiplin cezası uygulanmaz. Ancak bu ihlal,
+oyunun tekrar başlaması sonrasında, top başka bir oyuncuya temas etmeden
+önce, topla ikinci kez oynamak şeklindeyse (el/kol ile veya el/kol
+kullanmadan) ve bu ihlal umut vaat eden bir atağı durduruyorsa veya rakibin
+veya rakip takımın bir golünü veya bariz bir gol şansını engelliyorsa, kaleci
+disiplin cezası almalıdır.
+No handball
+Handball
+Laws of the Game 2022/23 | Law 12 | Fouls and Misconduct 99
+11
+Elle oynama yok
+Elle oynama
+11
+Elle oynama yok
+Elle oynama
+Elle oynama
+107
+108
+2. Endirekt Serbest Vuruş
+Bir oyuncu aşağıdaki ihlallerden birini yaparsa endirekt serbest vuruş kararı
+verilir:
+• tehlikeli bir şekilde oynarsa
+• herhangi bir temasta bulunmadan rakibin ilerlemesine engel olursa
+• itirazdan, saldırgan, hakaret edici veya küfürlü bir şekilde konuşmaktan
+ve/veya hareket(ler)den veya diğer sözel ihlallerden suçlu ise,
+• kalecinin topu elinden çıkarmasına engel olursa veya topu elinden
+çıkarırken topa vurur veya vurmaya teşebbüs ederse
+• kaleci topa elleriyle dokunsun veya dokunmasın, topun kalecisine geçmesi
+için kafası, göğsü, dizi vb. ile pas vererek (serbest vuruştan veya kale
+vuruşundan gelen de dahil) kuralın açığından yararlanmak amacıyla bilerek
+hile başlatırsa, eğer kaleci bilerek hile başlatmadan sorumluysa cezalandırılır.
+• kurallarda belirtilmeyen bir nedenden dolayı oyuncunun ihtar veya ihraç
+edilmesi için oyunun durdurulmasına neden olan herhangi bir ihlalde
+bulunursa
+Kaleci kendi ceza alanı içerisindeyken aşağıdaki ihlallerden birini yaparsa bir
+endirekt serbest vuruş kararı verilir:
+• topu oyuna bırakmadan eli/kolu ile altı saniyeden daha uzun süre kontrol
+ederse
+• topu oyuna bıraktıktan sonra top başka bir oyuncuya temas etmeden önce
+eli/kolu ile topa tekrar dokunursa
+• kalecinin topu oyuna sokmak için topa açıkça vurduğu veya vurmaya
+çalıştığı durumlar hariç, aşağıdaki durumlardan sonra topa eli/kolu ile temas
+ederse:
+• takım arkadaşı topu ayakla bilerek kalecisine gönderirse
+• takım arkadaşının taç atışından doğrudan kendisine gelen topu alırsa
+Aşağıdaki durumlarda kaleci topu el(ler)i ile kontrol etmiş sayılır:
+• topun kaleciden geri dönmesi veya kalecinin kurtarış yapması haricinde,
+topu iki eli arasında veya eli ile herhangi bir yüzey arasında (örn. zemin,
+kendi vücudu, vs.) tutarsa veya ellerinin veya kollarının herhangi bir kısmıyla
+topa dokunursa
+Oyun Kuralları 2024/25 | Kural 12 | Faul ve Fena Hareketler 109
+• uzanmış açık eli ile topu tutarsa
+• topu eliyle yerde sektirirken veya havaya attığında
+Bir kaleci el(ler)i ile topa sahip olduğunda, rakip bir oyuncu kendisiyle
+mücadele edemez.
+Tehlikeli Şekilde Oynamak
+Tehlikeli şekilde oynamak, topla oynamaya çalışırken başkasını
+(oyuncunun kendisi de dahil) sakatlama tehdididir ve yakındaki bir rakip
+oyuncunun sakatlanma korkusuyla topla oynamasının engellenmesi de bu
+duruma dahildir.
+Tehlikeli olmamak şartıyla makas veya bisiklet vuruşuna izin verilir.
+Temas olmadan rakibin ilerlemesini engellemek
+Bir rakibin ilerlemesine engel olmak, top her iki oyuncunun da oynama
+mesafesinde olmadığında rakip oyuncuya engel olmak, rakip oyuncuyu
+durdurmak, yavaşlatmak veya yönünü değiştirmeye zorlamak amacıyla
+rakibin koşu yönüne doğru hareketlenmektir.
+Tüm oyuncular oyun alanında istediği gibi pozisyon alma hakkına sahiptir,
+bir rakip oyuncunun yolu üzerinde olmak, rakibin koşu yönüne doğru
+hareketlenmek anlamına gelmez.
+Bir oyuncu rakip oyuncu ile top arasında pozisyon alarak topu saklayabilir
+ve bu duruma top oynama mesafesinde tutulduğu ve oyuncu rakip
+oyuncuyu kolları veya vücuduyla tutmadığı takdirde izin verilir. Eğer top
+oynama mesafesinde ise, bu oyuncuya rakip oyuncu tarafından adil bir
+biçimde şarj yapılabilir.
+3. Disiplin Cezaları
+Hakem maç öncesi inceleme yapmak için oyun alanına girdiği andan maç
+bitiminden sonra (penaltılar (penaltı vuruşları) dahil) oyun alanını terk
+edinceye kadar disiplin cezası verme yetkisine sahiptir.
+Eğer bir oyuncu ya da takım görevlisi maçın başlangıcında oyun alanına
+girmeden önce ihraç edilmesini gerektiren bir ihlal yaparsa, hakem
+oyuncunun ya da takım görevlisinin maçta yer almasını engelleme
+yetkisine sahiptir (bkz. Kural 3.6); hakem diğer fena hareketleri de rapor
+edecektir.
+Bir oyuncu ya da takım görevlisi oyun alanı içerisinde ya da oyun alanı dışında
+ihtar veya ihraç gerektiren bir ihlal yaparsa, ihlalin şekline göre cezalandırılır.
+110
+Sarı kart ihtarı belirtir, kırmızı kart ihracı belirtir.
+Yalnızca bir oyuncuya, yedek oyuncuya, değiştirilmiş oyuncuya ya da
+takım görevlisine kırmızı ya da sarı kart gösterilebilir.
+Oyuncular, yedek oyuncular ve değiştirilmiş oyuncular
+Kart Göstermek İçin Oyunun Başlamasını Geciktirme
+İhlalde bulunmayan takımın serbest vuruşu hızlıca kullanmadığı, açık bir
+gol atma şansı olmadığı ve hakem henüz disiplin cezası uygulama
+prosedürünü başlatmadığı sürece, hakem bir oyuncuya ihtar vermeye
+veya oyundan ihraç etmeye karar verdiğinde, ceza uygulanana kadar oyun
+tekrar başlatılmayacaktır. Disiplin cezası oyunun bir sonraki duruşunda
+uygulanır. Eğer ihlal, rakip takımın bariz gol atma şansını engelliyorsa,
+oyuncuya ihtar verilir, eğer ihlal umut vaat eden bir atağa müdahale
+etmek veya durdurmak şeklindeyse, oyuncuya ihtar verilmez.
+Avantaj
+Eğer hakem, ihtar/ihraç vermek için oyunu durdurması gereken bir ihlal
+için avantaj oynatırsa, bu ihtar/ihraç top ilk oyun dışı olduğunda verilir.
+Ancak, eğer ihlal rakip takımın bariz bir gol şansının engellenmesiyse,
+oyuncuya sportmenliğe aykırı hareketten dolayı ihtar verilir, eğer ihlal
+umut vaat eden bir atağa müdahale etmek veya durdurmak şeklindeyse,
+oyuncuya ihtar verilmez.
+Açık bir gol atma şansı yoksa, ciddi faullü oyun, şiddetli hareket veya
+ikinci ihtar durumlarında avantaj uygulanmamalıdır. Eğer avantaj
+uygulandıysa, hakem top ilk oyun dışı olduğunda, oyuncuyu ihraç
+etmelidir, ancak eğer oyuncu topla oynar veya rakip oyuncuyla
+mücadeleye girerse/müdahale ederse hakem oyunu durduracak,
+oyuncuyu ihraç edecek ve oyuncu daha ciddi bir ihlal yapmadığı sürece
+oyunu bir endirekt serbest vuruş ile tekrar başlatacaktır.
+Eğer bir savunma oyuncusu bir hücum oyuncusunu ceza alanı dışında
+tutmaya başlar ve ceza alanı içinde tutmaya devam ederse, hakem bir
+penaltı vuruşu kararı vermelidir.
+111
+İhtar Verilecek İhlaller
+Eğer bir oyuncu aşağıdaki ihlallerden suçlu ise ihtar verilir:
+• oyunun tekrar başlatılmasını geciktirirse
+• hakemin kararlarına söz veya hareketle itiraz ederse
+• hakemin izni olmadan oyun alanına girerse, tekrar girerse ya da oyun
+alanını bilerek terk ederse
+• oyun bir hakem atışı, köşe vuruşu, serbest vuruş ya da taç atışı ile tekrar
+başlatılırken gerekli mesafeye açılmazsa
+• oyun kurallarını sürekli ihlal ederse (“sürekli” sayılabilmesi için belirli
+bir sayı veya şekil yoktur)
+• sportmenlik dışı davranışta bulunursa
+• hakem inceleme alanına (RRA) girerse
+• ‘inceleme işaretini’ (TV Ekranı İşareti) aşırı şekilde kullanırsa
+Bir yedek veya değiştirilmiş oyuncu aşağıdaki ihlallerden suçlu ise ihtar
+verilir:
+• oyunun tekrar başlatılmasını geciktirirse
+• hakemin kararlarına söz veya hareketle itiraz ederse
+• hakemin izni olmadan oyun alanına girerse ya da tekrar girerse
+• sportmenlik dışı davranışta bulunursa
+• hakem inceleme alanına (RRA) girerse
+• ‘inceleme işaretini’ (TV Ekranı İşareti) aşırı şekilde kullanırsa
+İhtar gerektiren iki ayrı kural dışı ihlal yapılırsa (yakın zaman aralığında
+olsalar bile), bunlar iki ayrı ihtar ile cezalandırılmalıdır, örneğin eğer bir
+oyuncu gerekli izni almadan oyun alanına girer ve kontrolsüz bir hareket
+yaparsa veya umut vaat eden bir atağı faulle/elle oynayarak engellerse vb.
+Sportmenlik Dışı Davranıştan Dolayı İhtarlar
+Sportmenlik dışı davranıştan dolayı bir oyuncuya ihtar verilmesi gereken
+farklı durumlar vardır, bunlara örnek olarak eğer bir oyuncu:
+• sakatlanmış numarası yaparak veya kendisine faul yapıldığı izlenimi
+(aldatma) vererek hakemi yanıltmaya çalışırsa
+• oyun sırasında veya hakemin izni olmadan kaleci ile yer değiştirirse
+(bkz. Kural 3)
+Oyun Kuralları 2024/25 | Kural 12 | Faul ve Fena Hareketler
+• direkt serbest vuruş gerektiren bir ihlali kontrolsüz bir şekilde yaparsa
+• Kasıtlı olmayan elle oynama ihlali nedeniyle hakemin bir penaltı kararı
+vermesi durumu hariç, umut vaat eden bir atağa müdahale etmek veya
+durdurmak için topa elle müdahale ederse
+• Rakibin golünü veya bariz gol atma şansını engellerse ve hakem kasıtlı
+olmayan elle oynama ihlali nedeniyle bir penaltı kararı verirse
+• topla oynamaya teşebbüs edilen veya top için mücadele edilen bir anda,
+hakemin bir ihlal nedeniyle verdiği penaltı kararı hariç, herhangi bir ihlal
+yaparak umut vaat eden bir atağı engellerse veya durdurursa
+• rakibin bariz gol atma şansını topla oynamaya teşebbüs edilen veya top için
+mücadele edilen bir anda bir ihlal yaparak engellerse ve hakem bir penaltı
+kararı verirse
+• topa elle müdahale ederek gol atmaya teşebbüs ederse (teşebbüsün başarılı
+olup olmaması önemli değildir) veya topa elle müdahale ederek gol atılmasını
+engellemeye çalışır ancak başarısız olursa,
+• oyun alanına izin verilmeyen işaretler yaparsa
+• oyun alanını terk etmesi için izin verildikten sonra oyun alanından
+çıkarken topla oynarsa,
+• oyuna karşı saygısının olmadığını gösterirse
+• kaleci topa elleriyle dokunsun veya dokunmasın, topun kalecisine geçmesi
+için kafası, göğsü, dizi vb. ile pas vererek (serbest vuruştan veya kale
+vuruşundan gelen de dahil) kuralın açığından yararlanmak amacıyla bilerek
+hile başlatırsa, eğer kaleci bilerek hile başlatmadan sorumluysa ihtar verilir
+• oyun sırasında ve oyunun tekrar başlatıldığı sırada rakip oyuncunun
+dikkatini sözlü biçimde dağıtırsa
+Gol Kutlaması
+Bir gol atıldığında oyuncu kutlama yapabilir ancak kutlama aşırıya
+kaçmamalıdır; kareogra�ik kutlamalar cesaretlendirilmemelidir ve kutlamalar
+fazla zaman kaybına neden olmamalıdır.
+Bir golü kutlamak için oyun alanının dışına çıkmak ihtar verilebilecek bir
+ihlal değildir ancak oyuncular oyun alanına en kısa zamanda geri dönmelidir.
+Aşağıdaki durumlarda, gol iptal edilse bile oyuncuya ihtar verilmelidir:
+• oyun alanı çevresindeki çitlere tırmanırsa ve/veya güvenlik za�iyetine
+neden olacak şekilde seyircilere yaklaşırsa,
+112
+• tahrik edici, alaycı veya kışkırtıcı hareketler yaparsa
+• başını ya da yüzünü bir maske veya benzer bir cisimle kapatırsa
+• formasını çıkarır veya başını formasıyla kapatırsa
+Oyunun Tekrar Başlamasını Geciktirmek
+Hakemler aşağıda belirtilen yöntemlerle oyunun tekrar başlamasını
+geciktiren oyunculara ihtar vermelidir:
+• taç atışını kullanacakmış gibi davranmak fakat aniden takım
+arkadaşlarından birine kullanması için bırakmak
+• oyuncu değişikliği sırasında oyun alanından çıkmayı geciktirmek
+• oyunun tekrar başlamasını aşırı bir şekilde geciktirmek
+• hakem oyunu durdurduktan sonra topa vurmak, topu taşımak veya topa
+bilerek dokunarak çatışmaya yol açmak
+• hakemi, vuruşu tekrarlatmaya zorlayacak şekilde yanlış yerden kullanmak
+İhraç Verilecek İhlaller
+Bir oyuncu, yedek oyuncu veya değiştirilmiş oyuncu, aşağıdaki ihlallerden
+birini yaparsa oyundan ihraç edilir:
+• Kasten topla elle oynama ihlaliyle rakip takımın bir golünü veya bariz gol
+atma şansını önlemek (kendi takımının ceza alanındaki kaleci hariç)
+• Kendi ceza alanı dışında kasıtlı olmayan elle oynama ihlali yaparak rakip
+takımın bir golünü veya bariz gol atma şansını engellemek
+• genel hareketlenmesi ihlali yapan oyuncunun kalesine doğru olan rakip
+oyuncunun bir golünü veya bariz gol atma şansını serbest vuruşla
+cezalandırılması gereken bir ihlal ile önlemek (aşağıda belirtilen durumlar
+hariç)
+• ciddi faullü oyun
+• birini ısırmak veya birine tükürmek
+• şiddetli hareket
+• saldırgan, hakaret edici veya küfürlü bir şekilde konuşmak ve/veya
+hareket(ler)de bulunmak
+• aynı maçta ikinci bir ihtar almak
+• video operasyon odasına (VOR) girmek
+İhraç edilen oyuncu, yedek oyuncu ya da değiştirilmiş oyuncu oyun alanının
+çevresini ve teknik alanı terk etmelidir.
+Oyun Kuralları 2043/25 | Kural 12 | Faul ve Fena Hareketler 113
+Bir Gole veya Bariz Gol Atma Şansına Engel Olmak (DOGSO)
+Bir oyuncunun kendi ceza alanı içerisinde rakibinin bariz gol atma şansını
+engellediği ve hakemin penaltı verdiği durumlarda, eğer ihlal topla oynamaya
+teşebbüs veya top için mücadele şeklindeyse, oyuncuya ihtar verilir; diğer
+tüm durumlarda (tutma, itme, çekme, topla oynama ihtimalinin olmaması vb.)
+ihlali yapan oyuncu ihraç edilmelidir
+Bir oyuncu rakip takımın gol atmasını veya bariz gol atma şansını kasten elle
+oynayarak engellerse, ihlal nerede yapılmış olursa olsun oyuncu oyundan
+ihraç edilir (kendi ceza alanındaki kaleci hariç). Bir oyuncunun kasıtlı
+olmayan bir elle oynama ihlali yaparak rakip takımın golünü veya bariz bir
+gol atma şansını engellerse ve hakemin bir penaltı kararı vermesi durumunda, ihlali yapan oyuncuya ihtar verilir.
+Hakemin gerekli izin olmadan oyun alanına giren ve oyuna veya rakibine
+müdahale eden ve rakibinin bir golünü ve bariz gol atma şansını engelleyen
+bir oyuncu, ihraç edilmiş oyuncu, yedek veya değiştirilmiş oyuncu ihraç
+edilecek bir ihlalden suçludur.
+Bu durumda aşağıdaki hususlar göz önünde bulundurulmalıdır:
+• ihlal ve kale arasındaki uzaklık
+• oyunun yönü
+• topun kontrolünü sağlama veya kazanma ihtimali
+• savunma oyuncularının konumu ve sayısı
+Ciddi Faullü Oyun
+Ayakla yapılan bir müdahale (tackle) veya mücadele, rakibin güvenliğini
+tehlikeye sokuyorsa veya aşırı güç kullanımı veya acımasızlık içeriyorsa, ciddi
+faullü oyun olarak cezalandırılmalıdır.
+Top için mücadele ederken aşırı güç ile veya rakibinin güvenliğini tehlikeye
+sokacak şekilde bir veya iki ayağını kullanarak önden, yandan veya arkadan
+rakibine hamle yapan bir oyuncu ciddi faullü oyundan suçludur.
+Şiddetli Hareket
+Şiddetli hareket, temas olup olmamasına bakılmadan, top için mücadele
+114
+115
+etmezken, bir oyuncunun rakibine veya takım arkadaşına, takım görevlisine,
+maç görevlisine, seyirciye veya diğer bir kişiye karşı aşırı güç veya gaddarlık
+kullanması ya da kullanmaya teşebbüs etmesidir.
+Buna ek olarak, top için mücadele edilmeyen durumlarda, rakip oyuncunun
+veya diğer herhangi bir kişinin kafasına veya yüzüne, eliyle veya koluyla
+bilerek vuran bir oyuncu, kullanılan güç çok ha�if/göz ardı edilebilir olmadığı
+sürece şiddetli hareketten suçludur.
+Takım görevlileri
+Teknik alanda bulunan herhangi biri tarafından (yedek oyuncu, değiştirilmiş
+oyuncu, ihraç edilmiş oyuncu veya takım yetkilisi) bir ihlal yapıldığında ve
+ihlali yapanın tespit edilemediği durumda, teknik alanda bulunan teknik
+direktör cezalandırılacaktır
+Uyarı
+Aşağıdaki ihlaller genellikle uyarı ile sonuçlanmalıdır; tekrarlanan veya çok
+bariz şekilde gerçekleştirilen ihlaller ihtar veya ihraç ile cezalandırılmalıdır:
+• oyun alanına saygılı/çatışmacı olmayan bir şekilde girme
+• maç görevlileriyle işbirliği yapmama, yardımcı hakemin ve dördüncü
+hakemin talimatlarını yerine getirmeme
+• bir kararla ilgili küçük /düşük düzeyde anlaşmazlık (sözlü veya eylemle)
+• başka bir ihlalde bulunmaksızın ara sıra teknik alan sınırlarını ihlal etmek
+Sarı Kart
+İhtar gerektiren ihlaller aşağıdakileri içerir (ancak bunlarla sınırlı değildir):
+• teknik alan sınırlarına açıkça/ısrarla saygı göstermemek
+• kendi takımının oyunu tekrar başlatmasını geciktirmek
+• rakip takımın teknik alanına bilerek girmek (çatışmacı olmayan şekilde)
+• sözlü veya eylemsel itiraz (aşağıdakileri içerir):
+• su şişeleri veya diğer cisimleri fırlatmak/tekmelemek
+• maç görevlilerine karşı saygı gösterilmediğini belirten hareket(ler),
+örn: alaycı şekilde alkışlamak
+Oyun Kuralları 2024/25 | Kural 12 | Faul ve Fena Hareketler
+• Hakem İnceleme Alanına (RRA) girmek
+• aşırı/ısrarlı bir şekilde jestlerle bir kırmızı ya da sarı kart verilmesini
+istemek
+• aşırı bir şekilde “VAR İncelemesi” için TV işareti yapmak
+• kışkırtıcı veya tahrik edici hareketlerde bulunmak
+• tekrarlanan kabul edilemez davranışlar (tekrarlanan uyarı gerektiren
+ihlaller dahildir)
+• oyuna karşı saygısız davranışlar göstermek
+Kırmızı Kart
+İhraç gerektiren ihlallar aşağıdakileri içerir (ancak bunlarla sınırlı değildir):
+• rakip takımın oyunu tekrar başlatmasını geciktirme, örneğin, topu tutmak,
+topu uzağa vurmak, bir oyuncunun hareketini engellemek
+• teknik alanı aşağıdaki nedenlerle bilerek terk etme:
+• bir maç görevlisinin kararlarına itiraz etmek veya karşı çıkmak için
+• kışkırtıcı veya tahrik edici davranışlarda bulunmak için
+• saldırgan veya çatışmacı bir şekilde rakip takımın teknik alanına girmek
+• bir cismi oyun alanına kasıtlı olarak fırlatmak/tekmelemek
+• oyun alanına aşağıdaki nedenlerle girmek:
+• bir maç görevlisi ile çatışmak için (devre arası ve maç sonu dahil)
+• oyuna, rakip takım oyuncusuna ya da maç görevlisine müdahale etmek
+için
+• video operasyon odasına (VOR) girmek
+• rakip takım oyuncusu, yedek oyuncu, takım görevlisi, maç görevlisi, seyirci
+ya da herhangi bir kişiye (top toplayıcılar, güvenlik görevlileri ya da lig
+görevlileri vb.) karşı �iziksel ya da saldırgan bir davranışta (tükürmek veya
+ısırmak da dahil) bulunmak
+• aynı maçta ikinci bir ihtar almak
+• saldırgan, hakaret edici veya küfürlü bir şekilde konuşmak ve/veya
+hareket(ler)de bulunmak
+• onaylanmamış elektronik ya da iletişim ekipmanı kullanmak ve/veya
+elektronik ya da iletişim ekipmanının kullanımı sonucu uygunsuz
+davranışlarda bulunmak
+• şiddetli hareket
+Bir Cismin (veya topun) Atılması ile İlgili İhlaller
+Hakem her zaman ihlale göre disiplin işlemi uygular:
+116
+Oyun Kuralları 2024/25 | Kural 12 | Faul ve Fena Hareketler 117
+• Kontrolsüz ise, ihlali yapana sportmenlik dışı davranıştan ihtar verir,
+• Aşırı güç kullanımında ise, ihlali yapanı şiddetli hareket gerekçesiyle ihraç
+eder.
+4. Faul ve Fena Hareketlerden Sonra Oyunun Tekrar Başlaması
+Eğer top oyun dışındaysa, oyun bir önceki karara göre tekrar başlatılır. Eğer
+top oyundaysa ve bir oyuncu bir �iziksel ihlali oyun alanı içerisinde
+aşağıdakilere karşı yaparsa:
+• rakibe karşı – endirekt veya direkt bir serbest vuruş veya penaltı vuruşu
+verilir
+• takım arkadaşına, yedek oyuncuya, değiştirilmiş veya ihraç edilmiş bir
+oyuncuya, takım görevlisine veya maç görevlisine karşı- bir direkt serbest
+vuruş veya penaltı vuruşu verilir
+Tüm sözlü ihlaller endirekt serbest vuruş ile cezalandırılır.
+Eğer hakem, bir oyuncunun saha dışı bir kişiye karşı oyun alanı içinde veya
+dışında yaptığı bir ihlal nedeniyle oyunu durdurursa, hakemin izni olmadan
+oyun alanını terk ettiği için bir endirekt serbest vuruş verilmediği sürece,
+oyun hakem atışı ile tekrar başlatılır; verilen endirekt serbest vuruş oyuncunun oyun alanını terk ettiği sınır çizgisi üzerinden yapılır.
+Eğer top oyunda iken:
+• bir oyuncu; maç görevlisine veya bir rakibine, yedek oyuncuya,
+değiştirilmiş ya da ihraç edilmiş oyuncuya veya takım görevlisine karşı oyun
+alanı dışında bir ihlal yaparsa veya,
+• bir yedek oyuncu, değiştirilmiş ya da ihraç edilmiş oyuncu veya takım
+görevlisi; bir rakip oyuncuya veya maç görevlisine karşı oyun alanı dışında
+bir ihlal yapar veya müdahalede bulunursa
+oyun ihlalin/müdahalenin gerçekleştiği yere en yakın sınır çizgisi üzerinden
+bir serbest vuruş ile tekrar başlatılır; direkt serbest vuruş gerektiren
+ihlallerde, eğer bu ihlal, bu ihlali yapanın ceza alanı içinde ise penaltı vuruşu
+verilir.
+Eğer bir ihlal oyun alanı dışında, bir oyuncu tarafından, kendi takımından bir
+oyuncuya, yedek oyuncuya, değiştirilmiş oyuncuya veya takım görevlisine
+yapılırsa, oyun, ihlalinin yapıldığı yere en yakın sınır çizgisi üzerinden bir
+endirekt serbest vuruş ile tekrar başlatılır.
+118
+Eğer bir oyuncu elinde tuttuğu bir cisim (ayakkabı, tekmelik vs.) ile topa temasta
+bulunursa, oyun, direkt serbest vuruş (veya penaltı vuruşu) ile tekrar başlatılır.
+Eğer oyun alanının içinde veya dışında bulunan bir oyuncu bir rakip oyuncuya bir
+cisim (maç topu dışında) fırlatırsa veya tekmelerse; rakip yedek oyuncuya,
+değiştirilmiş ya da ihraç edilmiş oyuncuya, takım görevlisine veya maç görevlisine
+veya maç topuna bir cisim (top dahil) fırlatırsa veya tekmelerse, oyun cismin kişiye
+veya topa isabet ettiği veya edebileceği yerden bir direkt serbest vuruş ile tekrar
+başlatılır. Eğer isabet edilen veya edebilecek yer oyun alanı dışında ise serbest
+vuruş sınır çizgisi üzerine en yakın noktadan yapılır, eğer ihlali yapanın ceza
+alanı içindeyse penaltı vuruşu verilir.
+Eğer bir yedek oyuncu, değiştirilmiş veya ihraç edilmiş oyuncu, geçici olarak
+oyun alanı dışında bulunan oyuncu veya takım görevlisi oyun alanına bir müdahale
+ederse oyun, cismin oyuna müdahale ettiği yerden veya rakibe, maç görevlisi veya
+topa isabet ettiği veya edebileceği yerden bir direkt serbest vuruş
+(veya penaltı vuruşu) ile tekrar başlatılır.
+119
+13
+Kural
+13
+Oyun Kuralları 2024/25 | Kural 13 | Serbest Vuruşlar 121
+Serbest Vuruşlar
+1. Serbest Vuruş Türleri
+Bir oyuncu, yedek oyuncu, değiştirilmiş oyuncu veya ihraç edilmiş bir
+oyuncu veya takım görevlisi bir ihlalden suçlu ise, rakip takım lehine
+direkt veya endirekt serbest vuruş verilir.
+Endirekt Serbest Vuruş İşareti
+Hakem bir endirekt serbest vuruşu, kolunu başının üstünden yukarı doğru
+kaldırarak işaret eder; bu işaret vuruş yapılıp top başka bir oyuncuya
+temas edene, oyun dışına çıkana ya da bir golün doğrudan atılamayacağı
+açık biçimde anlaşılana kadar devam ettirilir.
+Hakem, endirekt serbest vuruş olduğuna dair işareti yapmazsa ve top
+doğrudan kaleye girerse endirekt serbest vuruş tekrarlanmalıdır.
+Topun Kaleye Girmesi
+• eğer bir direkt serbest vuruş doğrudan rakip takımın kalesine girerse,
+gol geçerli sayılır.
+• eğer bir endirekt serbest vuruş doğrudan rakip takımın kalesine girerse,
+bir kale vuruşu verilir.
+• eğer bir direkt veya endirekt serbest vuruş doğrudan takımın kendi
+kalesine girerse, rakip takım lehine köşe vuruşu verilir.
+2. Yöntem
+Aşağıdaki durumlar hariç, tüm serbest vuruşlar ihlalin gerçekleştiği
+yerden yapılır:
+• hücum eden takım lehine rakip kale alanı içinde verilen endirekt serbest
+vuruş, kale çizgisine paralel olan kale alanı çizgisi üstündeki ihlalin
+yapıldığı yere en yakın noktadan yapılır
+• Savunma yapan takım lehine kendi kale alanı içinde verilen serbest
+vuruşlar bu alanın herhangi bir yerinden kullanılabilir
+122
+• bir oyuncunun hakemin izni olmadan oyun alanına girmesi, tekrar girmesi
+veya oyun alanını terk etmesi nedeniyle verilen serbest vuruşlar oyun
+durdurulduğunda topun bulunduğu noktadan yapılır. Ancak, bir oyuncu oyun
+alanı dışında bir ihlal yaparsa, oyun ihlalin gerçekleştiği noktaya en yakın
+sınır çizgisi üzerinden yapılacak bir serbest vuruş ile tekrar başlatılır; bu bir
+direkt serbest vuruş ihlali ise ve ihlali yapanın kendi ceza alanı içindeyse
+rakip takım lehine bir penaltı vuruşu verilir
+• kural başka yeri belirttiğinde. (bkz. Kural 3, 11, 12)
+Top:
+• sabit kalmalı, vuruşu yapan oyuncu topa başka bir oyuncu dokunana kadar
+tekrar dokunmamalıdır
+• vuruş yapılıp açıkça hareket ettiğinde oyundadır.
+Top oyuna girene kadar, tüm rakip oyuncular:
+• kendi kale direkleri arasında kale çizgisi üzerinde bulunmaları dışında,
+toptan en az 9.15m (10 yds) uzakta,
+• rakip takımın ceza alanı içindeki serbest vuruşlar için ceza alanının dışında
+kalmalıdır.
+Üç veya daha fazla savunma oyuncusu bir baraj oluşturduğunda tüm hücum
+eden takım oyuncuları top oyuna girene kadar barajdan en az 1 m (1 yds)
+uzakta bulunmalıdır.
+Serbest vuruş, bir ayak veya aynı anda iki ayak ile topu kaldırarak
+kullanılabilir.
+Rakibi şaşırtmak amacıyla serbest vuruş kullanılıyormuş gibi yapmaya
+futbolun bir parçası olarak izin verilir.
+Eğer bir oyuncu serbest vuruşu doğru bir şekilde kullanırken, dikkatsiz veya
+kontrolsüz bir şekilde olmadan veya aşırı güç kullanmadan, topla ikinci defa
+oynamak için topu bilerek bir rakibine çarptırırsa hakem oyunu devam
+ettirir.
+Oyun Kuralları 2024/25 | Kural 13 | Serbest Vuruşlar 123
+3. İhlaller ve Cezalar
+Bir serbest vuruş kullanıldığında, eğer rakip oyuncu topa gereken uzaklıktan
+daha yakınsa, avantaj uygulanmadığı durumlarda vuruş tekrarlanır; ancak
+eğer bir oyuncu serbest vuruşu çabuk kullanır ve topa 9.15 m (10 yds)
+mesafeden daha yakın olan bir rakip oyuncu topu keserse, hakem oyunu
+devam ettirir. Ancak, bir rakip oyuncu serbest vuruşun kullanılmasını bilerek
+engeller ise, oyuncuya, oyunun tekrar başlamasını geciktirdiği için ihtar
+verilmelidir.
+Eğer bir serbest vuruş kullanıldığında hücum eden takımın bir oyuncusu üç
+ya da daha fazla savunma oyuncusu tarafından oluşturulan ‘baraja’ 1
+metreden (1 yds) daha yakınsa endirekt serbest vuruş kararı verilir.
+Eğer savunma yapan takım kendi ceza alanı içinden bir serbest vuruş
+kullanırken ceza alanını terk etmek için yeterli zaman bulamayan herhangi
+bir rakip oyuncu ceza alanı içerisinde bulunuyorsa, hakem oyunun devam
+etmesine izin verir. Serbest vuruş kullanılırken ceza alanı içinde bulunan
+veya top oyuna girmeden önce ceza alanı içine giren bir rakip oyuncu, top
+oyuna girmeden önce topa dokunur veya top için mücadele ederse, serbest
+vuruş tekrarlanır.
+Eğer top oyuna girdikten sonra vuruşu yapan oyuncu top başka bir oyuncuya
+temas etmeden topa tekrar dokunursa, endirekt serbest vuruş verilir. Eğer
+vuruş yapan oyuncu topu eli ile oynarsa:
+• bir direkt serbest vuruş verilir
+• ihlal, vuruşu yapan oyuncunun kaleci olmaması koşuluyla kendi ceza alanı
+içerisinde gerçekleşirse bir penaltı vuruşu verilir. Eğer ihlali yapan oyuncu
+kaleci ise bir endirekt serbest vuruş verilir.
+14
+Kural
+14
+Eğer bir oyuncu kendi ceza alanı içinde veya Kural 12 ve 13'te belirtildiği gibi
+oyunun bir parçası olarak oyun alanı dışında direkt serbest vuruş gerektiren
+bir ihlal yaparsa, penaltı vuruşu verilir.
+Penaltı vuruşundan doğrudan bir gol atılabilir.
+1. Yöntem
+Top penaltı noktasında bir kısmı penaltı noktasının merkezine temas ederek
+veya bu noktadan taşarak sabit durmalıdır ve kale direkleri, üst direk ve kale
+ağları hareket halinde olmamalıdır.
+Penaltı vuruşunu kullanacak oyuncu açık bir şekilde belirlenmelidir.
+Savunan takımın kalecisi, topun vurulduğu ana kadar kale direkleri arasında,
+yüzü vuruşu yapacak oyuncuya dönük olacak şekilde kale çizgisi üzerinde yer
+almalıdır. Kaleci, vuruşu yapan oyuncunun dikkatini haksız yere dağıtacak
+şekilde davranamaz: Örneğin vuruşun yapılmasını geciktirmek veya kale
+direklerine, üst direğe ya da ağlara dokunmak
+Vuruşu yapan oyuncu ve kaleci dışındaki tüm oyuncular:
+• penaltı noktasından en az 9.15 m (10 yds) mesafede
+• penaltı noktasının gerisinde
+• oyun alanı içerisinde
+• ceza alanı dışında olmalıdır
+Bütün oyuncular bu kurala uygun şekilde pozisyon aldıktan sonra hakem
+penaltı vuruşunun kullanılması için işaretini verir.
+Penaltı vuruşunu kullanan oyuncu topu ileriye doğru vurmalıdır; top ileriye
+doğru hareket ettiği sürece topa topukla vurulmasına izin verilir.
+Topa vurulduğu anda savunma yapan kalecinin bir ayağının en azından bir
+kısmı kale çizgisine temas etmelidir, kale çizgisi ile aynı hizada (havadan)
+ya da gerisinde olmalıdır.
+Oyun Kuralları 2024/25 | Kural 14 | Penaltı Vuruşu 125
+Penaltı Vuruşu
+126
+Topa vurulduğunda ve top açık bir şekilde hareket ettiğinde oyundadır.
+Vuruşu yapan oyuncu, top başka bir oyuncuya dokunana kadar topla tekrar
+oynayamaz.
+Penaltı vuruşu, topun hareketi durduğunda, top oyun dışı olduğunda veya
+hakem herhangi bir ihlal nedeniyle oyunu durdurduğunda tamamlanır.
+Penaltı vuruşlarının yapılması ve tamamlanması için maçın her iki yarısının
+ve uzatma devrelerinin sonunda ilave süre verilir. İlave süre verildiğinde
+penaltı vuruşu, vuruş kullanıldıktan sonra, topun hareketi durduğunda, top
+oyun dışı olduğunda, savunma takımının kalecisi hariç başka bir oyuncu
+(vuruşu yapan dahil) tarafından oynandığında, veya hakem vuruşu yapan
+oyuncunun veya takım arkadaşının herhangi bir ihlali nedeniyle oyunu
+durdurduğunda tamamlanmış olur. Eğer bir savunma oyuncusu (kaleci dahil)
+bir ihlal yaparsa ve penaltı kaçırılırsa/ kurtarılırsa, vuruş tekrarlanır.
+2. İhlaller ve Cezalar
+Hakem penaltı vuruşunun kullanılması için işaret verdiğinde, vuruş
+yapılmalıdır; eğer vuruş zamanında yapılmazsa, hakem penaltı vuruşunun
+kullanılması için tekrar işaret vermeden önce disiplin cezası uygulayabilir.
+Eğer top oyuna girmeden önce aşağıdakilerden biri gerçekleşirse:
+• Penaltı vuruşunu kullanan oyuncunun takım arkadaşı yalnızca aşağıdaki
+durumlardaki ceza sahası çizgisi ihlalinden dolayı cezalandırılır:
+· İhlal kaleciyi açıkça etkilerse veya
+· İhlali yapan oyuncu topla oynar veya top için rakibiyle mücadeleye girer
+ve ardından gol atar, gol atmaya çalışır veya gol fırsatı yaratırsa
+• Kalecinin takım arkadaşı yalnızca aşağıdaki durumlardaki ceza sahası
+çizgisi ihlali nedeniyle cezalandırılır:
+· İhlal vuruşu yapan oyuncuyu açıkça etkilerse veya
+· İhlali yapan oyuncu topla oynar veya top için rakibiyle mücadele eder ve
+bu durum rakip takımın gol atmasını, gol atmaya çalışmasını veya gol
+fırsatı yaratmasını engellerse
+Oyun Kuralları 2024/25 | Kural 14 | Penaltı Vuruşu 127
+• penaltı vuruşunu yapan oyuncu veya oyuncunun takım arkadaşı ihlalde
+bulunursa:
+• eğer top kaleye girerse, penaltı vuruşu tekrarlanır
+• eğer top kaleye girmezse, hakem oyunu durdurur ve oyunu endirekt
+serbest vuruş ile tekrar başlatır
+aşağıdaki durumlarda, gol atılıp atılmadığına bakılmaksızın oyun durdurulur
+ve endirekt serbest vuruş ile oyun tekrar başlatılır:
+ • penaltı vuruşu geriye doğru kullanılırsa
+ • penaltı vuruşunu yapacağı belirlenen oyuncunun takım arkadaşı
+vuruşu kullanırsa; hakem vuruşu yapan oyuncuya ihtar verir
+ • vuruşu yapan oyuncu hız almayı tamamladıktan sonra topa vurur gibi
+yapıp yanıltırsa (hız alırken yanıltmaya izin verilmektedir); hakem vuruşu
+yapan oyuncuya ihtar verir
+• kaleci ihlal yaparsa:
+• eğer top kaleye girerse, gol geçerli sayılır
+• eğer top kaleye isabet etmezse veya üst direkten veya kale
+direklerinden dönerse, vuruş sadece kalecinin ihlali, vuruşu kullanan
+oyuncuyu açık bir şekilde etkilemişse tekrarlanır
+• eğer topun kaleye girmesi kaleci tarafından önlenirse, vuruş
+tekrarlanır
+Eğer kalecinin ihlali vuruşun tekrarlanmasına neden olursa, kaleci
+oyundaki ilk ihlali için uyarılır ve oyunun sonrasındaki ihlali(leri) için
+ihtar verilir.
+• kalecinin takım arkadaşı ihlal yaparsa;
+• eğer top kaleye girerse, gol geçerli sayılır
+• eğer top kaleye girmezse, vuruş tekrarlanır
+• her iki takım oyuncusu da ihlal yaparsa, bir oyuncu daha ciddi bir ihlal
+gerçekleştirmediği sürece (örn. kural dışı yanıltma) vuruş tekrarlanır.
+• kaleci ve vuruşu yapan oyuncu, aynı anda bir ihlal yaparsa, vuruşu
+yapan oyuncuya ihtar verilir ve oyun savunma takımı lehine endirekt
+serbest vuruş ile tekrar başlatılır.
+128
+Eğer penaltı vuruşu yapıldıktan sonra:
+• vuruşu yapan oyuncu topa, top başka bir oyuncuya temas etmeden önce
+tekrar dokunursa:
+• endirekt serbest vuruş (elle oynama için direkt serbest vuruş)
+verilir.
+• top ileri doğru hareket ederken bir dış etkene dokunursa:
+• penaltı vuruşu tekrar edilir, ancak top kalenin içine doğru gidiyor
+ve yapılan müdahale kalecinin veya savunma oyuncusunun topla
+oynamasını engellemiyorsa; topun kaleye girmesi durumunda(topa
+temas edilse bile), müdahale hücum eden takım tarafından
+yapılmadığı sürece, gol geçerli sayılır.
+• top kaleciden, üst direkten veya kale direklerinden oyun alanına geri
+dönerse ve sonrasında dışarıdan bir etken topa dokunursa:
+ • hakem oyunu durdurur,
+ • oyun topun dış etkene dokunduğu noktadan hakem atışıyla tekrar
+başlatılır.
+129
+3. Özet tablo
+Penaltı vuruşunun sonucu
+Gol oldu Gol olmadı
+Hücum oyuncusu
+tarafından yapılan ihlal
+Etkilerse: Penaltı tekrar edilir
+Etkilemezse: Gol
+Etkilerse: Endirekt serbest vuruş
+Etkilemezse: Tekrar edilmez
+Savunma oyuncusu
+tarafından yapılan ihlal
+Etkilerse: Gol
+Etkilemezse: Gol
+Etkilerse: Penaltı tekrar edilir
+Etkilemezse: Tekrar edilmez
+Savunma ve hücum
+oyuncusu tarafından
+yapılan ihlaller
+Etkilerse: Penaltı tekrar edilir
+Etkilemezse: Gol
+Etkilerse: Penaltı tekrar edilir
+Etkilemezse: Tekrar edilmez
+Kaleci tarafından
+yapılan ihlal Gol
+Kurtarılmazsa: penaltı
+tekrarlanmaz (vuruşu kullanan
+oyuncu açık bir şekilde
+etkilenmedikçe)
+Kurtarılırsa: penaltı tekrarlanır
+ve kaleciye uyarı verilir; sonraki
+ihlal(ler)i için ihtar verilir
+Kalecinin ve vuruşu
+kullanan oyuncunun
+aynı anda ihlali
+Endirekt serbest vuruş ve
+vuruşu kullanan oyuncuya
+ihtar
+Endirekt serbest vuruş ve
+vuruşu kullanan oyuncuya
+ihtar
+Topun geriye
+vurulması Endirekt serbest vuruş Endirekt serbest vuruş
+Kural dışı yanıltma
+(Feinting)
+Endirekt serbest vuruş
+ ve vuruşu kullanan
+oyuncuya ihtar
+Yanlış oyuncunun
+vuruş kullanması
+Endirekt serbest vuruş ve
+vuruşu kullanan yanlış
+oyuncuya ihtar
+Endirekt serbest vuruş ve
+vuruşu kullanan yanlış
+oyuncuya ihtar
+Endirekt serbest vuruş
+ ve vuruşu kullanan
+oyuncuya ihtar
+15
+Kural
+15
+Oyun Kuralları 2024/25 | Kural 15 | Taç Atışı 131
+Taç Atışı
+Taç atışı topun tamamı havadan veya yerden taç çizgisini geçtiğinde, topa
+son dokunan oyuncunun rakibi lehine verilir.
+Taç atışından doğrudan gol atılamaz:
+• eğer top rakip takımın kalesine girerse - bir kale vuruşu verilir
+• eğer top atışı yapan takımın kalesine girerse - bir köşe vuruşu verilir
+1. Yöntem
+Topu elden çıkarma anında, taç atışını kullanan oyuncu:
+• ayakta ve yüzü oyun alanına dönük olmalıdır
+• her iki ayağının bir kısmı taç çizgisinde veya taç çizgisinin gerisinde
+olmalıdır
+• topu oyun alanını terk ettiği noktadan, her iki eliyle başının arkasından
+ve üzerinden atmalıdır.
+Tüm rakip oyuncular taç atışının yapılacağı noktaya en yakın taç çizgisinden en az 2 metre (2 yds) mesafede olmalıdır.
+Top, oyun alanına girdiğinde oyunda sayılır. Eğer top oyun alanına
+girmeden önce yere değerse, taç atışı aynı takım tarafından aynı noktadan
+tekrar kullanılır. Eğer taç atışı doğru şekilde kullanılmazsa, rakip
+tarafından tekrar kullanılır.
+Eğer bir oyuncu taç atışını doğru bir şekilde kullanırken dikkatsiz veya
+kontrolsüz bir şekilde olmadan veya aşırı güç kullanmadan, topla ikinci
+defa oynamak için kasten topu bir rakibine çarptırırsa hakem oyunu
+devam ettirir.
+Taç atışını yapan oyuncu, top başka bir oyuncuya değene kadar topa
+dokunmamalıdır.
+132
+2. İhlaller ve cezalar
+Eğer top oyuna girdikten sonra atışı yapan oyuncu top başka bir
+oyuncuya temas etmeden topa tekrar dokunursa, endirekt serbest
+vuruş verilir. Eğer taç atışını yapan oyuncu topu eli ile oynarsa:
+• direkt serbest vuruş verilir
+• ihlal, taç atışını yapan oyuncunun kaleci olmaması koşuluyla kendi
+ceza alanı içerisinde gerçekleşirse penaltı vuruşu verilir. Eğer ihlali
+yapan oyuncu kaleci ise endirekt serbest vuruş verilir.
+Taç atışını kullanan oyuncunun haksız bir şekilde dikkatini dağıtan
+veya oyuncuyu engelleyen (taç atışının yapılacağı noktaya 2 metreden
+(2 yds) fazla yaklaşmak da dahil) rakip oyuncu, sportmenlik dışı
+davranıştan ihtar alır ve eğer taç atışı kullanıldıysa endirekt serbest
+vuruş kararı verilir.
+Diğer tüm ihlaller için, taç atışı rakip takım oyuncusu tarafından
+kullanılır.
+133
+16
+Kural
+16
+Oyun Kuralları 2024/25 | Kural 16 | Kale Vuruşu 135
+Kale Vuruşu
+Bir kale vuruşu, top en son hücum yapan takımın bir oyuncusuna
+dokunduktan sonra, topun tamamı havadan veya yerden kale çizgisini
+geçince verilir. (bir gol olmadığı sürece)
+Kale vuruşundan sadece rakip takıma doğrudan bir gol atılabilir, eğer top
+doğrudan vuruşu yapanın kalesine girerse, rakip takımın lehine köşe vuruşu
+verilir.
+1. Yöntem
+• Top hareketsiz olmalıdır ve vuruş savunma takımının oyuncularından biri
+tarafından kale alanındaki herhangi bir noktadan yapılmalıdır.
+• Topa vurulduğunda ve top açık bir şekilde hareket ettiğinde oyundadır
+• Rakip oyuncular top oyuna girene kadar ceza alanı dışında olmalıdır
+2. İhlaller ve cezalar
+Eğer top oyuna girdikten sonra vuruşu yapan oyuncu top başka bir oyuncuya
+temas etmeden topa dokunursa, endirekt serbest vuruş verilir. Eğer vuruş
+yapan oyuncu topu eli ile oynarsa:
+• direkt serbest vuruş verilir
+• ihlal, vuruşu yapan oyuncunun kaleci olmaması koşuluyla kendi ceza alanı
+içerisinde gerçekleşirse penaltı vuruşu verilir. Eğer ihlali yapan oyuncu kaleci
+ise endirekt serbest vuruş verilir.
+Eğer kale vuruşu kullanılırken, ceza alanını terk etmek için yeterli zaman
+bulamayan herhangi bir rakip oyuncu ceza alanı içerisinde bulunuyorsa,
+hakem oyunun devam etmesine izin verir. Kale vuruşu kullanılırken ceza
+alanı içinde bulunan veya top oyuna girmeden önce ceza alanı içine giren bir
+rakip oyuncu, top oyuna girmeden önce topa dokunur veya top için mücadele
+ederse, kale vuruşu tekrarlanır.
+136
+Eğer bir oyuncu top oyuna girmeden önce ceza alanına girerse ve faul
+yaparsa ya da bir rakip tarafından kendisine faul yapılırsa, kale vuruşu
+tekrarlanır ve yapılan ihlale göre ihlali yapan oyuncuya ihtar verilebilir
+veya ihlali yapan oyuncu ihraç edilebilir.
+Bu kuralın diğer tüm ihlallerinde vuruş tekrar edilir.
+137
+17
+Kural
+17
+Oyun Kuralları 2024/25 | Kural 17 | Köşe Vuruşu 139
+Köşe Vuruşu
+Bir köşe vuruşu, top en son savunma yapan takımın bir oyuncusuna
+dokunduktan sonra, topun tamamı havadan veya yerden kale çizgisini
+geçince verilir. (bir gol olmadığı sürece)
+Köşe vuruşundan sadece rakip takıma doğrudan bir gol atılabilir, eğer top
+doğrudan vuruşu yapanın kalesine girerse, rakibi lehine köşe vuruşu verilir.
+1. Yöntem
+• Top, kale çizgisini geçtiği noktaya en yakın köşe alanına konulmalıdır
+• Top hareketsiz olmalıdır ve vuruş hücum eden takımın oyuncusu tarafından
+yapılmalıdır
+• Topa vurulduğunda ve top açık bir şekilde hareket ettiğinde oyundadır;
+köşe alanını terk etmesi gerekmez
+• Köşe bayrak direği oynatılmamalıdır
+• Rakip oyuncular top oyuna girene kadar köşe yayından en az 9,15 metre
+(10 yds) uzakta olmalıdır
+2. İhlaller ve cezalar
+Eğer top oyuna girdikten sonra vuruşu kullanan oyuncu top başka bir
+oyuncuya temas etmeden topa dokunursa, endirekt serbest vuruş verilir.
+Eğer vuruşu kullanan oyuncu topu eli ile oynarsa:
+• direkt serbest vuruş verilir
+• ihlal, vuruşu yapan oyuncunun kaleci olmaması koşuluyla kendi ceza alanı
+içerisinde gerçekleşirse penaltı vuruşu verilir. Eğer ihlali yapan oyuncu kaleci
+ise endirekt serbest vuruş verilir.
+140
+Eğer bir oyuncu köşe vuruşunu doğru bir şekilde kullanırken, dikkatsiz veya
+kontrolsüz bir şekilde olmadan veya aşırı güç kullanmadan, topla ikinci defa
+oynamak için topu bilerek bir rakibine çarptırırsa hakem oyunu devam
+ettirir.
+Bu kuralın diğer tüm ihlallerinde vuruş tekrar edilir.
+141
+Video
+Yardımcı
+Hakem (VAR)
+Protokolü
+VAR protokolü, Oyun Kurallarının ilkelerine ve felsefesine mümkün olduğunca
+uygundur.
+Video Yardımcı Hakemlerin (VAR) kullanımına, yalnızca müsabaka
+organizatörünün Uygulama Yardımı ve Onay Programı (IAAP) gereksinimlerini
+FIFA’nın IAAP dokümanlarında açıklanan şekilde yerine getirdiği ve FIFA’dan
+yazılı onay aldığı durumlarda izin verilir.
+1. İlkeler
+VAR'ın futbol maçlarında kullanımı, VAR kullanılan her maçta uygulanması
+gereken belirli ilkelere dayandırılmıştır.
+1. Video Yardımcı Hakem (VAR) aşağıdakiler ile ilgili olarak maçın kamera
+görüntüsüne bağımsız erişimi olan ve sadece aşağıdaki konularla ilgili olarak
+‘açık ve bariz hata’ ya da ‘gözden kaçan ciddi olay’ olduğunda hakeme
+yardımcı olabilecek bir maç görevlisidir:
+a. Gol/gol değil
+b. Penaltı/penaltı değil
+c. Doğrudan kırmızı kart (ikinci sarı kart/ihtar değil)
+d. Yanlış kimlik tespiti (ihlali yapan takımdan yanlış oyuncuya ihtar verme
+veya ihraç etme durumu)
+2. Hakem her zaman bir karar vermelidir. Başka bir deyişle, hakemin "karar
+vermeyip", daha sonra karar vermek için VAR kullanmasına izin verilmez;
+gerçekleştiği iddia edilen ihlalden sonra oyunun devam etmesine izin vermek
+için alınmış bir karar incelenebilir.
+3. Hakem tarafından verilen ilk karar, video incelemesi kararın ‘açık ve bariz
+bir hata’ olduğunu açıkça göstermediği sürece değiştirilmeyecektir.
+143
+Protokol –
+ilkeler, uygulamalar
+ve yöntemler
+Oyun Kuralları 2024/25 | VAR Protokolü
+144
+4. Sadece hakem bir "inceleme" başlatabilir; VAR (ve diğer maç görevlileri)
+hakeme ancak bir "inceleme" tavsiyesinde bulunabilir.
+5. Nihai karar, her zaman, VAR tarafından verilen bilgilere dayanarak ya da
+hakemin "sahada inceleme" (OFR) yapmasıyla, hakem tarafından verilir.
+6. Doğruluk hızdan daha önemli olduğundan inceleme süreci için zaman
+sınırı yoktur.
+7. Eğer bir karar inceleniyorsa, inceleme süreci veya nihai karar sırasında
+oyuncular ve takım görevlileri hakemin etrafını sarmamalı veya onu etkileme
+girişiminde bulunmamalıdır.
+8. Şeffa�lığın sağlanması için inceleme sürecinde hakem "görünür"
+kalmalıdır.
+9. İncelemesi yapılan bir olaydan sonra oyun devam ederse, ilk karar
+değiştirilse bile, olay sonrası dönem esnasında alınan/gereken herhangi bir
+disiplin cezası iptal edilmez (umut vaat eden bir atağı veya bariz bir gol
+şansını durdurmak veya müdahale etmek nedeniyle verilen bir ihtar/ ihraç
+hariç).
+10. Eğer oyun durdurulmuş ve tekrar başlatılmışsa, hakem yalnızca yanlış
+kimlik tespiti veya şiddetli hareket, tükürme, ısırma veya aşırı derecede
+saldırgan, aşağılayıcı ve/veya küfürlü hareket(ler)de bulunmak nedeniyle
+olası ihraç etme durumlarında "inceleme" yapabilir, diğer hiçbir durumda
+inceleme yapılamaz.
+11. Bir olayın öncesi ve sonrasındaki incelenebilecek oyun süresi Oyun
+Kuralları ve Video Yardımcı Hakem protokolü kapsamında belirlenir.
+12. VAR her pozisyonu/kararı otomatik olarak "kontrol edeceği" için, teknik
+direktörlerin veya oyuncuların bir "inceleme" talep etmesine gerek yoktur.
+2. Maçın seyrini değiştiren incelenebilir kararlar/olaylar
+Hakem yalnızca dört kategorideki maçın seyrini değiştirebilen karar/olay ile
+ilgili olarak VAR'dan yardım alabilir. Bu durumların tümünde VAR, yalnızca
+hakem bir karar verdiğinde (oyunun devam etmesine izin verilmesi dahil)
+veya maç görevlileri tarafından önemli bir olay gözden kaçırıldığında/
+görülmediğinde kullanılır.
+"Açık ve bariz hata" olmadığı sürece hakemin ilk kararı değiştirilmeyecektir
+(bu durum, hakem tarafından başka bir maç görevlisinden alınan bilgiye
+dayanarak verilen bir kararı da içermektedir. örn: ofsayt).
+145
+Potansiyel ‘Açık ve bariz bir hata’ veya ‘gözden kaçan ciddi olay’ durumlarında
+incelenebilecek karar/olay kategorileri aşağıda verilmiştir:
+a. Gol/gol değil
+• golün oluşum aşamasında veya gol atılırken hücum takımı tarafından
+yapılan ihlal (elle oynama, faul, ofsayt vb.)
+• gol öncesinde topun oyun dışı olması
+• gol/gol değil kararları
+• penaltı vuruşu yapıldığı sırada kaleci ve/veya vuruşu yapan oyuncu
+tarafından yapılan ihlal veya top kale direğinden, üst direkten ya da
+kaleciden döndüğünde; ceza alanına erken girerek oyuna doğrudan
+dahil olan bir hücum/savunma oyuncusu tarafından yapılan ihlal
+b. Penaltı/penaltı degil
+• penaltının oluşum aşamasında hücum takımı tarafından yapılan ihlal
+(elle oynama, faul, ofsayt vb.)
+• olay öncesinde topun oyun dışı olması
+• ihlalin yeri (ceza alanı içinde veya dışında olması)
+• yanlış verilen penaltı kararı
+• verilmeyen penaltı kararı
+c. Direkt kırmızı kart (ikinci sarı kart/ihtar değil)
+• bariz gol atma şansının engellenmesi (özellikle ihlalin yeri ve diğer
+oyuncuların pozisyonu açısından)
+• ciddi faullü oyun (ya da kontrolsüz müdahale)
+• şiddetli hareket, ısırma veya başka birine tükürme
+• saldırgan, aşağılayıcı ve küfürlü hareket(ler)de bulunmak
+d. Yanlış kimlik tespiti (kırmızı ya da sarı kart)
+Hakemin bir ihlali cezalandırması ve ihlali yapan (cezalandırılan)
+takımdan yanlış oyuncuya bir sarı veya kırmızı kart verilmesi halinde,
+ihlalde bulunan kişinin kim olduğu incelenebilir; bir gol, penaltı olayı
+veya doğrudan kırmızı kart ile ilgili olmadıkça fiili ihlalin kendisi
+incelenmez.
+Oyun Kuralları 2024/25 | VAR Protokolü
+3. Uygulamalar
+VAR’ın maç sırasında kullanılması aşağıdaki pratik düzenlemeleri içermektedir:
+• VAR, bir veya daha fazla AVAR ile birlikte video operasyon odasında
+(VOR) maçı izler.
+• Kamera açılarının sayısına (ve diğer etkenlere) bağlı olarak birden fazla
+AVAR ve bir ya da birden fazla tekrar gösterim operatörü (RO)
+kullanılabilir
+• Maç sırasında, sadece yetkili kişilerin Video Operasyon Odasına
+girmesine veya VAR, AVAR ve RO ile iletişim kurmasına izin verilir
+• VAR, TV yayını görüntülerine bağımsız erişim, yeniden oynatma ve
+kontrol etme hakkına sahiptir
+• VAR maç görevlileri tarafından kullanılan haberleşme sistemine bağlıdır
+ve onların söylediği her şeyi duyabilir; Video Yardımcı Hakem ancak bir
+düğmeye basarak hakemle konuşabilir (video operasyon odasındaki
+konuşmalar nedeniyle hakemin dikkatinin dağılmasının önlenmesi için)
+• Eğer VAR "kontrol" ya da "inceleme" ile meşgul ise, özellikle oyunun
+durdurulması veya oyunun tekrar başlatılmaması gerekiyorsa AVAR
+hakem ile konuşabilir
+• Hakem yeniden oynatma görüntüsünü izlemeye karar verirse, VAR en iyi
+açıyı/oynatma hızını seçecektir; hakem gerekirse diğer/ilave açıları/
+hızları talep edebilir
+4. Yöntemler
+İlk Karar
+• Hakem ve diğer maç görevlileri ("gözden kaçan" olaylar hariç) her
+zaman VAR uygulaması yokmuş gibi bir karar vermelidir (buna herhangi
+bir disiplin kararı dahildir)
+• Hakem ve diğer maç görevlilerinin "karar vermemesine" izin verilmez
+çünkü bu durum; "zayıf/kararsız" yönetim şekline, çok fazla "incelemeye"
+ve bir teknoloji arızası olması halinde önemli sorunlara yol açabilir
+• Hakem nihai kararı verebilecek tek kişidir; VAR diğer maç görevlileri ile
+aynı statüdedir ve sadece hakeme yardımcı olabilir
+146
+Oyun Kuralları 2024/25 | VAR protokolü 147
+• Bayrağın/düdüğün geciktirilmesine ancak bir oyuncu gol atmak üzere
+iken veya rakibin ceza alanı içine/ceza alanına doğru, koşu yolunun açık
+olduğu çok net atak durumlarında izin verilebilir
+• Eğer bir yardımcı hakem ihlal için bayrağı geciktirirse, hücum eden
+takımın bir gol atması, penaltı vuruşu, serbest vuruş, köşe vuruşu ya da
+taç atışı kazanması ya da ilk atak sonlandıktan sonra topun kontrolünü
+tutması durumunda, bayrağını kaldırmalıdır; diğer tüm durumlarda
+yardımcı hakem oyunun gerekliliklerine göre bayrağını kaldırıp
+kaldırmaması gerektiğine karar vermelidir
+Kontrol
+• VAR, potansiyel veya gerçekleşen her gol, penaltı ya da doğrudan
+kırmızı kart kararı/olayı ya da yanlış kimlik tespiti durumunda, farklı
+kamera açıları ve oynatma hızları kullanarak TV kamera görüntülerini
+otomatik olarak "kontrol" eder.
+• Video Yardımcı Hakem görüntüyü normal hızla ve/veya ağır çekimle
+"kontrol edebilir" ancak, genel olarak ağır çekim görüntüler gerçeğe
+dayalı durumları belirlerken kullanılmalıdır. Örneğin; bir oyuncunun/
+ihlalin konumu, fiziksel ihlaller ve elle oynama durumunda temas noktası,
+topun oyun dışına çıkması (gol/gol değil durumu dahil). Normal hız bir
+ihlalin "şiddetini" veya elle oynama ihlali olup olmadığını kontrol etmek
+için kullanılmalıdır.
+• Kontrolün "açık ve bariz hata" veya "gözden kaçan ciddi olay"
+durumunu göstermemesi halinde genel olarak VAR ile iletişime geçilmesi
+gerekli değildir, bu bir ‘sessiz kontrol’dür. Ancak VAR "açık ve bariz hata"
+veya "gözden kaçan önemli olay" bulunmadığını hakeme teyit ederse bu
+durum bazen hakemin/yardımcı hakemin oyuncuları/maçı yönetmesine
+yardımcı olur.
+• Eğer bir "kontrol" için oyunun tekrar başlatılmasının geciktirilmesi
+gerekiyorsa, hakem bunu bir parmağını kulaklığının/iletişim araçlarının
+üzerine götürürken, diğer elini/kolunu açıp uzatarak işaret edecektir;
+hakemin (VAR ya da diğer bir maç görevlisinden) bilgi aldığını gösteren
+bu işaret, "kontrol" tamamlanıncaya kadar sürdürülmelidir.
+• Kontrolün olası bir "açık ve bariz hata" ya da "gözden kaçan ciddi olay”
+olduğunu göstermesi halinde, VAR bu bilgiyi hakeme iletecektir ve bu
+durumda bir "inceleme" başlatılıp başlatılmayacağına hakem karar
+verecektir.
+148
+İnceleme
+• Hakem aşağıdaki durumlarda potansiyel bir ‘açık ve bariz hata’ veya
+‘gözden kaçan ciddi olay’ için “inceleme” başlatabilir:
+• VAR (ya da başka bir maç görevlisi) ‘inceleme’ tavsiyesinde
+bulunduğunda
+• hakem önemli bir olayın ‘gözden kaçtığını’ düşündüğünde
+• Oyun zaten durmuş ise, hakem oyunun tekrar başlamasını geciktirir
+• Oyun henüz durdurulmadıysa, top tarafsız bir bölgeye/duruma
+girdiğinde hakem oyunu durdurur (bu genellikle iki takımın da hücum
+yapmadığı sırada olur) ve ‘TV işaretini’ gösterir
+• VAR, hakeme TV görüntülerinde nelerin göründüğünü anlatır ve hakem
+daha sonra
+• ‘TV işaretini’ gösterir (zaten göstermediyse) ve kararını vermeden
+önce hakem inceleme alanına giderek görüntüleri izler – “sahada
+inceleme” (OFR). Diğer maç görevlileri, çok istisnai durumlarda
+hakem tarafından kendilerinden talep edilmedikçe, kamera
+görüntülerini incelemeyecektir.
+veya
+• Kendi algısına ve VAR'dan gelen bilgiye ve uygunsa diğer maç
+görevlilerinden aldığı bilgilere dayalı olarak, nihai kararı verirDoğrudan VAR İncelemesi (VOR)
+• Her iki inceleme sürecinin de sonunda hakem "TV işareti" yapmalıdır ve
+hemen ardından nihai kararını vermelidir
+• Faullü müdahalenin şiddeti, ofsaytta müdahale, elle oynama yorumları
+gibi subjektif kararlar için "sahada inceleme"(OFR) uygundur
+• İhlalin veya oyuncunun konumu (ofsayt), temas noktası (elle oynama
+/faul), ihlal yeri (ceza alanının içi veya dışı), topun oyun alanının dışına
+çıkması gibi yoruma açık olmayacak �iili(factual) durumlara ilişkin
+kararların alınmasında ‘Doğrudan VAR İncelemesi (VOR)’ uygun olmakla
+beraber, oyuncuların/maçın yönetimine veya kararın satışına yardımcı
+olacaksa, "sahada inceleme”(OFR) yöntemi de kullanılabilir (örneğin
+oyunun sonlarına doğru maçın sonucunu etkileyecek önemli kararlar)
+• Hakem pozisyonun farklı kamera açıları/oynatma hızları ile
+gösterilmesini isteyebilir ancak genel olarak yavaş çekim yalnızca bir
+oyuncunun/ihlalin konumu, �iziksel ihlaller ve elle oynama durumunda
+temas noktası, topun oyun dışına çıkması (gol/gol değil durumu dahil)
+gibi durumlar için kullanılır.
+Oyun Kuralları 2024/25 | VAR protokolü 149
+Normal hız bir ihlalin "şiddetini" veya elle oynama ihlali olup olmadığını
+kontrol etmek için kullanılmalıdır
+• Goller, penaltı/penaltı değil durumları ve bariz gol atma şansının
+engellenmesi için verilen (BGŞ) kırmızı kartlar ile ilgili kararların/
+olayların, doğrudan doğruya karara/olaya yol açan oyun aşamasının
+başladığı noktadan itibaren incelenmesi gerekli olabilir; bu durum
+pozisyon öncesinde hücum yapan takımın topu açık oyunda nasıl
+kazandığını da içerebilir.
+• Oyun Kuralları oyun tekrar başlatıldıktan sonra, tekrar başlatma
+kararlarının (köşe vuruşları, taç atışları vb.) değiştirilmesine izin
+vermediği için, bu gibi durumlar incelenemez.
+• Eğer oyun durdurulmuş ve tekrar başlatılmışsa, hakem sadece, yanlış
+kimlik tespiti veya potansiyel bir kırmızı karta ilişkin şiddetli hareket,
+tükürme, ısırma veya son derece saldırgan, aşağılayıcı ve/veya küfürlü
+hareket(ler) ile ilgili potansiyel ihraç durumlarında bir “inceleme”
+gerçekleştirebilir.
+• İnceleme sürecinin olabildiğince etkili bir şekilde tamamlanması
+gereklidir, ancak nihai kararın doğruluğu kararın verilme hızından daha
+önemlidir. Bu nedenle ve bazı durumlarda incelenebilir birden fazla
+karar/olay olduğu için, inceleme süreci için azami zaman sınırı yoktur.
+Nihai Karar
+• İnceleme süreci tamamlandığında hakem "TV işareti" yapmalıdır ve
+ardından nihai kararını vermelidir
+• Hakem daha sonra, uygun herhangi bir disiplin cezasını(gerekliyse)
+uygulayacak /değiştirecek/iptal edecek ve Oyun Kuralları çerçevesinde
+oyunu tekrar başlatacaktır.
+Oyuncular, yedek oyuncular ve takım görevlileri
+• VAR her pozisyonu/kararı otomatik olarak ‘kontrol edeceği’ için, teknik
+direktörlerin veya oyuncuların bir ‘kontrol’ veya ‘inceleme’ talep etmesine
+gerek yoktur.
+• Oyuncular, yedek oyuncular ve takım görevlileri nihai kararın
+bildirildiği zaman da dahil olmak üzere inceleme sürecini etkileme veya
+sürece müdahale etme girişiminde bulunmamalıdır.
+• İnceleme süreci sırasında oyuncuların oyun alanı içerisinde, yedek
+oyuncuların ve takım görevlilerinin oyun alanı dışında kalması
+gerekmektedir.
+150
+• TV işaretini ısrarla gösteren ya da Hakem İnceleme Alanına (RRA) giren
+bir oyuncu, yedek oyuncu, değiştirilmiş oyuncu ya da takım görevlisi ihtar
+(sarı kart) görecektir.
+• Video Operasyon Odasına (VOR) giren bir oyuncu, yedek oyuncu,
+değiştirilmiş oyuncu ya da takım görevlisi ihraç edilecektir.
+Maçın Geçerliliği
+Prensip olarak, aşağıdaki durumlarda maç geçersiz sayılmaz:
+• VAR teknolojisinin arızalanması (gol çizgisi teknolojisinde olduğu gibi)
+• VAR’ın dahil olduğu yanlış karar (çünkü VAR bir maç görevlisidir)
+• bir olayı incelememe kararı
+• incelenemeyen durumların/kararların incelenmesi
+Görev yapamaz durumdaki VAR, AVAR veya Tekrar Gösterim Operatörü
+Kural 6 – Diğer Maç Görevlileri: “Müsabaka talimatları maça çıkamayacak
+veya devam edemeyecek olan bir hakemin yerini kimin alacağını açıkça
+belirtmelidir” demektedir. Bu durum VAR’ların kullanıldığı maçlarda,
+tekrar gösterim operatörleri için de geçerlidir.
+Video Maç Görevlisi (VMO)/ Tekrar Gösterim Operatörü olmak için özel
+eğitim ve nitelikler gerektiğinden, müsabaka talimatları aşağıdaki
+prensipleri içermelidir:
+• Görevine başlayamayacak veya devam edemeyecek durumdaki bir VAR,
+AVAR veya Tekrar Gösterim Operatörü yalnızca bu görev için nitelikli olan
+biri ile değiştirilebilir
+• VAR veya Tekrar Gösterim Operatörü* için nitelikli bir yedek
+bulunamazsa, maç VAR’ların kullanımı olmadan oynanmalı/devam
+etmelidir.
+• AVAR* için nitelikli bir yedek bulunamazsa, her iki takımın da maçın
+sadece VAR ve Tekrar Gösterim Operatörü ile oynanabileceğini/devam
+edebileceğini yazılı olarak kabul ettiği istisnai durumlar haricinde, maç
+VAR’ların kullanımı olmadan oynanmalı/devam etmelidir.
+*Bu durum, birden fazla AVAR/Tekrar Gösterim Operatörünün olduğu durumlarda geçerli değildir.
+151
+FIFA Kalite
+Programı
+153
+FIFA Kalite
+Programı
+Oyun Kuralları 2024/25 | FIFA Kalite Programı
+FIFA Kalite programı, futbol oyununda kullanılan ürünler, oyun zeminleri
+ve teknolojileri için sağlam temelli araştırmaları esas alan kriterler
+belirler. Bazı uygulama alanlarındaki zorunlu kalite gerekliliklerine ek
+olarak, diğer alanlarda, müsabaka organizatörlerinin daha sonra kendi
+talimatlarını belirleyebilmesini esas alan, standart tavsiyeler sunar.
+Bağımsız test kuruluşları, ürünlerin, oyun zeminlerinin ve teknolojilerinin
+işlevselliğini ilgili standartlara göre doğrularlar. Bu testleri yürütecek
+kuruluşlar FIFA’nın onayına tabidirler. Aşağıdaki kalite işaretleri bu
+ürünlerin, oyun zeminlerinin ve teknolojilerin test edildiklerini ve geçerli
+gerekliliklere uygun biçimde serti�ikalandırıldıklarını belirlemektedir.
+FIFA Temel*
+Bu standarttaki test gereklilikleri, futbol için temel performans, doğruluk,
+güvenlik ve dayanıklılık kriterlerini yerine getiren ürünlerin belirlenmesi
+için oluşturulmuştur. Odak noktası, tedarik edilebilirliği de dikkate alarak
+her seviyede kullanım için minimum standardı oluşturmaktır.
+FIFA Kalite
+Test gereklilikleri bu ürünlerin, oyun zeminlerinin ve teknolojilerin
+dayanıklılık ve güvenliği üzerinde, FIFA Temel standarda kıyasla daha çok
+durur. Temel performans ve doğruluk kriterlerleri de test edilir ama ana
+odak yaygın kullanımın sağlanmasıdır.
+154
+FIFA Kalite Pro
+Test gerekliliklerinde üzerinde durulan nokta birinci sınıf performans,
+doğruluk ve güvenliktir. Bu kalite işaretine sahip ürünler, oyun zeminleri
+ve teknolojiler optimum performans ve en üst seviyede kullanım için
+tasarlanırlar.
+FIFA Kalite Programı, özel standartlar ve serti�ikalı ürünler, oyun
+zeminleri ve teknolojiler hakkında daha fazla bilgi için
+https://www.�ifa.com/technical/football-technology sitesini
+ziyaret ediniz.
+*FIFA Temel, Uluslararası Maç Standardı’nın (IMS) yerini almaktadır. Bir
+önceki standarda göre test edilen futbol topları ve oyun zeminleri serti�ika
+geçerlilik tarihleri dolana kadar kullanıma uygun kabul edilir.
+155
+Kural
+Değişiklikleri
+2024/25
+Oyun Kuralları 2024/25 | Kural Değişiklikleri 2024/25 157
+Kural
+Değişikliklerinin
+Ana Hatlarının Özeti
+Kural 1 – Oyun Alanı
+• Gol çizgisi teknolojisinin (GÇT) bir gol atıldığına dair sinyali hakemin
+kulaklık mikrofonu/kulaklığı aracılığıyla iletilebileceğinin açıklanması.
+Kural 3 – Oyuncular
+• Müsabakalarda artık ek kalıcı beyin sarsıntısı değişikliği kullanılabilir.
+• Her takım tanımlayıcı bir kol bandı takan kaptan bulundurmalıdır.
+Kural 4 – Oyuncuların Ekipmanları
+• Oyuncuların tekmeliklerinin boyutundan ve uygunluğundan sorumlu
+olmalarının açıklanması.
+• Kaptanın zorunlu kol bandı için gerekliliklerin açıklanması
+• Eldivenlerle ilgili bilginin ‘Diğer ekipmanlar’ başlığı altına dahil edilmesi.
+• Kalecilerin eşofman altlarıyla ilgili bilginin ‘Zorunlu ekipmanlar’ başlığından çıkarılması ve ‘Diğer ekipmanlar’ başlığına dahil edilmesi.
+Kural 12 – Fauller ve Fena Hareketler
+• Penaltı verilen kasıtlı olmayan elle oynama ihlallerinde, topla oynamaya
+teşebbüs edilen veya top için mücadele edilen bir anda gerçekleşen ihlaller ile
+aynı şekilde cezalandırılmasına dair açıklama.
+Kural 14 – Penaltı Vuruşu
+• Topun bir kısmının penaltı noktasının üzerinde olması veya üstüne gelmesi
+gerektiğine dair açıklama.
+• Oyuncular tarafından gerçekleştirilen ceza sahası ihlalleri eğer bir etki
+varsa cezalandırılacaktır (kaleci ihlali ile aynı yaklaşım)
+158
+Diğer:
+Geçici oyun dışı bırakma için rehber (sin bins)
+• Rehber özellikle geçici olarak oyundan çıkarılan bir oyuncunun sadece
+oyunun durduğu sırada oyun alanına dönebileceğini belirtmek ve Sistem B’yi
+basitleştirmek için düzenlenmiştir.
+159
+GÇT’nin ilkeleri
+(…)
+Gol olup olmadığı sinyali GÇT sistemi tarafından sadece maç hakemlerine
+(hakemin saati aracılığıyla, titreşim ve görsel sinyal yoluyla ve/veya hakemin
+kulaklık mikrofonu/kulaklığı aracılığıyla) anında ve otomatik olarak bir saniye
+içinde iletilmelidir; bu sinyal ayrıca video operasyon odasına (VOR) da
+gönderilebilir.
+Açıklama
+Gol çizgisi teknolojisinin (GÇT) bir gol atıldığına dair sinyali hakemin kulaklık
+mikrofonu/kulaklığı aracılığıyla iletilebileceğinin açıklanması.
+160
+Aşağıdakiler, 2024/25 baskısı için oyun kurallarında yapılan değişikliklerdir. Her
+bir değişiklik için yeni/değiştirilmiş/ilave ibare, eski ibare ile birlikte uygun olan
+yere yazılır. Ardından bu değişikliğe dair bir açıklama gelir.
+Anahtar
+Ana kural değişiklikleri altı sarıyla çizilmiş ve kenar boşluğunda vurgulanmıştır.
+Editoryal değişikliklerin altı çizilidir.
+SK= sarı kart (ihtar); KK= kırmızı kart (oyundan ihraç).
+Tüm Kural
+Değişikliklerinin Detayları
+Kural 1 – Oyun alanı
+11. Gol çizgisi teknolojisi (GÇT)
+İlave metin
+Details of
+all Law changes
+Oyun Kuralları 2024/25 | Kural Değişiklikleri 2024/25 161
+162
+Oyun Kuralları 2024/25 | Kural Değişiklikleri 2024/25 163
+164
+Oyun Kuralları 2024/25 | Kural Değişiklikleri 2023/24 165
+166
+Oyun Kuralları 2023/24 | Kural Değişiklikleri 2023/24 167
+168
+169
+Terimler
+Sözlüğü
+171
+IFAB - Uluslararası Futbol Birliği Kurulu
+Dünya genelinde Oyun Kurallarından sorumlu dört Britanya Futbol
+Federasyonu ve FIFA'dan oluşmaktadır. Prensip olarak Kurallarda
+yapılacak değişiklikler sadece Şubat veya Mart aylarında yapılan
+Yıllık Genel Kurul Toplantısında onaylanır.
+FIFA - Uluslararası Futbol Federasyonları Birliği
+Dünya çapında futboldan sorumlu yönetim kuruluşudur.
+Konfederasyon
+Bir kıtada futboldan sorumlu olan kuruluştur. Bu altı konfederasyon AFC
+(Asya), CAF (Afrika), CONCACAF (Kuzey, Orta Amerika ve Karayipler),
+CONMEBOL (Güney Amerika), OFC (Okyanusya) ve UEFA (Avrupa)
+şeklindedir.
+Ulusal Futbol Federasyonu
+Bir ülkedeki futboldan sorumlu olan kuruluştur.
+Terimler sözlüğü, Kurallar kapsamında verilen kullanımının ötesinde açıklığa
+kavuşturulması veya detaylı izah edilmesi gereken ve/veya diğer dillere
+kolayca tercüme edilemeyen kelimeleri/ifadeleri kapsar.
+Oyun Kuralları 2023/24 | Terimler Sözlüğü
+Futbol Kuruluşları
+172
+A
+Acımasızlık (Brutality)
+Vahşice, zalimce veya bilerek şiddetli olan hareket
+Aldatma (Simulation)
+Bir oyuncu tarafından haksız bir avantaj kazanmak için yapılan gerçekleşmemiş
+bir şeyi yanlış/hatalı izlenim yaratarak gerçekleşmiş gibi gösteren hareket
+Aşırı Güç (Excessive force)
+Gerekenden daha fazla güç/enerji kullanmak
+Avantaj (Advantage)
+Bir ihlal yapıldığında hakem eğer ihlali yapmamış olan takıma faydası varsa
+oyunu devam ettirir
+Ayakla Müdahale (Tackle)
+Top için ayakla mücadele etme (yerden veya havadan)
+Futbol Terimleri
+B
+Beyin sarsıntısı değişikliği
+Oyunculardan birinin kesin veya şüphelenilen bir beyin sarsıntısı geçirmesi
+durumunda her takımın fazladan oyuncu değişikliği yapmasına olanak tanıyan
+(ve uygun olduğunda onlara ekstra oyuncu değişikliği fırsatı veren) bir müsabaka
+talimatı seçeneği
+Bkz. 'Ek kalıcı beyin sarsıntısı değişikliği protokolü'
+Bir rakibin güvenliğini tehlikeye atmak (Endanger the safety of an opponent)
+Bir rakibi tehlikeye veya riske atmak (sakatlamak)
+173
+Rakip oyuncunun güvenliğini tehlikeye atacak bir şekilde veya aşırı güç
+kullanılarak veya acımasızca top için ayakla müdahale yapılması ya da
+mücadeleye girilmesi; ihraç (kırmızı kart) ile cezalandırılabilir.
+C
+Ceza vermek (Penalise)
+Genellikle oyunu durdurarak ve rakip takımın lehine serbest vuruş veya penaltı
+vuruşu vererek cezalandırmak (ayrıca bkz. Avantaj)
+Ciddi faullü oyun (Serious foul play)
+Ceza (Sanction)
+Hakem tarafından gerçekleştirilen disiplin uygulaması
+Oyun Kuralları 2024/25 | Terimler Sözlüğü
+D
+Deplasmanda atılan goller kuralı (Away goals rule)
+Her iki takım da aynı sayıda gol attığında maçın/beraberliğin
+sonuçlandırılması kararının verilmesi için kullanılan yöntemdir;
+deplasmanda atılan goller çift sayılır
+Rahatsız etmek, kafasını karıştırmak veya ilgisini çekmek
+(genelde haksız bir şekilde)
+Başka bir oyuncuya temas etmesine gerek olmadan, doğrudan
+rakip takımın kalesine vurmak suretiyle gol yapılabilecek serbest
+vuruş
+174
+E
+Bir oyuncunun fiziksel ve fizyolojik performansı hakkında veri
+toplayıp analiz eden sistem
+Vurulduktan sonra sadece başka bir oyuncu (herhangi bir takımdan)
+topa dokunursa, bir gol yapılabilen serbest vuruş
+Engellemek (Impede)
+Bir rakibin hareketini veya hareketlenmesini geciktirmek, bloke etmek
+veya önlemek
+F
+Forma (Shirt)
+Takım formasının bir parçası olarak bir oyuncunun vücudunun üst kısmına
+giydiği giysidir. Forması kendisini diğer oyunculardan ve maç görevlilerinden
+ayıran kaleci haricinde, bir takımdaki bütün oyuncuların formaları kolların
+uzunluğu dışında aynıdır.
+175
+G
+Geçici olarak erteleme (Suspend)
+Maçı en sonunda tekrar başlatmak niyetiyle bir süreliğine durdurmak.
+Örn. sis, şiddetli yağmur, fırtına, ciddi sakatlık
+Geçici oyun dışı bırakma (Temporary dismissal)
+İhtar gerektiren tüm veya bazı ihlalleri yapan oyuncunun (müsabaka talimatlarına
+bağlı olarak) maçın sonraki kısmında geçici süre oyun dışı bırakılması
+Gereksiz müdahale (Undue interference)
+Gereksiz hareket/etki
+Gol çizgisi teknolojisi (GLT) (Goal line technology (GLT))
+Gol atıldığında hakemi hemen bilgilendiren elektronik sistem Örn: Top, kalenin
+içinde kale çizgisini tamamen geçtiğinde (bkz . detaylar için Kural 1)
+Göz ardı edilebilir (Negligible)
+Önemli olmayan, minimal
+Oyun Kuralları 2024/25 | Terimler Sözlüğü
+H
+Hakem atışı (Dropped ball)
+Hızlı Serbest Vuruş (Quick free kick)
+Oyun durdurulduktan sonra bir serbest vuruşun (hakemin izni ile) çok hızlı
+bir şekilde kullanılması
+Hibrit Sistem (Hybrid system)
+Güneş ışığı, su, hava sirkülasyonu ve biçilme gerektiren bir oyun yüzeyi oluşturmak
+için yapay ve doğal malzemelerin bir arada kullanımı.
+Oyunu tekrar başlatma yöntemi- hakem, topa en son dokunan takımdan bir
+oyuncu için topu havadan bırakır (eğer top en son ceza alanında oynandı ise,
+topu kaleciye bırakır); top yere temas ettiğinde oyun başlamış sayılır
+176
+I
+İhlal (Offence)
+Oyun Kurallarını bozan/ihlal eden hareket.
+İhraç (Sending-off )
+Bir oyuncunun ihraç gerektiren bir ihlalde bulunması ile maçın geri kalan kısmında
+oyun alanını terk etmesini gerektiren disiplin uygulaması (kırmızı kart ile belirtilir);
+eğer maç başladıysa, ihraç edilen oyuncunun yerine başka bir oyuncu alınamaz.
+Ayrıca bir takım görevlisi de ihraç edilebilir.
+İhtar (Caution)
+Disiplin mercilerine raporlanma ile sonuçlanan disiplin cezası; sarı kart gösterilerek
+işaret edilir; bir maçta iki ihtarın alınması oyuncunun ya da takım görevlisinin ihraç
+edilmesine yol açar.
+İlave süre (Additional time)
+Oyuncu değişiklikleri, sakatlıklar, disiplin cezaları, gol kutlamaları vb. nedenler
+dolayısıyla her iki yarıda "kaybedilen" sürenin devre sonunda eklenmesidir.
+İşaret (Signal)
+Hakemden veya herhangi bir maç görevlisinden gelen �iziksel bildiri; genellikle el,
+kol veya bayrakların hareketini, ya da düdük kullanımını (yalnızca hakem) içerir.
+İtiraz (Dissent)
+Maç görevlilerinin kararına açık bir şekilde itiraz etmek ya da uymamak (sözlü
+ve/veya �iziksel olarak); ihtar (sarı kart) ile cezalandırılabilir.
+177
+K
+Kanaat (Discretion)
+Hakemin veya diğer maç görevlilerinin bir kararı verirken kullandıkları yargı
+Kandırma (Deceive)
+Hakemi oyuncunun veya takımın menfaatine olacak şekilde yanlış karar/
+disiplin cezası vermesi için yanlış yönlendirmek/hile yapmak
+Kesme (Intercept)
+Topun amaçlanan varış noktasına ulaşmasını önleme
+Kontrolsüz (Reckless)
+Bir oyuncu tarafından rakibine, tehlikesini veya sonuçlarını göz ardı ederek
+(umursamadan) yapılan hareket (genellikle ayakla müdahale veya mücadele
+etmek)
+Kurtarma (Save)
+Top kaleden içeri girerken ya da kalenin çok yakınındayken elleri haricindeki
+(kendi ceza alanı içindeki kaleci hariç) vücudunun herhangi bir parçası ile topu
+durdurma veya durdurmaya teşebbüs etme hareketi
+M
+Mücadele (Challenge)
+Bir oyuncunun rakibi ile top için rekabete/çekişmeye girmesi
+Oyun Kuralları 2024/25 | Terimler Sözlüğü
+Kasıtlı (Deliberate)
+Hakemi oyuncunun veya takımın menfaatine olacak şekilde yanlış karar/disiplin
+cezası vermesi için yanlış yönlendirmek/hile yapmak.
+O
+Oynama mesafesi (Playing distance)
+Bir oyuncunun ayağını/bacağını uzatarak ya da zıplayarak veya kaleciler için,
+kollar açık bir şekilde zıplayarak topa temas etmesine izin verilen mesafe.
+Mesafe, oyuncunun �iziksel ölçüsüne bağlıdır.
+Oynamak (Play)
+Bir oyuncunun topa temas etmesiyle yapılan hareket
+Oyun Alanı (Field of play (Pitch))
+Taç çizgileri, kale çizgileri ve kullanılan yerlerde, kale ağları ile sınırlandırılmış
+oyun alanı
+Oyun Ruhu (Spirit of the game)
+Futbolun spor olarak başlıca/önemli prensipleri/değerleri/kültürü
+fakat ayrıca belirli bir karşılaşma içindeki değerlendirilmesi (bkz. Kural 5)
+178
+P
+Penaltı noktasından yapılan vuruşlar (Kicks from the penalty mark)
+Penaltılar (penaltı vuruşları) bölümüne bakınız.
+Penaltı vuruşları (penalty shoot-out)
+Penaltılar (penaltı vuruşları) bölümüne bakınız.
+Penaltılar ( penaltı vuruşları) (penalties (penalty shoot-out))
+Önceki ‘penaltı noktasından yapılan vuruşlar’
+Her takımın dönüşümlü olarak ve iki takım da eşit sayıda vuruş yaptığında,
+takımlardan biri diğerinden bir gol daha fazla atana kadar süren (her iki takım
+için de yapılan ilk 5 vuruş sırasında, takımlardan biri, kalan vuruşların tamamı
+gol olsa dahi diğer takımın gol sayısını eşitleyemeyeceği durum hariç) maçın
+sonucunu belirleme yöntemidir.
+179
+S
+Saha dışı kişi (Outside agent)
+Maç görevlisi olmayan veya takım listesinde bulunmayan (oyuncular, yedek
+oyuncular ve takım görevlileri) herhangi bir kişi ya da herhangi bir hayvan,
+nesne, yapı vb.
+Sakatlanan oyuncunun değerlendirilmesi (Assessment of injured player)
+Genelde bir sağlık görevlisi tarafından bir oyuncunun tedaviye ihtiyacı olup
+olmadığına karar verilmesi için gerçekleştirilen hızlı bir sakatlık
+değerlendirilmesi
+Saldırgan, aşağılayıcı veya küfürlü dil/hareket(ler)
+(Offensive, insulting or abusive language)
+Kaba, kırıcı, saygısız sözlü ya da �iziksel davranış; ihraç edilerek (kırmızı kart)
+cezalandırılır
+‘Serinleme’ molası (‘Cooling’ break)
+Oyuncuların sağlıkları ve güvenlikleri yararına, belirli hava koşullarında
+(yüksek nem ve sıcaklık), müsabaka kuralları çerçevesinde, oyuncuların vücut
+sıcaklıklarının düşmesi için ‘serinleme’ molalarına (genellikle doksan saniyeden
+üç dakikaya kadar) izin verilebilir; bu molalar "su" molalarından farklıdır
+Sportmenlik Dışı Davranış (Unsporting behaviour)
+Haksız hareket/davranış; ihtar ile cezalandırılabilir
+‘Su' molası (‘Drinks’ break)
+Müsabaka kuralları, oyuncuların su eksikliklerini gidermeleri için 'su'
+molalarına (bir dakikayı geçmeyen) izin verebilir; bu molalar 'serinleme’
+molalarından farklıdır
+Oyun Kuralları 2024/25 | Terimler Sözlüğü
+180
+T
+Teknik Alan (Technical area)
+Takım görevlileri için oturma yerleri olan, ayrılmış koltuklu alan (stadyumda)
+(detaylar için bkz. Kural 1)
+Ş
+Şarj (rakibe karşı) (Charge an opponent)
+Genellikle omuz ve üst kol kullanılarak (vücuda yakın tutulmak sureti ile) rakiple
+yapılan fiziksel mücadele
+Şiddetli Hareket (Violent conduct)
+Top için mücadele yokken bir rakibe karşı aşırı güç kullanılması veya teşebbüs
+edilmesi veya acımasızca davranılması veya kullanılan kuvvet göz ardı edilebilir
+olmadığı sürece, bir oyuncunun başka birinin başına veya yüzüne bilerek
+vurması hareketidir.
+Takım Görevlisi (Team official)
+Resmi takım listesinde yer alan oyuncu olmayan herhangi bir kişi örn. antrenör,
+�izyoterapist, doktor (bkz. teknik ekip)
+Takım Listesi (Team list)
+Genellikle oyuncuların, yedek oyuncuların ve takım görevlilerinin yazılı olduğu
+resmi takım dokümanı.
+Tatil Etmek (Abandon)
+Maçı belirlenen zamandan önce bitirmek/sonlandırmak
+Tekmelik (Shinguard)
+Bir oyuncunun kaval kemiğini sakatlanmaya karşı korumaya yardımcı
+olmak için giyilen bir ekipman parçasıdır. Oyuncular, yeterli koruma
+sağlaması için uygun malzemeden yapılmış ve uygun boyutta tekmelik
+giymekle sorumludur ve tekmelikler çoraplar ile tamamen örtülmelidir.
+Teknik Ekip (Technical staff)
+Resmi takım listesinde yazılmış, maçta oynamayan resmi takım üyeleri örn.
+antrenör, �izyoterapist, doktor (bkz. takım görevlileri)
+Tekrar Başlatma (Restart)
+Oyun durdurulduktan sonra devam etmesi için kullanılan herhangi bir yöntem
+Tekrar başlatma Yeri (Restart position)
+Oyunun tekrar başlaması sırasında oyuncunun konumu, ayaklarının veya zemine
+temas eden vücudunun herhangi bir parçasının konumu ile belirlenir, Kural 11 -
+Ofsayt içinde ana hatları belirlenen durumlar hariç.
+Tutma İhlali (Holding offence)
+Bir tutma ihlali, bir oyuncunun rakibinin vücuduna ya da ekipmanına teması
+sadece rakibinin hareketini engellediği durumda oluşur.
+181
+U
+Uzatma Süresi (Extra time)
+15 dakikayı geçmeyen eşit süreli iki ek devreyle bir maçın sonucunu
+belirlemeye çalışma yöntemi
+V
+Vuruş (Kick)
+Bir oyuncun topa ayağıyla ve/veya ayak bileğiyle temas etmesi şeklindeki vuruş
+Y
+Yanıltma (Feinting)
+Rakibi şaşırtmak amacıyla yapılan hareket. Kurallar izin verilen ve 'kural dışı'
+olan yanıltmaları belirtmiştir.
+Oyun Kuralları 2024/25 | Terimler Sözlüğü
+182
+Maç Görevlileri
+Bir futbol federasyonu ve/veya müsabakayı organize eden kuruluşun yetkileri
+dahilinde oynanan bir futbol maçının kontrolünden sorumlu olan kişi veya kişiler
+için kullanılan genel terim.
+Hakem
+Oyun alanında maçı yöneten esas maç görevlisidir. Diğer maç görevlileri hakemin
+kontrolü ve yönetiminde çalışırlar. Hakem son/nihai karar vericidir.
+Diğer Maç Görevlileri (Diğer Hakemler)
+'Saha içi' Maç Görevlileri
+Müsabakayı organize eden kuruluşlar hakeme yardımcı olmaları için başka maç
+ görevlileri atayabilir:
+• Yardımcı Hakem
+Hakeme özellikle ofsayt durumlarında ve kale vuruşu/köşe vuruşu/ taç atışı
+kararlarında yardımcı olmak için taç çizgisinin her bir yarısında bayrakla yer
+alan maç görevlisidir.
+• Dördüncü Hakem
+Hakeme teknik alanın denetlenmesi, yedek oyuncuların kontrol edilmesi gibi
+hem oyun alanı içi hem de oyun alanı dışı konularda yardım etmekten sorumlu
+maç görevlisidir.
+• İlave Yardımcı Hakem (AAR)
+Hakeme, özellikle ceza alanı içerisinde/çevresinde ve gol/gol değil
+kararlarında yardımcı olmak için, kale çizgisinde yer alan maç görevlisidir.
+• Yedek Yardımcı Hakem
+Hakem Terimleri
+Devam edemeyen bir yardımcı hakemin( ve eğer müsabaka talimatları izin veriyorsa
+4. Hakemin ve/veya İlave Yardımcı Hakemin) yerini alacak olan ve teknik alanın
+gözetimi, yedek oyuncuların kontrolü vb. dahil olmak üzere hem saha içi hem de
+saha dışı konularda hakeme yardım etme sorumluluğu olan maç görevlisidir.
+Oyun Kurallarına ve VAR protokolüne uygun olarak hakeme yardımcı olan
+VAR ve AVAR’dır.
+183
+• Video Yardımcı Hakem (VAR)
+• Video Yardımcı Hakem Asistanı (AVAR)
+Video yardımcı hakeme (VAR) yardım etmek için atanan faal ya da eski bir
+hakem/yardımcı hakem.
+'Video' Maç Görevlileri (VMO)
+Yalnızca incelenebilir kategorilerden birinde olan, "açık ve bariz hata
+" ya da “gözden kaçan ciddi olay" ile ilişkili maç tekrar görüntülerindeki
+bilgileri, hakeme ileterek destek olmak üzere görevlendirilen faal ya da
+eski bir hakem.
+Oyun Kuralları 2024/25 | Terimler Sözlüğü
+Hakemler
+için
+Uygulama
+Rehberi
+185 Oyun Kuralları 2024/25
+Bu rehber, maç görevlileri için Oyun Kuralları bölümünde verilen bilgileri
+destekleyen pratik tavsiyeler içermektedir.
+Kural 5'te Oyun Kuralları çerçevesinde oyunu yöneten hakemlerden ve '’oyun
+ruhundan" bahsedilmiştir. Hakemlerden Oyun Kurallarını uygularken,
+özellikle maçın oynanması ve/veya devamına ilişkin kararlar verirken,
+sağduyu kullanmaları ve 'oyunun ruhuna" uygun bir şekilde hareket etmeleri
+beklenir.
+Bu durum özellikle Oyun Kurallarının her zaman katı bir şekilde
+uygulanmasının mümkün olmadığı daha düşük seviyedeki futbol müsabakaları
+için geçerlidir. Örneğin, güvenlik sorunları söz konusu olmadığı sürece,
+hakem, şu durumlarda oyunun başlamasına/devam etmesine izin vermelidir:
+• bir veya daha fazla köşe bayrağı eksikse
+• oyun alanında, köşe alanı, orta yuvarlak vb. gibi bölgelerdeki işaretlemelerde
+ küçük hatalar varsa
+• kale direkleri/kale üst direği beyaz renkte değilse
+Bu tarz durumlarda hakem, takımların da anlaşmaya varması durumunda
+oyunu başlatmalıdır/devam ettirmelidir ve ilgili yetkililere durumu rapor
+etmelidir.
+Kısaltmalar:
+• AR=Yardımcı hakem
+• AAR=İlave yardımcı hakemler
+186
+Genel Yer Alma ve Hareketlenme
+En iyi yer, hakemin doğru karar verebildiği yerdir. Yer alma hakkındaki bütün
+tavsiyeler, maçın içinde takımlar, oyuncular ve olaylar hakkında özel bilgiler
+kullanılarak uygulanmalıdır.
+Gra�iklerde önerilen pozisyonlar temel ilkelerdir. Önerilen pozisyonlar hakemin
+en etkili olabileceği alanlardır. Maçın tam koşullarına bağlı olarak bu alanlar daha
+büyük, daha küçük ya da farklı şekilde olabilir.
+• Oyun, hakem ile yardımcı hakem arasında olmalıdır
+• Yardımcı hakem, hakemin görüş alanında olmalıdır ve böylelikle hakem
+ genellikle geniş diyagonal sistem kullanmalıdır
+• Oyunun dış tarafına doğru yer almak oyunun ve yardımcı hakemin görüş
+ alanı içinde tutulmasını daha kolay hale getirir
+• Hakem oyunu görebilmek için, oyuna müdahale etmeden, yeterince yakında
+ olmalıdır
+• "Görülmesi gereken" her zaman topun bulunduğu bölgede değildir. Hakem
+ aynı zamanda şunlara da dikkat etmelidir:
+ • oyuncuların topsuz alandaki çatışmaları
+ • oyunun yöneldiği alanda gerçekleşmesi olası ihlaller
+ • top uzağa oynandıktan sonra meydana gelen ihlaller
+1.
+Yer Alma, Hareketlenme
+ve Takım Çalışması
+187
+2. yardımcı hake
+m
+Hakem
+1. yardımcı hake
+m
+Oyun Kuralları 2024/25
+188
+Yardımcı hakem sondan ikinci savunma oyuncusu ile aynı hizada olmalıdır,
+eğer top, kale çizgisine sondan ikinci savunma oyuncusundan daha yakınsa
+topla aynı hizada olmalıdır. Yardımcı hakemin yüzü koşarken bile her zaman
+oyun alanına dönük olmalıdır. Kısa mesafelerde yan-yan koşu kullanılmalıdır.
+Bu durum özellikle ofsayt kararı verilirken önemlidir ve yardımcı hakeme daha
+iyi görüş imkânı verir.
+İlave yardımcı hakemlerin yeri gol/gol değil durumlarında karar vermek için
+gerektiğinde kale çizgisi üstüne gelmeleri hariç olmak üzere kale çizgisinin
+arkasıdır. İstisnai durumlar olmadığı sürece ilave yardımcı hakemlerin oyun
+alanı içine girmelerine izin verilmez.
+Hakem
+Savunmacı
+Yardımcı
+Hakem
+Hücumcu
+İlave Yardımcı
+Hakem
+(GK)
+189 Oyun Kuralları 2024/25
+2. Yer Alma ve Takım Çalışması
+(GK)
+Savunmacı
+Hücumcu
+Hakem
+Disiplin konularında yardımcı hakemin hakemle göz teması kurması ve
+basit bir gizli el işareti vermesi yeterli olabilir. Doğrudan bilgi paylaşımına
+ihtiyaç olduğunda, eğer gerekliyse yardımcı hakem oyun alanı içine 2-3
+metre kadar girebilir. Konuştukları sırada hakem ve yardımcı hakemin
+yüzleri başkaları tarafından duyulmalarını önlemek, oyuncuları ve oyun
+alanını gözlemek için oyun alanına dönük olmalıdır.
+Köşe Vuruşu
+Bir köşe vuruşu sırasında yardımcı hakemin konumu, kale çizgisiyle aynı
+hizada ve köşe bayrağının arkasında olmalıdır ancak yardımcı hakem köşe
+vuruşunu kullanan oyuncuyu engellememelidir ve topun köşe alanına
+doğru bir şekilde yerleştirildiğini kontrol etmelidir.
+190
+(GK)
+(GK)
+Savunmacı
+Hücumcu
+Hakem
+Savunmacı
+Hücumcu
+Hakem
+Serbest Vuruş
+Bir serbest vuruş için yardımcı hakemin konumu ofsayt çizgisini kontrol
+etmek için sondan ikinci savunma oyuncusu ile aynı hizada olmalıdır. Ancak
+eğer kaleye doğrudan bir şut olursa yardımcı hakem taç çizgisinden köşe
+bayrağına doğru hareket ederek topu takip etmek için hazır olmalıdır.
+191
+(GK)
+(GK)
+Oyun Kuralları 2024/25
+Savunmacı
+Hücumcu
+Hakem
+Savunmacı
+Hücumcu
+Hakem
+192
+(GK)
+Savunmacı
+Hücumcu
+Hakem
+Bir gol atıldığında ve kararda hiçbir şüphe olmadığında, hakem ve yardımcı
+hakem göz teması kurmalıdır ve sonrasında yardımcı hakem süratle orta
+çizgiye doğru taç çizgisi boyunca 25-30 metre bayrağını kaldırmadan
+koşmalıdır.
+Golün atıldığı ancak topun hala oyunda gözüktüğü (şüpheli) durumlarda
+yardımcı hakem önce hakemin dikkatini çekmek için bayrağını kaldırmalı,
+sonra ortaya çizgiye doğru taç çizgisi boyunca 25-30 metre süratle koşarak
+normal gol prosedürünü yerine getirmelidir.
+Topun tamamının kale çizgisini geçmediği ve bir gol atılmadığı için oyunun
+devam ettiği durumlarda; hakem ile yardımcı hakem göz teması kurmalı ve
+gerekirse gizli bir el işaretini kullanarak haberleşmelidir.
+193
+1
+2
+(GK)
+Oyun Kuralları 2024/25
+Savunmacı
+Hücumcu
+Hakem
+Kale Vuruşu
+Yardımcı hakem öncelikle topun kale alanı içinde olduğunun kontrolünü
+yapmalıdır. Eğer top doğru şekilde yerleştirilmemişse, yardımcı hakem
+yerinden hareket etmemelidir ve hakem ile göz göze gelerek bayrağını
+kaldırmalıdır. Top kale alanı içine doğru bir şekilde yerleştirildiğinde
+yardımcı hakem ofsayt çizgisini kontrol etmek için yer almalıdır.
+Ancak ilave bir yardımcı hakem varsa, yardımcı hakem ofsayt çizgisinde
+yer almalıdır ve ilave yardımcı hakem kale alanı ile kale çizgisinin kesiştiği
+yerde ve topun kale alanı içine yerleştirildiğini kontrol etmek için pozisyon
+alır. Eğer top doğru şekilde yerleştirilmemişse, ilave yardımcı hakem bunu
+hakeme bildirmelidir.
+194
+(GK)
+Savunmacı
+Hücumcu
+Hakem
+Yardımcı hakem ceza alanının kenarı ile aynı hizada yer almalıdır ve kalecinin
+ceza alanı dışında topa elle müdahale edip etmediğini kontrol etmelidir. Kaleci
+topu elinden çıkardığında, yardımcı hakem ofsayt çizgisini kontrol etmek için
+pozisyon almalıdır.
+195
+(GK)
+Oyun Kuralları 2024/25
+Savunmacı
+Hücumcu
+Hakem
+Başlama Vuruşu
+Yardımcı hakemler sondan ikinci savunma oyuncusu ile aynı
+hizada olmalıdır.
+Penaltılar (Penaltı vuruşları)
+Bir yardımcı hakem kale çizgisi ve kale alanının kesiştiği noktada yer almalıdır.
+Diğer yardımcı hakem oyuncuları kontrol etmek için orta yuvarlakta bulunmalıdır.
+İlave yardımcı hakemler maçta görevli ise; bunlar sırasıyla kalenin sağındaki ve
+solundaki, kale alanının kale çizgisi ile kesiştiği yerlerde bulunmalıdır, ancak
+yalnızca bir ilave yardımcı hakeme ihtiyaç olan Gol Çizgisi Teknolojisinin
+kullanıldığı durumlar istisnadır. 2. ilave yardımcı hakem ve
+1. yardımcı hakem orta yuvarlaktaki oyuncuları izlemelidir, 2. yardımcı hakem
+ve dördüncü hakem teknik alanları izlemelidir
+196
+AARs
+(GK) (GK)
+No AAR
+(GK) (GK)
+İlave Yardımcı Hakemler
+(GK) (GK)
+İlave Yardımcı Hakem Yok
+(GK) (GK)
+Savunmacı
+Hücumcu
+Hakem
+Savunmacı
+Hücumcu
+Hakem
+Bu durumda,
+197
+(GK)
+(GK)
+(GK)
+Oyun Kuralları 2024/25
+Savunmacı
+Hücumcu
+Hakem
+Savunmacı
+Hücumcu
+Hakem
+Penaltı Vuruşu
+Yardımcı hakem kale çizgisi ve ceza alanının kesiştiği noktada yer almalıdır.
+Maçta ilave yardımcı hakemler görevli ise; ilave yardımcı hakem kale
+alanının kale çizgisi ile kesiştiği yerde, yardımcı hakemler ise penaltı
+noktasının(aynı zamanda ofsayt çizgisi) hizasında yer almalıdır.
+198
+Bu tür durumlarda en yakın yardımcı hakem, hakeme yardımcı olmak için oyun
+alanına girebilir. Diğer yardımcı hakem olayı gözlemlemelidir ve detaylarını kayıt
+altına almalıdır. Dördüncü hakem, teknik alanların çevresinde bulunmalıdır.
+Bir serbest vuruş yardımcı hakeme çok yakın mesafede verildiyse, yardımcı
+hakem oyuncuların toptan 9,15 metre (10 yds) uzakta olduğundan emin olmak
+için oyun alanına girebilir (genellikle hakemin talebi doğrultusunda olacaktır).
+Bu durumda hakem oyunu tekrar başlatmadan önce yardımcı hakemin yerine
+geri dönmesini beklemelidir.
+Eğer maçta dördüncü hakem yoksa, yardımcı hakem oyuncu değişikliğine
+yardımcı olmak için orta çizgiye gitmelidir; bu durumda hakem oyunu tekrar
+başlatmadan önce yardımcı hakemin yerine geri dönmesini beklemelidir.
+Eğer maçta dördüncü hakem görevli ise, dördüncü hakem oyuncu değişikliğini
+yerine getirdiği için yardımcı hakemin orta çizgiye gitmesine gerek yoktur.
+Ancak aynı anda birden fazla oyuncu değişikliği yapılıyor ise, yardımcı hakem
+dördüncü hakeme yardımcı olmak için orta çizgiye gidebilir.
+199
+200
+Hakem
+Beden dili hakemin aşağıdakiler için kullandığı bir araçtır:
+• maçı kontrol etmesine yardımcı olmak,
+• otoritesini ve iradesini ortaya koymak
+Beden dili, bir kararın açıklanması amacı ile kullanılmaz.
+İşaretler
+İşaret gra ikleri için bkz. Kural 5
+Düdük
+Düdüğün kullanımı şu durumlarda gereklidir:
+• oyunu başlatmak için (oyunun ve uzatmaların 1. ve 2. yarısı), gol atıldıktan
+ sonra
+• şu durumlarda oyunu durdurmak için:
+ • bir serbest vuruş ya da penaltı vuruşu için
+ • eğer maç geçici olarak durdurulmuş ya da tatil edilmiş ise
+ • her yarının sonunda
+• şu durumlarda oyunu tekrar başlatmak için:
+ • serbest vuruşlarda (baraj için) uygun mesafe gerektiğinde
+ • penaltı vuruşlarında
+• aşağıdaki durumlar nedeniyle oyun durdurulduktan sonra tekrar başlatılması
+ için
+ • ihtar ya da ihraç
+1.
+Düdük Kullanımı
+201 Oyun Kuralları 2024/25
+ • sakatlanma
+ • oyuncu değişikliği
+Şunlar için düdük gerekli DEĞİLDİR:
+• aşağıdaki durumlar çok açık olduğunda oyunu durdurmak için:
+ • kale vuruşu, köşe vuruşu, taç atışı veya gol
+• aşağıdaki durumlarda oyunu tekrar başlatmak için:
+ • çoğu serbest vuruş ve kale vuruşu, köşe vuruşu, taç atışı veya hakem atışı
+Düdüğün çok sık/gereksiz bir şekilde kullanılması, kullanılması gerektiği
+zamanlarda daha az etkili olmasına yol açar.
+Eğer hakem oyunu tekrar başlatmadan önce oyuncuların düdüğü beklemesini
+isterse (örneğin bir serbest vuruş kullanılırken oyuncuların toptan 9.15m (10
+yd) mesafede olduklarından emin olmak için), hücum yapan takımın oyuncu
+(lar)ını düdüğü beklemeleri için açıkça bilgilendirmelidir.
+Eğer hakem düdüğü yanlışlıkla çalar ve oyun durursa, oyun hakem atışı ile
+tekrar başlatılır.
+Yardımcı Hakemler
+Bipli sinyal sistemi, yalnızca hakemin dikkatini çekmek için kullanılan ilave
+bir işarettir. Bipli sinyal sisteminin kullanılmasının faydalı olduğu durumlar
+şunlardır;
+• ofsayt
+• ihlaller (hakemin görüş alanı dışında gerçekleşen)
+• taç atışı, köşe vuruşu, kale vuruşu veya gol (kritik kararlar)
+Elektronik iletişim sisteminin kullanıldığı durumlarda hakem, yardımcı
+hakemlere iletişim sistemini ne zaman iziksel işaretlerle birlikte veya fiziksel
+işaretlerin yerine kullanacağını bildirir.
+2.
+202
+Yardımcı hakemin bayrağı her zaman açık ve hakemin görebileceği şekilde
+olmalıdır. Bu, bayrağın hakeme en yakın elde taşınacağı anlamına gelir.
+Yardımcı hakem bir işaret verirken koşmayı bırakmalı, yüzü oyun alanına
+dönük olmalı ve hakemle göz teması kurmalı ve belirgin (aceleci veya abartılı
+olmayan ) hareketlerle bayrağı kaldırmalıdır. Bayrak kolun bir uzantısı gibi
+olmalıdır. Yardımcı hakemler bayrağı bir sonraki işareti vermek için kullanacağı
+eli ile kaldırmalıdır. Eğer durumlarda bir değişiklik olursa ve diğer elin
+kullanılması gerekirse, yardımcı hakem bayrağı belinin altında diğer eline
+geçirmelidir. Eğer yardımcı hakem topun oyundan çıktığını işaret ederse, bu
+işaret hakem onaylayana kadar sürdürülmelidir.
+Eğer yardımcı hakem ihraç gerektirecek bir ihlal yapıldığını işaret ederse ve bu
+işaret anında görülmezse:
+• eğer oyun durdurulmuşsa, oyunu tekrar başlatma şekli kurallara uygun olarak
+ değiştirilebilir (serbest vuruş, penaltı vuruşu vb.)
+• eğer oyun tekrar başlatılmışsa, hakem yine de disiplin cezası uygulayabilir
+ ancak yapılan ihlali serbest vuruş veya penaltı vuruşu ile cezalandıramaz.
+Genel bir kural olarak yardımcı hakemler çok açık el işaretleri kullanmamalıdır.
+Ancak bazı durumlarda gizli bir el işareti hakeme yardımcı olabilir. El işaretinin
+maç öncesi görüşmelerde üzerinde anlaşılan açık bir anlamı olmalıdır.
+İşaretler
+İşaret grafikleri için bkz. Kural 6
+Köşe vuruşu/Kale vuruşu
+Top kale çizgisini tamamıyla geçtiğinde yardımcı hakem topun oyun dışı
+olduğunu hakeme bildirmek için bayrağını sağ eliyle (daha iyi görüş açısı)
+kaldırır ve sonrasında eğer top:
+• yardımcı hakeme yakınsa - kale vuruşu veya köşe vuruşu olduğunu işaret eder
+• yardımcı hakeme uzaksa - göz teması kurar ve hakemin kararına uyar
+Top kale çizgisini açıkça geçtiği zaman topun oyun alanını terk ettiğini
+göstermek için yardımcı hakemin bayrak kaldırmasına gerek yoktur. Özellikle
+hakemlerin işaret verdiği anlarda,
+203 Oyun Kuralları 2024/25
+eğer kale veya köşe vuruşu kararı bariz ise yardımcı hakemin bayrak
+kaldırmasına gerek yoktur.
+Fauller
+Yardımcı hakem bulunduğu yere yakın veya hakemin görüş alanı dışında bir
+faul veya fena hareket gerçekleştiğinde bayrağını kaldırmalıdır. Yardımcı
+hakem diğer tüm durumlarda beklemeli ve gerekliyse görüşünü sunmalı ve
+sonrasında gördüğünü, duyduğunu ve hangi oyuncuların yapılan ihlale dahil
+olduğunu hakeme bildirmelidir.
+Yapılan ihlal için işaret vermeden önce, yardımcı hakem aşağıdaki durumları
+belirlemelidir:
+• ihlalin hakemin görüş alanı dışında olması veya hakemin görüşünün
+ engellenmiş olması
+• hakemin avantaj uygulamayacak olması
+Yardımcı hakemin işaret vermesini gerektiren bir ihlal gerçekleştiğinde,
+yardımcı hakem:
+• işaretin devamında göstereceği yöndeki el ile bayrağını kaldırmalıdır, bu
+ sayede hakem kimin lehine serbest vuruş verileceğini açıkça görür
+• hakem ile göz teması kurmalıdır
+• bayrağı ileri geri olacak şekilde hafifçe sallamalıdır (herhangi bir aşırı veya
+ agresif hareketten kaçınarak)
+Yardımcı hakem oyunun devam etmesi için "bekle ve gör" tekniğini
+kullanmalıdır ve ihlal yapan takımın karşısındaki takım avantaj elde ettiğinde
+bayrağı kaldırmamalıdır; bu nedenle yardımcı hakemin hakemle göz teması
+kurması çok önemlidir.
+Ceza alanı içerisinde bir savunma oyuncusu hakemin görüş alanının dışında
+bir ihlal gerçekleştirirse, olay özellikle yardımcı hakeme yakın bir noktada
+gerçekleşmiş ise, yardımcı hakem ilk olarak hakemin nerede olduğunu ve
+nasıl karar vereceğini görmek için hakemle göz teması kurmalıdır. Eğer hakem
+herhangi bir karar vermiyorsa, yardımcı hakem bayrakla işaret vermelidir,
+elektronik bip sinyalini kullanmalıdır ve sonrasında gözle görünür bir şekilde
+taç çizgisinden köşe bayrağına doğru hareket etmelidir.
+204
+Ceza alanı dışında (ceza alanı sınırları yakınında) bir savunma oyuncusu
+hakemin görüş alanının dışında bir ihlal gerçekleştirirse, yardımcı hakem ilk
+olarak hakemin nerede olduğunu ve nasıl karar vereceğini görmek için hakemle
+göz teması kurmalıdır ve gerekirse bayrağı ile işaret vermelidir. Kontra atak
+durumlarında yardımcı hakemin bir faulün yapılıp yapılmadığı, faulün ceza
+alanı içinde veya dışında gerçekleşip gerçekleşmediği ve hangi disiplin
+cezasının verilmesi gerektiği gibi konularda bilgi verebilmesi gerekmektedir.
+Yardımcı hakem bir ihlalin ceza alanı dışında gerçekleştiğini belirtmek için taç
+çizgisi üzerinde açıkça orta çizgiye doğru hareket etmelidir.
+
+Topun kale çizgisini tümüyle geçip kaleye girdiğinin açık olduğu durumda,
+yardımcı hakem herhangi bir ilave işaret vermeden hakem ile göz teması
+kurmalıdır.
+Bir gol atıldığında ancak topun kale çizgisini geçip geçmediği açıkça belli
+olmadığında, yardımcı hakem, hakemin dikkatini çekmek için öncelikle
+bayrağını kaldırmalı ve daha sonra gol olduğunu doğrulamalıdır.
+Ofsayt
+Bir ofsayt kararı için yardımcı hakemin yaptığı ilk hareket bayrağını kaldırmaktır.
+(yardımcı hakeme daha iyi bir görüş açısı sağladığı için bayrağı sağ elini
+kullanarak kaldırır) ve daha sonra, eğer hakem oyunu durdurursa, bayrağını
+ihlalin yapıldığı oyun alanının bölgesini belirtmek için kullanır. Eğer bayrak
+hakem tarafından anında görülmez ise, işaret alınana kadar veya top açıkça
+savunma takımının kontrolüne geçene kadar yardımcı hakem işaret etmeye
+devam etmelidir.
+Penaltı Vuruşu
+Eğer kaleci topa vurulmadan önce bariz bir şekilde kale çizgisinden çıkarsa ve
+golün atılmasını engellerse, yardımcı hakem çizgi ihlalini müsabaka öncesi
+memorandumda hakemden aldığı talimata göre işaret etmelidir.
+Oyuncu değişikliği yapılacağı yardımcı hakeme bildirildikten sonra (dördüncü
+hakem veya takım görevlisi tarafından) yardımcı hakem bunu bir sonraki
+duraklamada hakeme işaret etmelidir.
+205 Oyun Kuralları 2024/25
+Taç Atışı
+Top tamamıyla taç çizgisini geçtiğinde:
+• yardımcı hakeme yakınsa - taç atışının yönünü belirtmek için doğrudan bir
+ işaret yapılmalıdır
+• yardımcı hakeme uzak ve taç atışı bariz ise - yardımcı hakem taç atışının
+ yönünü belirtmek için doğrudan bir işaret yapmalıdır
+• yardımcı hakeme uzak ve yardımcı hakem taç atışının yönü konusunda
+ şüpheye düşmüş ise
+ - yardımcı hakem topun oyun dışını olduğunu hakeme bildirmek için bayrağı
+ kaldırmalı, hakem ile göz teması sağlamalı ve hakemin işaretine uymalıdır
+İlave Yardımcı Hakemler
+İlave yardımcı hakemler hakem ile iletişim kurmak için yalnızca telsiz iletişim
+sistemini kullanırlar (bayrak kullanmazlar). Eğer telsiz iletişim sistemi arızalanırsa, ilave yardımcı hakemler elektronik bip sinyalli bayrak çubuğu kullanacaklardır.
+ İlave yardımcı hakemler genellikle bariz el işaretleri kullanmazlar ancak bazı
+durumlarda gizli bir el işareti hakeme değerli bir destek sağlayabilir. El işaretinin
+anlamı açık olmalıdır ve bu işaretler maç öncesi görüşmede kararlaştırılmalıdır.
+Topun kale içinde, kale çizgisini tamamıyla geçtiği sonucuna varan ilave
+yardımcı hakem:
+• iletişim sistemi aracılığı ile golün geçerli sayılması gerektiğini anında hakeme
+ bildirir
+• kale çizgisine dik olacak bir şekilde sol kolu ile oyunun alanının merkezini
+ işaret ederek net bir işaret verir (sol eliyle bayrak çubuğu tutuyor olması
+ gerekmektedir). Topun kale çizgisini açık bir şekilde tamamen geçtiği
+ durumlarda bu işaretin verilmesine gerek yoktur.
+Hakem son kararı verecektir.
+3.
+206
+Avantaj
+Bir ihlal oluştuğunda hakem avantaj oynatabilir ancak avantaj uygulama veya
+oyunu durdurma kararını verirken aşağıdaki durumları göz önüne almalıdır:
+• ihlalin şiddeti - açık bir gol atma şansı olmadıkça, eğer yapılan ihlal ihraç
+ gerektiriyorsa, hakem oyunu durdurmalı ve oyuncuyu ihraç etmelidir.
+• ihlalin yapıldığı yer - rakip takımın kalesine ne kadar yakın ise, avantaj o kadar
+ etkili olabilir
+• ani, umut vaat eden atak şansı
+• maçın atmosferi
+Oyun içerisindeki birçok duraklama tamamen doğaldır (örneğin taç atışları, kale
+vuruşları gibi). Bu duraklamalarda sadece gecikme aşırı miktarda olduğunda
+ilave süre verilir.
+Hakemlere, özellikle serbest vuruş veya köşe vuruşları sırasında ceza alanı
+içindeki tutma ihlallerine erken müdahil olmaları ve kararlı bir biçimde baş
+etmeleri gerektiği hatırlatılır. Bu durumlarla başa çıkmak için:
+• hakem top oyuna girmeden önce rakibi tutan oyuncuyu uyarmalıdır.
+• top oyuna girmeden önce tutma devam ederse oyuncuya ihtar verilir.
+• top oyundayken tutma meydana gelirse direkt serbest vuruş veya penaltı
+ vuruşu ve oyuncuya ihtar verilir.
+1.
+2.
+3.
+207
+4. Ofsayt
+Kaleci (GK)
+Hücumcu
+Hakem
+Oyuncunun hareketi
+Topun hareketi
+Oyuna müdahale
+(GK) Ofsayt
+1
+(A)
+Savunmacı
+Hücumcu
+Hakem
+Oyuna müdahale
+2
+(A)
+(GK)
+Oyun Kuralları 2024/25
+hücum
+oyuncusu (A), topa dokunuyor. Yardımcı hakem oyuncu topa dokunduğu anda
+bayrağını kaldırmalıdır.
+hücum
+oyuncusu (A) topa dokunmuyor
+cezalandırılamaz.
+2008
+Savunmacı
+Hücumcu
+Hakem
+Oyuna müdahale
+Ofsayt
+4
+(A)
+(GK)
+Savunmacı
+Hücumcu
+Hakem
+Oyuna müdahale
+3
+(A)
+(B)
+(GK)
+hücum oyuncusu (A) topa doğru koşuyor ve ofsayt
+ takım arkadaşı da (B) topa doğru koşuyor, ofsayt
+durumunda bulunmayan oyuncu topla oynuyor. (A) oyuncusu topa dokunmadı, bu
+nedenle cezalandırılamaz.
+209
+topa
+dokunmuyor. Yardımcı hakem “kale vuruşu”
+Savunmacı
+Hücumcu
+Hakem
+Oyuna müdahale
+Kale vuruşu
+5
+(1)
+(2)
+(GK)
+Savunmacı
+Hücumcu
+Hakem
+Ofsayt
+6
+(A)
+(GK)
+Oyun Kuralları 2024/25
+210
+mücadele .
+Savunmacı
+Hücumcu
+Hakem
+Köşe vuruşu
+8
+(B)
+(A)
+(GK)
+Savunmacı
+Hücumcu
+Hakem
+7
+(A)
+(GK)
+211
+arkadaşı tarafından dokunulduktan veya oynandıktan sonra
+Savunmacı
+Hücumcu
+Hakem
+Ofsayt
+9
+(B)
+(A)
+(GK)
+Savunmacı
+Hücumcu
+Hakem
+Avantaj kazanmak
+Ofsayt
+10
+(B)
+(A)
+(GK)
+Oyun Kuralları 2024/25
+(C)
+dokunmamıştır.
+212
+arkadaşı tarafından dokunulduktan veya oynandıktan sonra
+Kaleci (GK)
+Hücumcu
+Hakem
+Oyuncunun hareketi
+Topun hareketi
+Avantaj kazanmak
+12
+(B)
+(C)
+(A)
+(GK)
+Kaleci (GK)
+Hücumcu
+Hakem
+Oyuncunun hareketi
+Topun hareketi
+Avantaj kazanmak
+Ofsayt
+11 (B)
+(C)
+(A)
+(GK)
+213
+bulunduğundan
+topla oynadığı veya dokunduğu
+Hücum oyuncusu (C) pas aldığı anda
+Kaleci (GK)
+Hücumcu
+Hakem
+Oyuncunun hareketi
+Topun hareketi
+Avantaj kazanmak
+Ofsayt
+13
+(B)
+(A)
+(GK)
+Kaleci (GK)
+Hücumcu
+Hakem
+Oyuncunun hareketi
+Topun hareketi
+Avantaj kazanmak
+14
+(B2)
+(B1)
+(C)
+(A)
+(GK)
+Oyun Kuralları 2024/25
+214
+5.
+6.
+Sakatlıklar
+Oyuncuların güvenliği son derece önemlidir ve hakem özellikle ciddi yaralanma
+ve/veya kafa yaralanmasının değerlendirilmesi durumlarında tıbbi personelin
+işini kolaylaştırmalıdır. Bu, kararlaştırılan değerlendirme/tedavi protokollerine
+saygı göstermeyi ve yardımcı olmayı da içerir.
+Önceden, oyun alanında tıbbi müdahalede bulunulan sakatlanmış bir oyuncunun
+oyun tekrar başlatılmadan önce oyun alanını terk etmesi gerekiyordu. Eğer bir
+rakip sakatlanmaya neden olmuşsa, oyun tekrar başladığında ihlali yapan takım
+sayısal üstünlüğe sahip olduğu için bu haksızlık olacaktır.
+Bununla birlikte, bu şart getirilmiştir çünkü oyuncular, çoğunlukla sakatlığı,
+oyunun başlamasını taktiksel sebeplerle geciktirmek için kullanmaktadır.
+Bu iki haksız durumun arasında denge sağlamak için, IFAB rakip oyuncuya ihtar
+verilen veya ihraç edilen sadece fiziksel ihlaller söz konusu olduğunda, sakatlanmış
+oyuncunun hızlı bir şekilde durumunun değerlendirilmesi/tedavi edilmesi ve
+sonrasında oyun alanında kalmasına karar vermiştir.
+Prensip olarak, gecikme, sağlık personelinin sakatlığı değerlendirmek için oyun
+alanında bulunduğu zamandan daha uzun olmamalıdır. Buradaki fark, hakemin
+önceden sağlık personeli ve sakatlanan oyuncunun oyun alanını terk
+etmesini sağlaması yerine, şimdi sağlık personelinin oyun alanını terk etmesi
+ancak oyuncunun kalabilmesine izin vermesidir.
+Sakatlanan oyuncunun gecikmeyi haksız bir şekilde kullanmadığından/uzatma
+uzatmadığından emin olmak için hakemlere aşağıdakiler tavsiye edilmiştir:
+• maçın durumunun ve oyunun tekrar başlatılmasını geciktirmek için herhangi
+olası bir taktiksel nedenin farkında olmaları
+• sakatlanan oyuncuyu eğer tıbbi müdahale gerekiyorsa müdahalenin çabuk
+olması gerektiği konusunda bilgilendirmeleri
+• sağlık personeline (sedye taşıyıcılarına değil) işaret etmeleri ve mümkünse
+çabuk olmaları gerektiğini hatırlatmaları
+215 Oyun Kuralları 2024/25
+Hakem oyunun tekrar başlatılması gerektiğine karar verdiğinde:
+• sağlık personeli oyun alanını terk eder ve oyuncu kalır veya
+• oyuncu daha fazla durum değerlendirmesi/tedavi için oyun alanından ayrılır
+(sedye taşıyıcılarına işaret gerekli olabilir.)
+Genel bir bilgi olarak, ciddi bir sakatlığın olduğu ve/veya bir kafa yaralanması
+değerlendirmesi hariç olmak üzere, oyunun tekrar başlatılması herkesin hazır
+olduğu andan itibaren olmak üzere 20-25 saniyeden fazla geciktirilmemelidir.
+Hakem oyunun durdurulduğu sürenin tamamını ilave süre olarak vermelidir.
+216
+Notlar
+Oyun Kuralları 2024/25 | Notlar 217
+218
+Notlar
+Oyun Kuralları 2024/25 | Notlar 219
+220
+Notlar
+Oyun Kuralları 2024/25 | Notlar 221
+222
+Notlar
+Oyun Kuralları 2024/25 | Notlar 223
+224
+Notlar
+Oyun Kuralları 2024/25 | Notlar 225
+226
+Notlar
+Oyun Kuralları 2024/25 | Notlar 227
+228
+229
+230
