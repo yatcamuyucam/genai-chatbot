@@ -23,7 +23,7 @@ Bu chatbot'un temel amacı, TFF 2024-2025 Futbol Oyun Kuralları kitapçığın�
 ## Veri Seti ve Hazırlanışı
 
 * **Kaynak:** Projenin bilgi tabanı olarak [TFF 2024-2025 Futbol Oyun Kuralları PDF](https://www.tff.org/Resources/TFF/Documents/MHK/2024-2025/oyun-kurallari.pdf)'i kullanılmıştır.
-* **Problem:** PDF'ten `PyMuPDF` gibi araçlarla otomatik metin çıkarma denemelerinde, özellikle şemalar ve tablolar içeren "Kural 11: Ofsayt" gibi bölümlerde metinlerin bozulduğu ve anlamsal bütünlüğün kaybolduğu tespit edilmiştir.
+* **Problem:** PDF'ten `PyMuPDF` gibi araçlarla otomatik metin çıkarma denemelerinde, özellikle şemalar ve tablolar içeren "Kural 1: Oyun Alanı" gibi bölümlerde metinlerin bozulduğu ve anlamsal bütünlüğün kaybolduğu tespit edilmiştir.
 * **Çözüm:** Veri kalitesini ve chatbot'un doğruluğunu garanti altına almak için, PDF'teki metinler manuel olarak temizlenmiş ve `kurallar.txt` adında bir metin dosyası olarak projeye dahil edilmiştir. Uygulama, bu temizlenmiş dosyayı kaynak olarak kullanmaktadır.
 
 ## Geliştirme Süreci ve Metodoloji
