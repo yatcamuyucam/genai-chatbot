@@ -11,7 +11,7 @@ Bu proje, Akbank GenAI Bootcamp kapsamında geliştirilmiş RAG (Retrieval-Augme
 Projenin canlı demosunu ziyaret edin:
 **[https://football-chatbook.streamlit.app/](https://football-chatbook.streamlit.app/)**
 
-<img width="871" height="700" alt="image" src="https://github.com/user-attachments/assets/9af0c130-c334-4b0a-a580-a73370efbac7" />
+<img width="856" height="744" alt="image" src="https://github.com/user-attachments/assets/023a51fd-d84e-46e1-8995-74a35b5bb388" />
 
 
 ---
